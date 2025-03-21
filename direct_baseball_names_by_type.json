@@ -1,0 +1,1692 @@
+{
+  "first_names": [
+    {
+      "name": "Luis",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Juan",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "George",
+      "frequency": 4,
+      "type": "first_name"
+    },
+    {
+      "name": "Horace",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Buzz",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Sam",
+      "frequency": 3,
+      "type": "first_name"
+    },
+    {
+      "name": "Bob",
+      "frequency": 5,
+      "type": "first_name"
+    },
+    {
+      "name": "Bill",
+      "frequency": 6,
+      "type": "first_name"
+    },
+    {
+      "name": "Walter",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Max",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Del",
+      "frequency": 2,
+      "type": "first_name"
+    },
+    {
+      "name": "Sheriff",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Otis",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Frank",
+      "frequency": 3,
+      "type": "first_name"
+    },
+    {
+      "name": "John",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Cuckoo",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Earle",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Jocko",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Alvin",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Pea",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Tod",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Logan",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Eddie",
+      "frequency": 3,
+      "type": "first_name"
+    },
+    {
+      "name": "Hal",
+      "frequency": 2,
+      "type": "first_name"
+    },
+    {
+      "name": "Verdo",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Reuben",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Bibb",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Jim",
+      "frequency": 2,
+      "type": "first_name"
+    },
+    {
+      "name": "Showboat",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Lew",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Happy",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Walt",
+      "frequency": 2,
+      "type": "first_name"
+    },
+    {
+      "name": "Bernie",
+      "frequency": 2,
+      "type": "first_name"
+    },
+    {
+      "name": "Art",
+      "frequency": 2,
+      "type": "first_name"
+    },
+    {
+      "name": "Charlie",
+      "frequency": 3,
+      "type": "first_name"
+    },
+    {
+      "name": "Haddie",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Skinny",
+      "frequency": 2,
+      "type": "first_name"
+    },
+    {
+      "name": "June",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Nelson",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Tom",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Joe",
+      "frequency": 4,
+      "type": "first_name"
+    },
+    {
+      "name": "Jake",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Lafayette",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Fritz",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Al",
+      "frequency": 2,
+      "type": "first_name"
+    },
+    {
+      "name": "Ed",
+      "frequency": 4,
+      "type": "first_name"
+    },
+    {
+      "name": "Trader",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Waite",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Harry",
+      "frequency": 2,
+      "type": "first_name"
+    },
+    {
+      "name": "Augie",
+      "frequency": 2,
+      "type": "first_name"
+    },
+    {
+      "name": "Fred",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Binky",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Percy",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Ike",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Cactus",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Vic",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Ren",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Dutch",
+      "frequency": 2,
+      "type": "first_name"
+    },
+    {
+      "name": "Ted",
+      "frequency": 2,
+      "type": "first_name"
+    },
+    {
+      "name": "Rudy",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Wally",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Bub",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Dud",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Waddy",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Freddie",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Buckshot",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Slim",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Pat",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Herb",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Ski",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Lenny",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Ralph",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Leo",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Ray",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Heinie",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Ernie",
+      "frequency": 2,
+      "type": "first_name"
+    },
+    {
+      "name": "Urbane",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "William",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Lerton",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Pinky",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Nellie",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Stan",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Tink",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Gene",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Chuck",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Karl",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Tripp",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Don",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Gale",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Lil",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Guy",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Lena",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Tommy",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Sloppy",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Specs",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Otto",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Ollie",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Marty",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Allie",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Tony",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Earl",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Clarence",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Jack",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Hoge",
+      "frequency": 1,
+      "type": "first_name"
+    }
+  ],
+  "last_names": [
+    {
+      "name": "Garc\u00eda",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Soto",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Abrams",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Allen",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Arlett",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Barnes",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Barrett",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Bayne",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Beall",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Berman",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Bishop",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Bissonette",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Black",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Blake",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Brannan",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Brazill",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Chapman",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Christensen",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Combs",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Conlan",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Conroy",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Crowder",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Day",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Dennehey",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Dodge",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Drake",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Dyer",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Elliott",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Elmore",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Ewing",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Falk",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Faulkner",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Fisher",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Fonseca",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Foreman",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "French",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Friberg",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Gardiner",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Gibson",
+      "frequency": 2,
+      "type": "last_name"
+    },
+    {
+      "name": "Gilham",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Gill",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Graham",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Greene",
+      "frequency": 2,
+      "type": "last_name"
+    },
+    {
+      "name": "Gulley",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Hauser",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Hehl",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Henderson",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Henion",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Henrich",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Hermann",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Hock",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Holley",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Horne",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Hoyt",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Hulihan",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Hunnefield",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Huntzinger",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Johns",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Johnson",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Johnston",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Jones",
+      "frequency": 2,
+      "type": "last_name"
+    },
+    {
+      "name": "Kahdot",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Keck",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Keen",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Kelliher",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Kelly",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Kemner",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Kiefer",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Kinsella",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Kleinhans",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Kneisch",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Kopf",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Kuhn",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Lawrence",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Lee",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Lindsey",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Lundgren",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Macphee",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Maguire",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "May",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "McCurdy",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "McGee",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "McGrew",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "McNulty",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "McQuaid",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Melillo",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Metz",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Miller",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Moon",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Moore",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Morehart",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Morris",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Mueller",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Munson",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Niebergall",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Niehaus",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "O'Neal",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Padgett",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Pick",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Pickering",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Pierson",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Pinto",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Pipgras",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Pittenger",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Pott",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Rees",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Regan",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Reinhart",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Rhyne",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Rice",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Riviere",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Robertson",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Root",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Rowland",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Schnell",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Shaute",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Sigman",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Smith",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Songer",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Staley",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Stoner",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Stueland",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Sturdy",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Styles",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Swentor",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Thomas",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Thurston",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Toporcer",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Ulrich",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Vargus",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Vogel",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Voigt",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Walker",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Watt",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Welzer",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Whitehill",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Wingfield",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Winters",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Wisner",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Workman",
+      "frequency": 1,
+      "type": "last_name"
+    }
+  ],
+  "nicknames": [
+    {
+      "name": "Soto Pacheco",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Pug",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Buzz or The Babe Ruth of the Minor Leagues",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Sam",
+      "frequency": 3,
+      "type": "nickname"
+    },
+    {
+      "name": "Bob or Jumbo",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Beverly",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Bob",
+      "frequency": 3,
+      "type": "nickname"
+    },
+    {
+      "name": "Camera Eye",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Del",
+      "frequency": 2,
+      "type": "nickname"
+    },
+    {
+      "name": "Jigger",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Sheriff",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Cuckoo or Seacap",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "The Kentucky Colonel",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Jocko",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Pep",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "General",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Pea Ridge",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Tod",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "L.G.",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Eddie",
+      "frequency": 3,
+      "type": "nickname"
+    },
+    {
+      "name": "Hal",
+      "frequency": 2,
+      "type": "nickname"
+    },
+    {
+      "name": "Ellie",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Jockey",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Lefty",
+      "frequency": 4,
+      "type": "nickname"
+    },
+    {
+      "name": "Lew",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Happy",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Fitz or The Deer or Walt",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Bernie",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Art",
+      "frequency": 2,
+      "type": "nickname"
+    },
+    {
+      "name": "Charlie",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Skinny",
+      "frequency": 2,
+      "type": "nickname"
+    },
+    {
+      "name": "June",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Tom",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Joe or Unser Choe",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Jake",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Barnyard or Bernie",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Fritz",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Al",
+      "frequency": 2,
+      "type": "nickname"
+    },
+    {
+      "name": "Ed",
+      "frequency": 3,
+      "type": "nickname"
+    },
+    {
+      "name": "Sonny",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Schoolboy",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Bill or Wild Bill",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Shakes",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Augie or Lefty",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Fred",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Chief or Ike",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Frank or Yucca",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Dutch",
+      "frequency": 2,
+      "type": "nickname"
+    },
+    {
+      "name": "Harlem Joe",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Red",
+      "frequency": 2,
+      "type": "nickname"
+    },
+    {
+      "name": "Ted",
+      "frequency": 2,
+      "type": "nickname"
+    },
+    {
+      "name": "Rudy",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Wally",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Dud",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Jim",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Waddy",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Freddie",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Hank",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Frank",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Slim",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Pat",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Herb",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Ski or Spinach",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Lenny",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Moose",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Ray",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Big Ed",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Heinie",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Joe",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Nig",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Pick",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "The Danish Viking",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Pinky",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Lefty or Nellie",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Nellie",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Bill",
+      "frequency": 2,
+      "type": "nickname"
+    },
+    {
+      "name": "Tink",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Gene",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Charlie or Chinski",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Chuck",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Kansas City Kid",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Don",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Augie",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Tommy",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Sloppy",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Specs",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Ode or Ollie",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Buddy",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Allie",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Tony",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Jack",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Hoge",
+      "frequency": 1,
+      "type": "nickname"
+    }
+  ],
+  "years_collected": [
+    1899
+  ],
+  "total_players": 143
+}

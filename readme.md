@@ -1,75 +1,79 @@
-Funny Name Generator
-A simple Python-based tool to generate amusing names by combining elements from curated historic and fictional sources, enhanced with the Datamuse API.
-Overview
-This project creates a name generator that produces funny, unique names by drawing from a variety of curated sources and the Datamuse API. The generator will combine different name elements in unexpected ways to create humorous results.
-Requirements
-Ability to store and manage curated name elements from various sources
-Integration with Datamuse API to expand word collection
-Functionality to combine name components in different patterns
-Simple interface to generate new names
-Option to save favorite generated names
-Ability to add new name elements to the collection
-Tech Stack
-Language: Python (3.8+ recommended)
-Data Storage: JSON files (simpler for beginners)
-External API: Datamuse API for word discovery and expansion
-Interface:
-Command-line interface (initial version)
-Optional web interface using Flask (for future development)
-Dependencies:
-requests library for API calls
-json library for data storage
-random library for name generation
-Milestones
-Milestone 1: Setup & Initial Data Collection
-Install Python and necessary libraries
-Learn basic Python syntax and file handling
-Research and collect initial name elements from historic and fictional sources
-Create basic JSON structure for storing name elements
-Make first connection to Datamuse API
-Milestone 2: Data Enhancement & Organization
-Implement functions to query Datamuse API for related words
-Organize collected names into categories (e.g., first names, surnames, titles, adjectives)
-Create functions to read/write from JSON data files
-Document sources and inspiration
-Build functions to add new words to your collection
-Milestone 3: Core Generator Logic
-Design the algorithm for combining name elements
-Implement basic name generation functionality
-Create methods for different name patterns (e.g., "Adjective + Historic Name", "Fictional Title + Common Surname")
-Add randomization and weighting to make results more interesting
-Test generation logic with your data
-Milestone 4: User Interface Development
-Create a simple command-line interface for generating names
-Add options for different generation styles
-Implement ability to save favorite names to a separate file
-Add basic error handling and user feedback
-Document how to use the program
-Milestone 5: Refinement & Extension
-Test the generator with different datasets
-Optimize generation algorithms based on testing
-Add more advanced features (like themed name generation)
-Consider developing a simple web interface using Flask (optional)
-Create documentation for continued development
-Getting Started
-Install Python 3.8 or higher from python.org
-Install required packages:
-text
-Apply to Untitled-2
-   pip install requests
-Clone or download this repository
-Run the main script (to be developed):
-text
-Apply to Untitled-2
-   python name_generator.py
-Using the Datamuse API
-The project leverages the Datamuse API to find related words, rhymes, and synonyms to enhance our name collection. No API key is required, making it easy for beginners to use.Example API uses:
-Finding words related to "wizard"
-Discovering adjectives commonly used with "knight"
-Finding rhymes for "dragon"
-Contributing
-Contributions to expand the name database or improve functionality are welcome!
-Resources for Beginners
-Python Official Tutorial
-Datamuse API Documentation
-Working with JSON in Python
+# Baseball Player Data Collection
+
+This project collects baseball player data from [Baseball Almanac](https://www.baseball-almanac.com/) for the years 1845-1920. The collected data includes player names, nicknames, birth/death dates, and career information.
+
+## Scripts Overview
+
+The project includes several scripts for data collection:
+
+- `simplified_scraper.py`: Core scraping functions
+- `simplified_small_test.py`: Collects a small sample (10 players per year) for testing
+- `collect_full_dataset.py`: Main script for collecting the full dataset with flexible options
+
+## Data Collection Process
+
+The `collect_full_dataset.py` script offers several options for collecting data:
+
+```
+python collect_full_dataset.py [--start YEAR] [--end YEAR] [--delay SECONDS] [--batch N]
+```
+
+### Command Line Options
+
+- `--start` - Starting year (default: 1845)
+- `--end` - Ending year (default: 1920)
+- `--delay` - Delay between processing years in seconds (default: 10)
+- `--batch` - Process years in batches of N years (optional)
+
+### Examples
+
+**Collect a small range for testing:**
+```
+python collect_full_dataset.py --start 1845 --end 1847 --delay 5
+```
+
+**Collect data in batches of 10 years:**
+```
+python collect_full_dataset.py --batch 10 --delay 8
+```
+
+**Collect a specific decade:**
+```
+python collect_full_dataset.py --start 1890 --end 1899
+```
+
+## Features
+
+- **Progress Tracking**: The script automatically saves progress after each year, allowing you to resume collection if interrupted.
+- **Individual Files**: Each year's data is saved separately in addition to the combined dataset.
+- **Statistics**: The script provides statistics on unique names, nicknames, and total players collected.
+- **Time Estimation**: During collection, estimated completion times are displayed.
+
+## Output Files
+
+- `baseball_data/full_players_YYYY.json` - Individual year data files
+- `baseball_data/full_all_players_current.json` - Combined dataset (updated during collection)
+- `baseball_data/baseball_dataset_START_END.json` - Range-specific datasets
+- `baseball_data/baseball_dataset_complete.json` - Final complete dataset (when all years are processed)
+
+## Data Structure
+
+Each player record contains:
+- Full name
+- First name
+- Last name
+- Nickname (if available)
+- Birth and death dates
+- Career span (debut and final years)
+- Birth year
+- Additional details from player pages
+
+## Notes
+
+- The collection process includes appropriate delays to avoid overwhelming the server.
+- For testing purposes, use shorter ranges and smaller datasets before starting the full collection.
+- The full dataset collection (1845-1920) may take several hours to complete.
+
+## Name Generator
+
+Once data is collected, you can use the baseball player names to generate funny or historically-inspired baseball names using the `baseball_name_generator.py` script.

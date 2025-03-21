@@ -1,0 +1,41 @@
+[
+  {
+    "full_name": "Player",
+    "birth_date": "Date of Birth",
+    "death_date": "Died On",
+    "debut_year": "Debut Year",
+    "final_year": "Final Year",
+    "source": "Baseball Almanac",
+    "birth_year": 1899,
+    "player_url": "?order=LastName, FirstName&y=1899",
+    "first_name": "Player",
+    "last_name": "",
+    "nickname": ""
+  },
+  {
+    "full_name": "George\u00a0Abrams",
+    "birth_date": "11-09-1899",
+    "death_date": "12-05-1986",
+    "debut_year": "1923",
+    "final_year": "1923",
+    "source": "Baseball Almanac",
+    "birth_year": 1899,
+    "player_url": "https://www.baseball-almanac.com/players/player.php?p=abramge01",
+    "first_name": "George",
+    "last_name": "Abrams",
+    "nickname": "None"
+  },
+  {
+    "full_name": "Horace\u00a0Allen",
+    "birth_date": "06-11-1899",
+    "death_date": "07-05-1981",
+    "debut_year": "1919",
+    "final_year": "1919",
+    "source": "Baseball Almanac",
+    "birth_year": 1899,
+    "player_url": "https://www.baseball-almanac.com/players/player.php?p=allenho01",
+    "first_name": "Horace",
+    "last_name": "Allen",
+    "nickname": "Pug"
+  }
+]

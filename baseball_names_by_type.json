@@ -1,0 +1,43 @@
+{
+  "first_names": [
+    {
+      "name": "Player",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "George",
+      "frequency": 1,
+      "type": "first_name"
+    },
+    {
+      "name": "Horace",
+      "frequency": 1,
+      "type": "first_name"
+    }
+  ],
+  "last_names": [
+    {
+      "name": "Abrams",
+      "frequency": 1,
+      "type": "last_name"
+    },
+    {
+      "name": "Allen",
+      "frequency": 1,
+      "type": "last_name"
+    }
+  ],
+  "nicknames": [
+    {
+      "name": "None",
+      "frequency": 1,
+      "type": "nickname"
+    },
+    {
+      "name": "Pug",
+      "frequency": 1,
+      "type": "nickname"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+full_name,birth_date,death_date,debut_year,final_year,source,birth_year,player_url,first_name,last_name,nickname
+Player,Date of Birth,Died On,Debut Year,Final Year,Baseball Almanac,1899,"?order=LastName, FirstName&y=1899",Player,,
+George Abrams,11-09-1899,12-05-1986,1923,1923,Baseball Almanac,1899,https://www.baseball-almanac.com/players/player.php?p=abramge01,George,Abrams,None
+Horace Allen,06-11-1899,07-05-1981,1919,1919,Baseball Almanac,1899,https://www.baseball-almanac.com/players/player.php?p=allenho01,Horace,Allen,Pug

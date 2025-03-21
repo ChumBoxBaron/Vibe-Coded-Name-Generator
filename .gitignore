@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Raw data files
+census_data/raw_*.txt
+baseball_data/*.html
+
+# Keep JSON and CSV outputs
+!census_data/final/*.json
+!census_data/final/*.csv
+
+# Logs and temporary files
+*.log
+*.tmp 
