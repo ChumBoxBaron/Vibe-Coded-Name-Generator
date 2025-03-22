@@ -1,4 +1,4 @@
-# Baseball Player Data Collection
+﻿# Baseball Player Data Collection
 
 This project collects baseball player data from [Baseball Almanac](https://www.baseball-almanac.com/) for the years 1845-1920. The collected data includes player names, nicknames, birth/death dates, and career information.
 
