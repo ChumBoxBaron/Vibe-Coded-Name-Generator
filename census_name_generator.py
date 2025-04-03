@@ -62,6 +62,10 @@ class CensusNameGenerator:
         first = random.choice(self.weighted_first_names)
         last = random.choice(self.weighted_last_names)
         
+        # Properly capitalize the names
+        first = first.capitalize()
+        last = last.capitalize()
+        
         return f"{first} {last}"
     
     def generate_unique_name(self):
@@ -93,6 +97,10 @@ class CensusNameGenerator:
         else:
             # If first name is not common, we can use any last name
             last_name_candidate = random.choice(self.weighted_last_names)
+        
+        # Properly capitalize the names
+        first_name_candidate = first_name_candidate.capitalize()
+        last_name_candidate = last_name_candidate.capitalize()
         
         return f"{first_name_candidate} {last_name_candidate}"
     
@@ -199,6 +207,10 @@ class CensusNameGenerator:
         else:
             # Fallback if tier is empty
             last_name_candidate = random.choice([name for name, _ in sorted_last_names[int(last_name_count * 0.6):]])
+        
+        # Properly capitalize the names
+        first_name_candidate = first_name_candidate.capitalize()
+        last_name_candidate = last_name_candidate.capitalize()
         
         return f"{first_name_candidate} {last_name_candidate}"
     

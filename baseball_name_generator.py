@@ -21,6 +21,7 @@ class BaseballNameGenerator:
         self.weighted_first_names = []
         self.weighted_last_names = []
         self.weighted_nicknames = []
+        self.nickname_frequency = 0.35  # Custom ratio for better name variety
         
         # Make sure we have data
         self.load_data()
@@ -83,6 +84,9 @@ class BaseballNameGenerator:
             last_counter = Counter()
             nickname_counter = Counter()
             
+            total_players = len(players)
+            players_with_nickname = 0
+            
             for player in players:
                 # First names
                 first = player.get("first_name", "")
@@ -99,6 +103,7 @@ class BaseballNameGenerator:
                 # Nicknames
                 nick = player.get("nickname", "")
                 if nick and nick != "None" and nick.lower() != "none":
+                    players_with_nickname += 1
                     cleaned_nick = self.clean_name(nick)
                     if cleaned_nick:
                         # Some nicknames have "or" in them, split those
@@ -110,6 +115,10 @@ class BaseballNameGenerator:
                                     nickname_counter[cleaned_part] += 1
                         else:
                             nickname_counter[cleaned_nick] += 1
+            
+            # Calculate actual nickname frequency in the dataset (for reference only)
+            actual_frequency = players_with_nickname / total_players if total_players > 0 else 0
+            print(f"Actual nickname frequency in dataset: {actual_frequency:.2%} (using {self.nickname_frequency:.2%} for generation)")
             
             # Convert to lists and sort by frequency
             self.first_names = sorted([(name, count) for name, count in first_counter.items()], 
@@ -157,7 +166,7 @@ class BaseballNameGenerator:
         first = random.choice(self.weighted_first_names)
         last = random.choice(self.weighted_last_names)
         
-        if use_nickname and self.weighted_nicknames and random.random() < 0.7:  # 70% chance to use nickname
+        if use_nickname and self.weighted_nicknames and random.random() < self.nickname_frequency:  # Use actual nickname frequency
             nickname = random.choice(self.weighted_nicknames)
             return f"{first} \"{nickname}\" {last}"
         else:
@@ -174,7 +183,36 @@ class BaseballNameGenerator:
         Returns:
             list: List of generated names
         """
-        return [self.generate_name(use_nickname) for _ in range(count)]
+        if not use_nickname:
+            return [self.generate_name(False) for _ in range(count)]
+        
+        # Keep track of used nicknames to avoid duplicates in the set
+        used_nicknames = set()
+        result = []
+        
+        for _ in range(count):
+            # For nickname generation
+            if use_nickname and self.weighted_nicknames and random.random() < self.nickname_frequency:  # Use actual nickname frequency
+                # Get a nickname that hasn't been used yet, if possible
+                available_nicknames = [nick for nick in self.weighted_nicknames if nick not in used_nicknames]
+                
+                # If we've used all nicknames or there are very few left, allow reuse to maintain diversity
+                if len(available_nicknames) < 3:
+                    nickname = random.choice(self.weighted_nicknames)
+                else:
+                    nickname = random.choice(available_nicknames)
+                    used_nicknames.add(nickname)
+                
+                first = random.choice(self.weighted_first_names)
+                last = random.choice(self.weighted_last_names)
+                result.append(f"{first} \"{nickname}\" {last}")
+            else:
+                # No nickname
+                first = random.choice(self.weighted_first_names)
+                last = random.choice(self.weighted_last_names)
+                result.append(f"{first} {last}")
+        
+        return result
     
     def search_nicknames(self, query):
         """
