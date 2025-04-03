@@ -132,7 +132,7 @@ This advanced generator creates distinctive yet plausible names derived from cen
 
 ### Funny Names Generator
 
-Our newest addition is the Funny Names generator that creates names specifically designed to make children laugh. Here are some sample outputs:
+Our newest addition is the Funny Names generator that creates names with crude humor and double entendres. These names feature humorous word patterns derived from census data. Here are some sample outputs:
 
 ```
 1. WOODY JOHNSON
@@ -185,9 +185,9 @@ This advanced generator uses a sophisticated weighted probability system with mu
 This produces names that are significantly more unique while still drawing from real census data, resulting in distinctive yet plausible names.
 
 #### 4. Funny Names Generator
-The Funny Names generator uses two distinct approaches to create child-friendly humorous names:
+The Funny Names generator uses two distinct approaches to create humorous names:
 
-- **Silly Sound Names**: This approach identifies and combines names with inherently funny sound patterns that children find amusing:
+- **Silly Sound Names**: This approach identifies and combines names with inherently funny sound patterns:
   - Names with specific letter combinations (oo, ee, zz, etc.)
   - Repeating syllables and rhyming elements 
   - Names that sound like sound effects (zoom, bang, pop, etc.)
@@ -195,15 +195,15 @@ The Funny Names generator uses two distinct approaches to create child-friendly 
   
   The algorithm uses regular expression pattern matching against the census database to identify names with these qualities, then strategically pairs them for maximum humor effect, often matching similar sound patterns between first and last names.
 
-- **Crude/Bathroom Humor Names**: This kid-friendly approach looks for:
-  - Names with bathroom humor connotations
+- **Crude Humor Names**: This approach looks for:
+  - Names with crude or suggestive connotations
   - Names that sound like body parts or functions
-  - Innuendo-laden combinations that fly over kids' heads but make them laugh
-  - Names with subtle crude suggestions
+  - Innuendo-laden combinations with double entendres
+  - Names with suggestive patterns
 
   This algorithm maintains a curated set of "funny" first and last names and also uses pattern matching to identify names in the census database that match crude humor patterns.
 
-Both approaches are implemented in a single generator that alternates between them, providing variety while maintaining age-appropriate humor that specifically appeals to children.
+Both approaches are implemented in a single generator that alternates between them, providing variety in the humorous names produced.
 
 ## Web Interface Features
 
