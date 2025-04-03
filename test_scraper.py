@@ -1,8 +1,17 @@
 import os
 import sys
 from baseball_batch_scraper import scrape_year, ensure_output_dir, simple_name_split, scrape_player_detail
+from simplified_scraper import scrape_player_detail
 
 # Quick test script to verify the scraper functionality on a single year
+
+def main():
+    print("Testing updated scrape_player_detail function...")
+    # Test with Lip Pike's player page
+    result = scrape_player_detail('https://www.baseball-almanac.com/players/player.php?p=pikeli01')
+    print("\nResult:")
+    for key, value in result.items():
+        print(f"{key}: {value}")
 
 if __name__ == "__main__":
     # Create the output directory
@@ -33,4 +42,5 @@ if __name__ == "__main__":
         print(f"Failed to scrape any players from year {test_year}")
         sys.exit(1)
         
-    print("Test completed successfully!") 
+    print("Test completed successfully!")
+    main() 

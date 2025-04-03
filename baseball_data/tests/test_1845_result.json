@@ -1,0 +1,137 @@
+{
+  "meta": {
+    "collection_date": "2025-03-21",
+    "years_included": [
+      1845
+    ],
+    "total_players": 5,
+    "version": "test_v2"
+  },
+  "name_lists": {
+    "first_names": {
+      "Edgar": 1,
+      "Robert": 1,
+      "Nathaniel": 1,
+      "Everett": 1,
+      "Lipman": 1
+    },
+    "last_names": {
+      "Cuthbert": 1,
+      "Ferguson": 1,
+      "Hicks": 1,
+      "Mills": 1,
+      "Pike": 1
+    },
+    "nicknames": {
+      "Ned": 1,
+      "Death to Flying Things": 1,
+      "Old Fergy": 1,
+      "Nat": 1,
+      "The Iron Batter": 1
+    }
+  },
+  "players": [
+    {
+      "full_name": "Ned\u00a0Cuthbert",
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=cuthbne01",
+      "player_id": "cuthbne01",
+      "birth_year": 1845,
+      "source": "Baseball Almanac",
+      "birth_date": "06-20-1845",
+      "death_date": "02-06-1905",
+      "debut_year": "1876",
+      "final_year": "1884",
+      "first_name": "Edgar",
+      "last_name": "Cuthbert",
+      "birth_name": "Edgar Edward Cuthbert",
+      "birth_first_name": "Edgar",
+      "birth_middle_name": "Edward",
+      "birth_last_name": "Cuthbert",
+      "nickname": "Ned",
+      "nicknames": [
+        "Ned"
+      ]
+    },
+    {
+      "full_name": "Bob\u00a0Ferguson",
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=fergubo01",
+      "player_id": "fergubo01",
+      "birth_year": 1845,
+      "source": "Baseball Almanac",
+      "birth_date": "01-31-1845",
+      "death_date": "05-03-1894",
+      "debut_year": "1876",
+      "final_year": "1884",
+      "first_name": "Robert",
+      "last_name": "Ferguson",
+      "birth_name": "Robert Vavasour Ferguson",
+      "birth_first_name": "Robert",
+      "birth_middle_name": "Vavasour",
+      "birth_last_name": "Ferguson",
+      "nickname": "Death to Flying Things or Old Fergy",
+      "nicknames": [
+        "Death to Flying Things",
+        "Old Fergy"
+      ]
+    },
+    {
+      "full_name": "Nat\u00a0Hicks",
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=hicksna01",
+      "player_id": "hicksna01",
+      "birth_year": 1845,
+      "source": "Baseball Almanac",
+      "birth_date": "04-19-1845",
+      "death_date": "04-21-1907",
+      "debut_year": "1876",
+      "final_year": "1877",
+      "first_name": "Nathaniel",
+      "last_name": "Hicks",
+      "birth_name": "Nathaniel Woodhull Hicks",
+      "birth_first_name": "Nathaniel",
+      "birth_middle_name": "Woodhull",
+      "birth_last_name": "Hicks",
+      "nickname": "Nat",
+      "nicknames": [
+        "Nat"
+      ]
+    },
+    {
+      "full_name": "Everett\u00a0Mills",
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=millsev01",
+      "player_id": "millsev01",
+      "birth_year": 1845,
+      "source": "Baseball Almanac",
+      "birth_date": "01-20-1845",
+      "death_date": "06-22-1908",
+      "debut_year": "1876",
+      "final_year": "1876",
+      "first_name": "Everett",
+      "last_name": "Mills",
+      "birth_name": "Everett Mills",
+      "birth_first_name": "Everett",
+      "birth_last_name": "Mills",
+      "nicknames": []
+    },
+    {
+      "full_name": "Lip\u00a0Pike",
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=pikeli01",
+      "player_id": "pikeli01",
+      "birth_year": 1845,
+      "source": "Baseball Almanac",
+      "birth_date": "05-25-1845",
+      "death_date": "10-10-1893",
+      "debut_year": "1876",
+      "final_year": "1887",
+      "first_name": "Lipman",
+      "last_name": "Pike",
+      "birth_name": "Lipman Emanuel Pike",
+      "birth_first_name": "Lipman",
+      "birth_middle_name": "Emanuel",
+      "birth_last_name": "Pike",
+      "nickname": "The Iron Batter",
+      "nicknames": [
+        "The Iron Batter"
+      ]
+    }
+  ]
+}

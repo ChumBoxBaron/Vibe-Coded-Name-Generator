@@ -1,0 +1,702 @@
+[
+  {
+    "surname": "SMITH",
+    "frequency": 1.006,
+    "cumulative_frequency": 1.006,
+    "rank": 1,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "JOHNSON",
+    "frequency": 0.81,
+    "cumulative_frequency": 1.816,
+    "rank": 2,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "WILLIAMS",
+    "frequency": 0.699,
+    "cumulative_frequency": 2.515,
+    "rank": 3,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "JONES",
+    "frequency": 0.621,
+    "cumulative_frequency": 3.136,
+    "rank": 4,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "BROWN",
+    "frequency": 0.621,
+    "cumulative_frequency": 3.757,
+    "rank": 5,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "DAVIS",
+    "frequency": 0.48,
+    "cumulative_frequency": 4.237,
+    "rank": 6,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "MILLER",
+    "frequency": 0.424,
+    "cumulative_frequency": 4.66,
+    "rank": 7,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "WILSON",
+    "frequency": 0.339,
+    "cumulative_frequency": 5.0,
+    "rank": 8,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "MOORE",
+    "frequency": 0.312,
+    "cumulative_frequency": 5.312,
+    "rank": 9,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "TAYLOR",
+    "frequency": 0.311,
+    "cumulative_frequency": 5.623,
+    "rank": 10,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "ANDERSON",
+    "frequency": 0.311,
+    "cumulative_frequency": 5.934,
+    "rank": 11,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "THOMAS",
+    "frequency": 0.311,
+    "cumulative_frequency": 6.245,
+    "rank": 12,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "JACKSON",
+    "frequency": 0.31,
+    "cumulative_frequency": 6.554,
+    "rank": 13,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "WHITE",
+    "frequency": 0.279,
+    "cumulative_frequency": 6.834,
+    "rank": 14,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "HARRIS",
+    "frequency": 0.275,
+    "cumulative_frequency": 7.109,
+    "rank": 15,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "MARTIN",
+    "frequency": 0.273,
+    "cumulative_frequency": 7.382,
+    "rank": 16,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "THOMPSON",
+    "frequency": 0.269,
+    "cumulative_frequency": 7.651,
+    "rank": 17,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "GARCIA",
+    "frequency": 0.254,
+    "cumulative_frequency": 7.905,
+    "rank": 18,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "MARTINEZ",
+    "frequency": 0.234,
+    "cumulative_frequency": 8.14,
+    "rank": 19,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "ROBINSON",
+    "frequency": 0.233,
+    "cumulative_frequency": 8.372,
+    "rank": 20,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "CLARK",
+    "frequency": 0.231,
+    "cumulative_frequency": 8.603,
+    "rank": 21,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "RODRIGUEZ",
+    "frequency": 0.229,
+    "cumulative_frequency": 8.832,
+    "rank": 22,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "LEWIS",
+    "frequency": 0.226,
+    "cumulative_frequency": 9.058,
+    "rank": 23,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "LEE",
+    "frequency": 0.22,
+    "cumulative_frequency": 9.278,
+    "rank": 24,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "WALKER",
+    "frequency": 0.219,
+    "cumulative_frequency": 9.497,
+    "rank": 25,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "HALL",
+    "frequency": 0.2,
+    "cumulative_frequency": 9.698,
+    "rank": 26,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "ALLEN",
+    "frequency": 0.199,
+    "cumulative_frequency": 9.897,
+    "rank": 27,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "YOUNG",
+    "frequency": 0.193,
+    "cumulative_frequency": 10.09,
+    "rank": 28,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "HERNANDEZ",
+    "frequency": 0.192,
+    "cumulative_frequency": 10.282,
+    "rank": 29,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "KING",
+    "frequency": 0.19,
+    "cumulative_frequency": 10.472,
+    "rank": 30,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "WRIGHT",
+    "frequency": 0.189,
+    "cumulative_frequency": 10.662,
+    "rank": 31,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "LOPEZ",
+    "frequency": 0.187,
+    "cumulative_frequency": 10.849,
+    "rank": 32,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "HILL",
+    "frequency": 0.187,
+    "cumulative_frequency": 11.035,
+    "rank": 33,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "SCOTT",
+    "frequency": 0.185,
+    "cumulative_frequency": 11.22,
+    "rank": 34,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "GREEN",
+    "frequency": 0.183,
+    "cumulative_frequency": 11.403,
+    "rank": 35,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "ADAMS",
+    "frequency": 0.174,
+    "cumulative_frequency": 11.577,
+    "rank": 36,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "BAKER",
+    "frequency": 0.171,
+    "cumulative_frequency": 11.748,
+    "rank": 37,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "GONZALEZ",
+    "frequency": 0.166,
+    "cumulative_frequency": 11.915,
+    "rank": 38,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "NELSON",
+    "frequency": 0.162,
+    "cumulative_frequency": 12.077,
+    "rank": 39,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "CARTER",
+    "frequency": 0.162,
+    "cumulative_frequency": 12.239,
+    "rank": 40,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "MITCHELL",
+    "frequency": 0.16,
+    "cumulative_frequency": 12.399,
+    "rank": 41,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "PEREZ",
+    "frequency": 0.155,
+    "cumulative_frequency": 12.554,
+    "rank": 42,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "ROBERTS",
+    "frequency": 0.153,
+    "cumulative_frequency": 12.707,
+    "rank": 43,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "TURNER",
+    "frequency": 0.152,
+    "cumulative_frequency": 12.859,
+    "rank": 44,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "PHILLIPS",
+    "frequency": 0.149,
+    "cumulative_frequency": 13.008,
+    "rank": 45,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "CAMPBELL",
+    "frequency": 0.149,
+    "cumulative_frequency": 13.157,
+    "rank": 46,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "PARKER",
+    "frequency": 0.146,
+    "cumulative_frequency": 13.302,
+    "rank": 47,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "EVANS",
+    "frequency": 0.141,
+    "cumulative_frequency": 13.443,
+    "rank": 48,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "EDWARDS",
+    "frequency": 0.137,
+    "cumulative_frequency": 13.58,
+    "rank": 49,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "COLLINS",
+    "frequency": 0.134,
+    "cumulative_frequency": 13.714,
+    "rank": 50,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "STEWART",
+    "frequency": 0.133,
+    "cumulative_frequency": 13.847,
+    "rank": 51,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "SANCHEZ",
+    "frequency": 0.13,
+    "cumulative_frequency": 13.977,
+    "rank": 52,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "MORRIS",
+    "frequency": 0.125,
+    "cumulative_frequency": 14.102,
+    "rank": 53,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "ROGERS",
+    "frequency": 0.123,
+    "cumulative_frequency": 14.225,
+    "rank": 54,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "REED",
+    "frequency": 0.122,
+    "cumulative_frequency": 14.347,
+    "rank": 55,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "COOK",
+    "frequency": 0.12,
+    "cumulative_frequency": 14.467,
+    "rank": 56,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "MORGAN",
+    "frequency": 0.118,
+    "cumulative_frequency": 14.585,
+    "rank": 57,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "BELL",
+    "frequency": 0.117,
+    "cumulative_frequency": 14.702,
+    "rank": 58,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "MURPHY",
+    "frequency": 0.117,
+    "cumulative_frequency": 14.819,
+    "rank": 59,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "BAILEY",
+    "frequency": 0.115,
+    "cumulative_frequency": 14.934,
+    "rank": 60,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "RIVERA",
+    "frequency": 0.113,
+    "cumulative_frequency": 15.047,
+    "rank": 61,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "COOPER",
+    "frequency": 0.113,
+    "cumulative_frequency": 15.16,
+    "rank": 62,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "RICHARDSON",
+    "frequency": 0.112,
+    "cumulative_frequency": 15.272,
+    "rank": 63,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "COX",
+    "frequency": 0.11,
+    "cumulative_frequency": 15.382,
+    "rank": 64,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "HOWARD",
+    "frequency": 0.11,
+    "cumulative_frequency": 15.492,
+    "rank": 65,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "WARD",
+    "frequency": 0.108,
+    "cumulative_frequency": 15.6,
+    "rank": 66,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "TORRES",
+    "frequency": 0.108,
+    "cumulative_frequency": 15.708,
+    "rank": 67,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "PETERSON",
+    "frequency": 0.107,
+    "cumulative_frequency": 15.815,
+    "rank": 68,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "GRAY",
+    "frequency": 0.106,
+    "cumulative_frequency": 15.921,
+    "rank": 69,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "RAMIREZ",
+    "frequency": 0.105,
+    "cumulative_frequency": 16.026,
+    "rank": 70,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "JAMES",
+    "frequency": 0.105,
+    "cumulative_frequency": 16.131,
+    "rank": 71,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "WATSON",
+    "frequency": 0.103,
+    "cumulative_frequency": 16.233,
+    "rank": 72,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "BROOKS",
+    "frequency": 0.103,
+    "cumulative_frequency": 16.336,
+    "rank": 73,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "KELLY",
+    "frequency": 0.102,
+    "cumulative_frequency": 16.438,
+    "rank": 74,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "SANDERS",
+    "frequency": 0.1,
+    "cumulative_frequency": 16.537,
+    "rank": 75,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "PRICE",
+    "frequency": 0.099,
+    "cumulative_frequency": 16.637,
+    "rank": 76,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "BENNETT",
+    "frequency": 0.099,
+    "cumulative_frequency": 16.736,
+    "rank": 77,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "WOOD",
+    "frequency": 0.098,
+    "cumulative_frequency": 16.834,
+    "rank": 78,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "BARNES",
+    "frequency": 0.097,
+    "cumulative_frequency": 16.931,
+    "rank": 79,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "ROSS",
+    "frequency": 0.096,
+    "cumulative_frequency": 17.027,
+    "rank": 80,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "HENDERSON",
+    "frequency": 0.095,
+    "cumulative_frequency": 17.122,
+    "rank": 81,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "COLEMAN",
+    "frequency": 0.095,
+    "cumulative_frequency": 17.217,
+    "rank": 82,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "JENKINS",
+    "frequency": 0.095,
+    "cumulative_frequency": 17.312,
+    "rank": 83,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "PERRY",
+    "frequency": 0.094,
+    "cumulative_frequency": 17.406,
+    "rank": 84,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "POWELL",
+    "frequency": 0.093,
+    "cumulative_frequency": 17.499,
+    "rank": 85,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "LONG",
+    "frequency": 0.092,
+    "cumulative_frequency": 17.591,
+    "rank": 86,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "PATTERSON",
+    "frequency": 0.092,
+    "cumulative_frequency": 17.684,
+    "rank": 87,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "HUGHES",
+    "frequency": 0.092,
+    "cumulative_frequency": 17.776,
+    "rank": 88,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "FLORES",
+    "frequency": 0.092,
+    "cumulative_frequency": 17.868,
+    "rank": 89,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "WASHINGTON",
+    "frequency": 0.092,
+    "cumulative_frequency": 17.959,
+    "rank": 90,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "BUTLER",
+    "frequency": 0.091,
+    "cumulative_frequency": 18.05,
+    "rank": 91,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "SIMMONS",
+    "frequency": 0.091,
+    "cumulative_frequency": 18.141,
+    "rank": 92,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "FOSTER",
+    "frequency": 0.091,
+    "cumulative_frequency": 18.231,
+    "rank": 93,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "GONZALES",
+    "frequency": 0.087,
+    "cumulative_frequency": 18.318,
+    "rank": 94,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "BRYANT",
+    "frequency": 0.087,
+    "cumulative_frequency": 18.405,
+    "rank": 95,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "ALEXANDER",
+    "frequency": 0.085,
+    "cumulative_frequency": 18.49,
+    "rank": 96,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "RUSSELL",
+    "frequency": 0.085,
+    "cumulative_frequency": 18.574,
+    "rank": 97,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "GRIFFIN",
+    "frequency": 0.084,
+    "cumulative_frequency": 18.659,
+    "rank": 98,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "DIAZ",
+    "frequency": 0.084,
+    "cumulative_frequency": 18.742,
+    "rank": 99,
+    "source": "US Census 1990"
+  },
+  {
+    "surname": "HAYES",
+    "frequency": 0.083,
+    "cumulative_frequency": 18.825,
+    "rank": 100,
+    "source": "US Census 1990"
+  }
+]

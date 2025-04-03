@@ -1,0 +1,17 @@
+[33mcommit 2142e214359a929adaa8a72014b1e519b2b51951[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Drew Himmelreich <drewhim@gmail.com>
+Date:   Fri Mar 21 20:57:48 2025 -0400
+
+    Fix README content
+
+[33mcommit 63fb649be499c10f9b45576694ec09be504b5a3e[m
+Author: Drew Himmelreich <drewhim@gmail.com>
+Date:   Fri Mar 21 20:50:56 2025 -0400
+
+    Fix README filename capitalization
+
+[33mcommit 34a5112a2ae73689737fb865bd7d8d86d8a148a2[m
+Author: Drew Himmelreich <drewhim@gmail.com>
+Date:   Fri Mar 21 16:57:13 2025 -0400
+
+    Reorganize project README structure to reflect overall project goal

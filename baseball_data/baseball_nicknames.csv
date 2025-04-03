@@ -1,226 +1,1196 @@
 frequency,name,type
-50,Lefty,nickname
-48,Bill,nickname
-42,Red,nickname
-41,Joe,nickname
-26,Jack,nickname
-21,Jim,nickname
-20,Ed,nickname
-20,Bob,nickname
-20,Al,nickname
-20,Charlie,nickname
-18,Johnny,nickname
-17,Pete,nickname
-15,Ray,nickname
-15,Dutch,nickname
-14,Tom,nickname
-14,Pat,nickname
-14,Doc,nickname
-13,Sam,nickname
-13,Hal,nickname
-12,Mike,nickname
-12,Walt,nickname
-12,Chick,nickname
-11,Soto Pacheco,nickname
-11,Dick,nickname
-11,Fred,nickname
-11,Cy,nickname
-11,Art,nickname
-9,Eddie,nickname
-9,Rube,nickname
-9,Wally,nickname
-9,Jake,nickname
-9,Ted,nickname
-9,Billy,nickname
-8,Larry,nickname
-8,Ernie,nickname
-8,Bert,nickname
-8,Frank,nickname
-7,Dixie,nickname
-7,Heinie,nickname
-7,Gene,nickname
-7,Buck,nickname
-7,Tony,nickname
-7,Herb,nickname
-7,Ike,nickname
-7,Bud,nickname
-7,Harry,nickname
-6,Slim,nickname
-6,Tim,nickname
-6,Duke,nickname
-6,Lou,nickname
-6,Hank,nickname
-5,Dave,nickname
-5,Happy,nickname
-5,Fritz,nickname
-5,Ben,nickname
-5,Jimmy,nickname
-5,Sheriff,nickname
-5,Whitey,nickname
-5,Bernie,nickname
-5,Buzz,nickname
-5,Babe,nickname
-4,Danny,nickname
-4,Ken,nickname
-4,Pep,nickname
-4,Rabbit,nickname
-4,Tex,nickname
-4,Ollie,nickname
-4,Lew,nickname
-4,Hack,nickname
-4,Cliff,nickname
-4,Phil,nickname
-4,Gus,nickname
-4,Rip,nickname
-4,Chief,nickname
-3,Bugs,nickname
-3,Mickey,nickname
-3,Milt,nickname
-3,Rebel,nickname
-3,Doug,nickname
-3,Gil,nickname
-3,Don,nickname
-3,Moose,nickname
-3,Speed,nickname
-3,Bunny,nickname
-3,King,nickname
-3,Bucky,nickname
-3,Blackie,nickname
-3,Paddy,nickname
-3,Tiny,nickname
-3,Kid,nickname
-3,Del,nickname
-3,Cap,nickname
-3,Rudy,nickname
-3,Tommy,nickname
-3,Big Bill,nickname
-3,Alex,nickname
-3,Les,nickname
-3,Nig,nickname
-3,Chuck,nickname
-3,Butch,nickname
-3,Swede,nickname
-3,Skinny,nickname
-2,Willie,nickname
-2,Jess,nickname
-2,Scoops,nickname
-2,Irish,nickname
-2,Vern,nickname
+372,Bill,nickname
+240,Ed,nickname
+234,Joe,nickname
+199,Jim,nickname
+198,Lefty,nickname
+186,Charlie,nickname
+179,Jack,nickname
+147,Bob,nickname
+146,Red,nickname
+140,Al,nickname
+132,Tom,nickname
+120,Fred,nickname
+105,Johnny,nickname
+92,Mike,nickname
+86,Doc,nickname
+84,Pete,nickname
+80,Art,nickname
+75,Ray,nickname
+74,Jimmy,nickname
+71,Eddie,nickname
+69,Dick,nickname
+67,Pat,nickname
+66,Dutch,nickname
+62,Billy,nickname
+59,Frank,nickname
+58,Sam,nickname
+54,Walt,nickname
+50,Buck,nickname
+49,Gene,nickname
+49,Lou,nickname
+47,Hank,nickname
+46,Hal,nickname
+46,Jake,nickname
+46,Harry,nickname
+44,Rube,nickname
+42,Ernie,nickname
+42,Tommy,nickname
+41,Phil,nickname
+41,Dan,nickname
+39,Bert,nickname
+37,Dave,nickname
+36,Bobby,nickname
+35,Chick,nickname
+35,Les,nickname
+35,Andy,nickname
+34,Ted,nickname
+33,Larry,nickname
+33,Cy,nickname
+33,Tony,nickname
+32,Ken,nickname
+32,Steve,nickname
+32,Alex,nickname
+31,Whitey,nickname
+31,Babe,nickname
+30,Ben,nickname
+30,Chief,nickname
+28,Wally,nickname
+28,Kid,nickname
+27,Mickey,nickname
+27,Bud,nickname
+26,Lew,nickname
+26,Pop,nickname
+24,Fritz,nickname
+24,Don,nickname
+23,Danny,nickname
+23,Tex,nickname
+23,Stan,nickname
+23,Gus,nickname
+23,Jumbo,nickname
+21,Herb,nickname
+21,King,nickname
+21,Rabbit,nickname
+21,Buster,nickname
+21,Big Bill,nickname
+21,Jerry,nickname
+20,Roy,nickname
+20,Rip,nickname
+19,Heinie,nickname
+19,Slim,nickname
+19,Moose,nickname
+19,Duke,nickname
+19,Del,nickname
+19,Cliff,nickname
+18,Marty,nickname
+18,Nick,nickname
+18,Chuck,nickname
+17,Happy,nickname
+17,Deacon,nickname
+17,Russ,nickname
+17,Big Ed,nickname
+17,Chet,nickname
+17,Sandy,nickname
+16,Ike,nickname
+16,Sheriff,nickname
+16,Howie,nickname
+15,Dixie,nickname
+15,Sid,nickname
+15,Lee,nickname
+15,Buddy,nickname
+15,Barney,nickname
+14,Tim,nickname
+14,Marv,nickname
+14,Pep,nickname
+14,Pepper,nickname
+13,Sammy,nickname
+13,Pinky,nickname
+13,Len,nickname
+13,Irv,nickname
+12,Soto Pacheco,nickname
+12,Willie,nickname
+12,Milt,nickname
+12,Ollie,nickname
+12,Bernie,nickname
+12,Woody,nickname
+12,Hack,nickname
+12,Nig,nickname
+12,Butch,nickname
+12,Ace,nickname
+11,Irish,nickname
+11,Bunny,nickname
+11,Monte,nickname
+11,Norm,nickname
+11,Ducky,nickname
+11,Will,nickname
+11,Wild Bill,nickname
+11,Hans,nickname
+10,Vern,nickname
+10,Slats,nickname
+10,Paddy,nickname
+10,Patsy,nickname
+10,Rudy,nickname
+10,Baldy,nickname
+10,Big Jim,nickname
+10,Swede,nickname
+10,Cotton,nickname
+10,Hooks,nickname
+10,Lucky,nickname
+10,Wee Willie,nickname
+10,Zeke,nickname
+10,Hub,nickname
+10,Mel,nickname
+9,Bugs,nickname
+9,Judge,nickname
+9,Smokey,nickname
+9,Cap,nickname
+9,Shorty,nickname
+9,Jimmie,nickname
+9,Denny,nickname
+9,Hi,nickname
+9,Frankie,nickname
+9,Vince,nickname
+9,Ned,nickname
+9,Dad,nickname
+9,Connie,nickname
+9,Dusty,nickname
+9,Chink,nickname
+9,Junior,nickname
+8,Rebel,nickname
+8,Gil,nickname
+8,Blackie,nickname
+8,Tiny,nickname
+8,Chris,nickname
+8,Flash,nickname
+8,Germany,nickname
+8,Otto,nickname
+8,Benny,nickname
+8,Sunny Jim,nickname
+8,Hughie,nickname
+8,Clay,nickname
+8,Tug,nickname
+8,Dummy,nickname
+8,Cannonball,nickname
+8,Charley,nickname
+8,Deer Foot,nickname
+8,Bull,nickname
+8,Curly,nickname
+8,Broadway,nickname
+7,Matty,nickname
+7,Huck,nickname
+7,Doug,nickname
+7,Chappie,nickname
+7,Josh,nickname
+7,Biff,nickname
+7,Luke,nickname
+7,Vic,nickname
+7,Buzz,nickname
+7,Curt,nickname
+7,Jocko,nickname
+7,Freddy,nickname
+7,Cal,nickname
+7,Skinny,nickname
+7,Freddie,nickname
+7,Moe,nickname
+7,Jay,nickname
+7,Jackie,nickname
+7,Reddy,nickname
+7,Count,nickname
+7,Farmer,nickname
+7,Frenchy,nickname
+7,Cowboy,nickname
+7,Nap,nickname
+7,Dode,nickname
+7,Carl,nickname
+6,Ty,nickname
+6,Dee,nickname
+6,Mule,nickname
+6,High Pockets,nickname
+6,Mac,nickname
+6,Bucky,nickname
+6,Ham,nickname
+6,Hap,nickname
+6,Morrie,nickname
+6,Dasher,nickname
+6,Jesse,nickname
+6,Jiggs,nickname
+6,Specs,nickname
+6,Ad,nickname
+6,Pug,nickname
+6,Socks,nickname
+6,Old Hoss,nickname
+6,Augie,nickname
+6,Ossie,nickname
+6,Wes,nickname
+6,Rusty,nickname
+6,Honest John,nickname
+6,Herm,nickname
+6,Jud,nickname
+6,Colonel,nickname
+6,Runt,nickname
+6,Monk,nickname
+6,Yank,nickname
+6,Mark,nickname
+6,Happy Jack,nickname
+6,Sal,nickname
+6,Midget,nickname
+6,Noisy,nickname
+6,Clyde,nickname
+6,Max,nickname
+6,Johnnie,nickname
+6,Glenn,nickname
+5,Jess,nickname
+5,Scoops,nickname
+5,Hawk,nickname
+5,Speed,nickname
+5,Jeff,nickname
+5,Erv,nickname
+5,Elmer,nickname
+5,Ginger,nickname
+5,Abe,nickname
+5,Major,nickname
+5,Mack,nickname
+5,Sparky,nickname
+5,Smiley,nickname
+5,Hod,nickname
+5,Skeeter,nickname
+5,Old Folks,nickname
+5,Gibby,nickname
+5,Davey,nickname
+5,Chicken,nickname
+5,Eagle Eye,nickname
+5,Butcher Boy,nickname
+5,Win,nickname
+5,Fats,nickname
+5,Clint,nickname
+5,Fitz,nickname
+5,Stubby,nickname
+5,Davy,nickname
+5,Foghorn,nickname
+5,Silver,nickname
+5,Gunner,nickname
+5,Link,nickname
+5,Tip,nickname
+5,Con,nickname
+5,Parson,nickname
+5,Home Run,nickname
+5,The Crab,nickname
+5,Newt,nickname
+5,Paul,nickname
+5,Archie,nickname
+5,Peaches,nickname
+5,Earl,nickname
+5,Shad,nickname
+5,Watty,nickname
+5,Clem,nickname
+5,Stew,nickname
+5,Kenny,nickname
+5,Preacher,nickname
+5,Porky,nickname
+5,Sig,nickname
+4,Sarge,nickname
+4,General,nickname
+4,Big Dan,nickname
+4,Peanuts,nickname
+4,Shotgun,nickname
+4,Mutt,nickname
+4,John,nickname
+4,Gentleman George,nickname
+4,Birdie,nickname
+4,Shag,nickname
+4,Moxie,nickname
+4,Little Joe,nickname
+4,Slug,nickname
+4,Stu,nickname
+4,Flea,nickname
+4,Sugar,nickname
+4,Rock,nickname
+4,Long Tom,nickname
+4,Spider,nickname
+4,Sonny,nickname
+4,Schoolboy,nickname
+4,Pick,nickname
+4,Nellie,nickname
+4,Silent John,nickname
+4,Boots,nickname
+4,Spike,nickname
+4,Candy,nickname
+4,Doggie,nickname
+4,Monkey,nickname
+4,Arlie,nickname
+4,Old Pete,nickname
+4,Buff,nickname
+4,Shadow,nickname
+4,Mort,nickname
+4,Emmett,nickname
+4,Lem,nickname
+4,George,nickname
+4,Matt,nickname
+4,The Flying Dutchman,nickname
+4,Professor,nickname
+4,Klondike,nickname
+4,Iron Man,nickname
+4,Casey,nickname
+4,Heavy,nickname
+4,Truck,nickname
+4,Hickory,nickname
+4,Prince Hal,nickname
+4,Harley,nickname
+4,Lena,nickname
+4,Skip,nickname
+4,Speedy,nickname
+4,Bad News,nickname
+4,Milo,nickname
+4,Slick,nickname
+4,Brad,nickname
+4,Reds,nickname
+4,Gee-Gee,nickname
+4,Ox,nickname
+4,Stud,nickname
+4,Hook,nickname
+4,Bruce,nickname
+4,Mul,nickname
+4,Spud,nickname
+4,Popeye,nickname
+4,Jo-Jo,nickname
+4,Rocky,nickname
+4,Blimp,nickname
+4,King Kong,nickname
+4,Fireman,nickname
+4,Mr. Chips,nickname
+4,Dom,nickname
+4,Muscles,nickname
+4,The Mad Russian,nickname
+4,Stash,nickname
+4,Bear Tracks,nickname
+3,Husky,nickname
+3,Scissors,nickname
+3,Stuffy,nickname
+3,Moon,nickname
+3,Greasy,nickname
+3,Sherry,nickname
+3,Zeb,nickname
+3,Coonie,nickname
+3,Admiral,nickname
+3,Manny,nickname
+3,Rollie,nickname
+3,Iron Duke,nickname
+3,Dizzy,nickname
+3,Rubber Arm,nickname
+3,Cactus,nickname
+3,Duster,nickname
+3,Little Mac,nickname
+3,Snake,nickname
+3,Bunker,nickname
+3,Gilly,nickname
+3,Hardrock,nickname
+3,Peck,nickname
+3,Turkey,nickname
+3,Pudge,nickname
+3,Bananas,nickname
+3,Big Tom,nickname
+3,Scrap Iron,nickname
+3,Bad Bill,nickname
+3,Rosy,nickname
+3,Zack,nickname
+3,Pie,nickname
+3,Ski,nickname
+3,Allie,nickname
+3,Eppie,nickname
+3,Footsie,nickname
+3,Boob,nickname
+3,"Ed, Eddie",nickname
+3,Little Bobby,nickname
+3,Lon,nickname
+3,Blondie,nickname
+3,Hick,nickname
+3,Dale,nickname
+3,Darby,nickname
+3,Chub,nickname
+3,Dude,nickname
+3,Ott,nickname
+3,Humpty Dumpty,nickname
+3,Sleepy,nickname
+3,Grasshopper,nickname
+3,Cannon Ball,nickname
+3,Artie,nickname
+3,Smiling Al,nickname
+3,Handsome Jack,nickname
+3,Lave,nickname
+3,Tub,nickname
+3,Charles,nickname
+3,Piggy,nickname
+3,Whoa Bill,nickname
+3,Collie,nickname
+3,Tot,nickname
+3,Sox,nickname
+3,Chauncey,nickname
+3,Honus,nickname
+3,Brownie,nickname
+3,Izzy,nickname
+3,Handsome Harry,nickname
+3,Snapper,nickname
+3,The Giant Killer,nickname
+3,Mal,nickname
+3,Burt,nickname
+3,Buckshot,nickname
+3,Neal,nickname
+3,Gabby,nickname
+3,Herbie,nickname
+3,Hutch,nickname
+3,Kirby,nickname
+3,Scotty,nickname
+3,Shanty,nickname
+3,Skipper,nickname
+3,Maury,nickname
+3,Si,nickname
+3,Van,nickname
+3,Spec,nickname
+3,Hy,nickname
+3,Pee Wee,nickname
+3,Rankin,nickname
+3,Reggie,nickname
+3,Toots,nickname
+3,Bennie,nickname
+3,Big Ben,nickname
+3,Bump,nickname
+3,Jodie,nickname
+3,Randy,nickname
+3,Hugh,nickname
+3,Tarzan,nickname
+3,Wimpy,nickname
+3,Steamboat,nickname
+3,Lindsay,nickname
+3,Jeep,nickname
+3,Jug,nickname
+3,Scat,nickname
+3,Pap,nickname
+3,Skippy,nickname
+3,Fire,nickname
+2,Goat,nickname
+2,Smokey Joe,nickname
 2,Dutchman,nickname
-2,Matty,nickname
-2,Stuffy,nickname
-2,Judge,nickname
-2,Sarge,nickname
-2,Huck,nickname
-2,General,nickname
-2,Ty,nickname
-2,Dee,nickname
-2,Mule,nickname
-2,Slats,nickname
+2,Grump,nickname
+2,Chubby,nickname
+2,Beauty,nickname
 2,Dinty,nickname
-2,High Pockets,nickname
-2,Marty,nickname
-2,Smokey,nickname
-2,Mac,nickname
-2,Steve,nickname
+2,Foots,nickname
+2,Stump,nickname
+2,Goody,nickname
 2,Ferdie,nickname
 2,Dazzy,nickname
 2,Zip,nickname
-2,Hap,nickname
-2,Deacon,nickname
-2,Peanuts,nickname
-2,Buster,nickname
-2,Norm,nickname
-2,Shotgun,nickname
-2,Abe,nickname
+2,Snipe,nickname
+2,Scrappy,nickname
+2,Pickles,nickname
 2,Bummer,nickname
-2,Pop,nickname
 2,Cuckoo,nickname
-2,Baldy,nickname
-2,Dizzy,nickname
-2,Ducky,nickname
-2,Jesse,nickname
-2,Russ,nickname
-2,Sid,nickname
-2,Nick,nickname
-2,Jiggs,nickname
-2,Hod,nickname
-2,Slug,nickname
+2,Bruno,nickname
+2,Howdy,nickname
+2,Gary,nickname
 2,Jockey,nickname
-2,Specs,nickname
-2,Bobby,nickname
-2,Big Jim,nickname
-2,Cotton,nickname
-2,Hooks,nickname
-2,Gilly,nickname
-2,Davey,nickname
-2,Big Ed,nickname
-2,Pug,nickname
-2,Sammy,nickname
-2,Pinky,nickname
-2,Wild Bill,nickname
-2,Wee Willie,nickname
-2,Curt,nickname
-2,Andy,nickname
-2,Win,nickname
-2,Jocko,nickname
-2,Ace,nickname
+2,Pancho,nickname
+2,Pooch,nickname
+2,Long Bob,nickname
+2,Sailor,nickname
+2,Chad,nickname
+2,Sad Sam,nickname
 2,Gink,nickname
+2,Handy Andy,nickname
+2,Ross,nickname
+2,Cat,nickname
 2,Jigger,nickname
-2,Jumbo,nickname
-2,Augie,nickname
-2,Nellie,nickname
-2,Ossie,nickname
+2,Firpo,nickname
+2,Tod,nickname
+2,Jersey,nickname
+2,Big John,nickname
+2,Rufe,nickname
+2,Merv,nickname
+2,Death to Flying Things,nickname
+2,Old Fergy,nickname
+2,Nat,nickname
+2,The Iron Batter,nickname
+2,Lip,nickname
+2,Scott,nickname
+2,Father of the Curveball,nickname
+2,Tom Thumb,nickname
+2,Gentlemanly Bob,nickname
+2,Long Jim,nickname
+2,A.G.,nickname
+2,Lucky Henry,nickname
+2,Juice,nickname
+2,Grandmother,nickname
+2,Whoop-La,nickname
+2,Old Hick,nickname
+2,Old Hickory,nickname
+2,Brick,nickname
+2,Old True Blue,nickname
+2,Hardy,nickname
+2,Bloody Jake,nickname
+2,His Needles,nickname
+2,"Pud, Gentle Jeems",nickname
+2,The Little Steam Engine,nickname
+2,Sadie,nickname
+2,Diamond John,nickname
+2,Kick,nickname
+2,Pebbly Jack,nickname
+2,Ubbo Ubbo,nickname
+2,Honest Joe,nickname
+2,Modoc,nickname
+2,Alderman,nickname
+2,Fatty,nickname
+2,Blower,nickname
+2,Cuddy,nickname
+2,Ren,nickname
+2,O.B.,nickname
+2,Cutrate,nickname
+2,Nate,nickname
+2,Long John,nickname
+2,The Socker,nickname
+2,Dandy,nickname
+2,Lady,nickname
+2,The Old Roman,nickname
+2,King Fred,nickname
+2,Sure Shot Fred,nickname
+2,Cyclone Jim,nickname
+2,"Bill, Billy",nickname
+2,Angel Sleeves,nickname
+2,Ri,nickname
+2,Father,nickname
+2,Bid,nickname
+2,Crazy Horse,nickname
+2,Cyclone,nickname
+2,Apollo of the Box,nickname
+2,The Count,nickname
+2,The Reverend,nickname
+2,Leo,nickname
+2,Smiling Mickey,nickname
+2,Mouse,nickname
+2,The Freshest Man On Earth,nickname
+2,Ab,nickname
+2,Dimples,nickname
+2,Big Sam,nickname
+2,The Gladiator,nickname
+2,Big Mox,nickname
+2,Mox,nickname
+2,Mikado Milt,nickname
+2,Rex,nickname
+2,Perry,nickname
+2,Lan,nickname
+2,Lann,nickname
+2,The Tall Tactician,nickname
+2,Steady Pete,nickname
+2,The Evangelist,nickname
+2,Sy,nickname
+2,Uncle Bill,nickname
+2,Fido,nickname
+2,Fergy,nickname
+2,Mitty,nickname
+2,Razzle Dazzle,nickname
+2,Cod,nickname
+2,Pony,nickname
+2,Joe E,nickname
+2,Parisian Bob,nickname
+2,Smiling Pete,nickname
+2,Pretzels,nickname
+2,Pretzel Twirler,nickname
+2,Swedish Wonder,nickname
+2,Puente Pete,nickname
+2,Loafer,nickname
+2,Calliope,nickname
+2,Handsome Dan,nickname
+2,Schelley,nickname
+2,Phenom,nickname
+2,Phenomenal,nickname
+2,Adonis,nickname
+2,Foghorn Dick,nickname
+2,Hiram,nickname
+2,Clinkers,nickname
+2,Henry,nickname
+2,Guesses,nickname
+2,Rain Barrel,nickname
+2,Varn,nickname
+2,Varney,nickname
+2,Tido,nickname
+2,Sliding Billy,nickname
+2,Herky Jerky,nickname
+2,Matches,nickname
+2,The Phenomenal Kid,nickname
+2,Peach Pie,nickname
+2,Crazy,nickname
+2,Rubber Arm Gus,nickname
+2,Icebox,nickname
+2,Ice Box,nickname
+2,Human Grasshopper,nickname
+2,The Little Globetrotter,nickname
+2,Scrappy Bill,nickname
+2,Brickyard,nickname
+2,Roaring,nickname
+2,Good-Eye,nickname
+2,Silent Mike,nickname
+2,Tuck,nickname
+2,Vinegar Tom,nickname
+2,Boileryard,nickname
+2,Nosy Bill,nickname
+2,Julie,nickname
+2,Beans,nickname
+2,Tice,nickname
+2,Jock,nickname
+2,Charlier,nickname
+2,Decker,nickname
+2,Silver Bill,nickname
+2,Jamsey,nickname
+2,B.W.,nickname
+2,Ward Six,nickname
+2,Theo,nickname
+2,Bushy,nickname
+2,Ee-Yah,nickname
+2,Yale,nickname
+2,Stub,nickname
+2,Ira,nickname
+2,Bridget,nickname
+2,Wizard,nickname
+2,Bumpus,nickname
+2,Stone Face,nickname
+2,Red Cross Mike,nickname
+2,Big Mike,nickname
+2,August,nickname
+2,Foxy Grandpa,nickname
+2,Wagon Tongue,nickname
+2,Handsome Joe Kelley,nickname
+2,Shaney,nickname
+2,Little Eva,nickname
+2,The Goshen Schoolmaster,nickname
+2,Dewey,nickname
+2,Sock,nickname
+2,Hodge,nickname
+2,Cozy,nickname
+2,The Duke of Pittsburgh,nickname
+2,Skinner,nickname
+2,Hit 'em Where They Ain't,nickname
+2,The Pitching Professor,nickname
+2,Liz,nickname
+2,Sandow,nickname
+2,The Curveless Wonder,nickname
+2,Horseface,nickname
+2,Togie,nickname
+2,Kip,nickname
+2,Prexy,nickname
+2,Doughnut Bill,nickname
+2,DeMont,nickname
+2,Sleuth,nickname
+2,Little Napoleon,nickname
+2,Mugsie,nickname
+2,Kit,nickname
+2,Effie,nickname
+2,Leiter,nickname
+2,Shoddy,nickname
+2,Lumbago,nickname
+2,Brewery Jack,nickname
+2,Savage Tom,nickname
+2,Gummy,nickname
+2,Rhody,nickname
+2,Nixey,nickname
+2,Bunt,nickname
+2,The Silent Norseman,nickname
+2,Emil,nickname
+2,Battleship,nickname
+2,Bronco,nickname
+2,Poli,nickname
+2,Napoleon,nickname
+2,Brakeman,nickname
+2,Kitty,nickname
+2,The Tabasco Kid,nickname
+2,Bald Eagle,nickname
+2,Big Jack,nickname
+2,Guncotton,nickname
+2,Tacks,nickname
+2,J.B.,nickname
+2,Kell,nickname
+2,The Flying Frenchman,nickname
+2,Old Dog,nickname
+2,Ossee,nickname
+2,Schreck,nickname
+2,Filipino,nickname
+2,Three Finger,nickname
+2,Slab,nickname
+2,Husk,nickname
+2,The Peerless Leader,nickname
+2,Dooney,nickname
+2,Snags,nickname
+2,Emmet,nickname
+2,Oom Paul,nickname
+2,Solly,nickname
+2,Liberty,nickname
+2,Schaef,nickname
+2,The Dixie Thrush,nickname
+2,Abby,nickname
+2,Batty,nickname
+2,Wid,nickname
+2,Widow,nickname
+2,Hummer,nickname
+2,Wiley,nickname
+2,Do-Little,nickname
+2,The Pitching Poet,nickname
+2,Tommie,nickname
+2,Wee Tommie,nickname
+2,Steam Engine,nickname
+2,Cy The Second,nickname
+2,Rick,nickname
+2,Dolly,nickname
+2,Hug,nickname
+2,Mighty Mite,nickname
+2,King Bill,nickname
+2,Swin,nickname
+2,Schnitz,nickname
+2,Jiggers,nickname
+2,Kickapoo,nickname
+2,Yip,nickname
+2,Yaller,nickname
+2,The Delaware Peach,nickname
+2,Six O'Clock,nickname
+2,Fiddler,nickname
+2,Slippery,nickname
+2,Victory,nickname
+2,The Allegan Wonder,nickname
+2,Kangaroo,nickname
+2,Addie,nickname
+2,The Maestro of Twirlology,nickname
+2,Big Six,nickname
+2,Christy,nickname
+2,Pinch,nickname
+2,Ironman,nickname
+2,Big George,nickname
+2,Wabash George,nickname
+2,Bridgeport,nickname
+2,William The Red,nickname
+2,Bo,nickname
+2,Gavy,nickname
+2,Gavvy,nickname
+2,Sugar Boy,nickname
+2,Slow Joe,nickname
+2,Trojan,nickname
+2,Shamus,nickname
+2,Punch,nickname
+2,The Mahatma,nickname
+2,Branch,nickname
+2,Cotton Top,nickname
+2,Terry,nickname
+2,J.C.,nickname
+2,Soldier,nickname
+2,Doctor,nickname
+2,Colby Jack,nickname
+2,Squak,nickname
+2,Ches,nickname
+2,Ralph,nickname
+2,Hoss,nickname
+2,Jul,nickname
+2,Jules,nickname
+2,The Gallatin Squash,nickname
+2,Wildfire,nickname
+2,Cheese,nickname
+2,Old Sarge,nickname
+2,Rough,nickname
+2,Cush,nickname
+2,Eude,nickname
+2,Sis,nickname
+2,Herby,nickname
+2,Smoke,nickname
+2,Loose,nickname
+2,Eggie,nickname
+2,The Human Eyeball,nickname
+2,Bris,nickname
+2,Amby,nickname
+2,Hicks,nickname
+2,Happy Henry,nickname
+2,Syd,nickname
+2,Little Nemo,nickname
+2,Cy The Third,nickname
+2,Bunions,nickname
+2,Herman,nickname
+2,Knuckles,nickname
+2,Gentleman Jake,nickname
+2,Willy,nickname
+2,Big Finn,nickname
+2,Dango,nickname
+2,Sea Lion,nickname
+2,R.B.,nickname
+2,Blab,nickname
+2,Tubby,nickname
+2,Kickapoo Ed,nickname
+2,Crab,nickname
+2,Demon Jack,nickname
+2,Mer,nickname
+2,Lollypop,nickname
+2,Radiant Red,nickname
+2,The Midget,nickname
+2,Earache,nickname
+2,Blue Goose,nickname
+2,Scatter,nickname
+2,Gint,nickname
+2,The Georgia Peach,nickname
+2,Z.Z.,nickname
+2,Big Murph,nickname
+2,Lick,nickname
+2,$11000 Beauty,nickname
+2,$11000 Lemon,nickname
+2,Steamboat Bill,nickname
+2,Slam,nickname
+2,Ole' Pete,nickname
+2,Cocky,nickname
+2,Vermont Schoolteacher,nickname
+2,Marc,nickname
+2,Hickory Bob,nickname
+2,Dugan,nickname
+2,Snow,nickname
+2,The Little Fellow,nickname
+2,Bonnie,nickname
+2,Luther,nickname
+2,Tomatoes,nickname
+2,Big Pete,nickname
+2,Limb,nickname
+2,Sunshine,nickname
+2,Bonehead,nickname
+2,Jerky,nickname
+2,Spoke,nickname
+2,The Grey Eagle,nickname
+2,Tris,nickname
+2,Hippo,nickname
+2,Zach,nickname
+2,Cash,nickname
+2,Bash,nickname
+2,Covey,nickname
+2,Hooksie,nickname
+2,Blue Sleeve,nickname
+2,Lanky,nickname
+2,Levy,nickname
+2,Moonie,nickname
+2,Nuny,nickname
+2,Walt ot Wally,nickname
+2,Tap,nickname
+2,Honolulu Johnny,nickname
+2,Smoky Joe,nickname
+2,Fidgety Phil,nickname
+2,Fat Freddie,nickname
+2,Punk,nickname
+2,Crip,nickname
+2,Twitches,nickname
+2,Wiggles,nickname
+2,Flint,nickname
+2,Lawyer,nickname
+2,The Philosopher,nickname
+2,Squash,nickname
+2,The Earl of Snohomish,nickname
+2,Imp,nickname
+2,Silent Cal,nickname
+2,Jazzbow,nickname
+2,Captain Pat,nickname
+2,Crungy,nickname
+2,Little Potato,nickname
+2,The Nashville Narcissus,nickname
+2,Merry,nickname
+2,Bucketfoot Al,nickname
+2,Swanee,nickname
+2,Evar,nickname
+2,Poco,nickname
+2,Fresco,nickname
+2,Haney,nickname
+2,Coonskin,nickname
+2,The Iron Horse,nickname
+2,The Mechanical Man,nickname
+2,Herman the Great,nickname
+2,The Pride of Flatbush,nickname
+2,Mulholland,nickname
+2,Carthage Catapult,nickname
+2,King Carl,nickname
+2,The Meal Ticket,nickname
+2,Merle,nickname
+2,Jersey Joe,nickname
+2,Milkman Jim,nickname
+2,Carroll,nickname
+2,Boom-Boom,nickname
+2,Elmer The Great,nickname
+2,Chip,nickname
+2,Chief Coolem Off,nickname
+2,Hot Potato,nickname
+2,The Hoosier Hammerer,nickname
+2,The Wild Horse of the Osage,nickname
+2,The Tupelo Flash,nickname
+2,Grandpa,nickname
+2,Belve,nickname
+2,Flit,nickname
+2,Spot,nickname
+2,Patcheye,nickname
+2,Joel,nickname
+2,Poodles,nickname
+2,Cherokee,nickname
+2,Indian Bob,nickname
+2,Sambo,nickname
+2,Lindy,nickname
+2,Greg,nickname
+2,Ramrod,nickname
+2,Skabotch,nickname
+2,Scoop,nickname
+2,Pinkey,nickname
+2,Swamp Baby,nickname
+2,Whoops,nickname
+2,Crooked Arm Cremins,nickname
+2,Mr. Clutch,nickname
+2,Obbie,nickname
+2,Willis,nickname
+2,Lyn,nickname
+2,Ham Hands,nickname
+2,Barnacle Bill,nickname
+2,The Ripper,nickname
+2,Half Pint,nickname
+2,Lemons,nickname
+2,The Iron Man,nickname
+2,Leapin' Lena,nickname
+2,Rolie,nickname
+2,Ty Ty,nickname
+2,Prof,nickname
+2,Choppy,nickname
+2,The Waxahachie Terror,nickname
+2,Fumblefoot,nickname
+2,Kid Boots,nickname
+2,Old Aches & Pains,nickname
+2,Babe Ruth's Caddy - Babe Ruth's Legs - Sam,nickname
+2,Big Dolph,nickname
+2,Dolph,nickname
+2,Chick - Cooch,nickname
+2,Man Nobody Knows,nickname
+2,Beast,nickname
+2,Double X,nickname
+2,Bobo,nickname
+2,Gordon,nickname
+2,Sol,nickname
+2,Chappy,nickname
+2,Leaky,nickname
+2,Goofy,nickname
+2,Odell,nickname
+2,Lord,nickname
+2,Oscar,nickname
+2,Schnozz,nickname
+2,El Senor,nickname
+2,Fibber,nickname
+2,Bus,nickname
+2,The Gause Ghost,nickname
+2,Nemo,nickname
+2,"Big John, Grandma",nickname
+2,Fordham Johnny,nickname
+2,Brains,nickname
+2,Hoot,nickname
+2,Samson,nickname
+2,Harlin,nickname
+2,The Pride of Penacook,nickname
+2,Gee,nickname
+2,The Madman from Mississippi,nickname
+2,The Wild Elk of the Wasatch,nickname
+2,Big Ernie,nickname
+2,Hersh,nickname
+2,Rowdy,nickname
+2,Heber-Dick,nickname
+2,Morry,nickname
+2,Snooker,nickname
+2,Dody,nickname
+2,Chesty,nickname
+2,The Crow,nickname
+2,Bullfrog,nickname
+2,Swampy,nickname
+2,Atley,nickname
+2,Lonny,nickname
+2,Hershie,nickname
+2,Betz,nickname
+2,Hot Shot,nickname
+2,Nonny,nickname
+2,Jinx,nickname
+2,Jennings,nickname
+2,Giz,nickname
+2,The People's Cherce,nickname
+2,Dad Gum,nickname
+2,Chops,nickname
+2,Workhorse,nickname
+2,Hammerin' Hank,nickname
+2,Knick,nickname
+2,El Curvo,nickname
+2,Nels,nickname
+2,Sponge,nickname
+2,Hill Billy,nickname
+2,Hill-Billy,nickname
+2,Hillbilly Bildilli,nickname
+2,Patón (Big Foot),nickname
+2,Grey,nickname
+2,Lief,nickname
+2,Splinter,nickname
+2,Cookie,nickname
+2,Elrod,nickname
+2,Mountain Music,nickname
+2,Brusie,nickname
+2,Abba Dabba,nickname
+2,Whistling Jake,nickname
+2,A-1,nickname
+2,Melo,nickname
+2,Rattlesnake,nickname
+2,Fern,nickname
+2,Alfie,nickname
+2,Dim Dom,nickname
+2,The Arm,nickname
+2,True Gun,nickname
+2,Old Reliable,nickname
+2,The Clutch,nickname
+2,Southern,nickname
+2,Wedo,nickname
+2,The Big Cat,nickname
+2,Losing Pitcher,nickname
+2,Gyp,nickname
+2,Weaser,nickname
+2,Papa,nickname
+2,Goober,nickname
+2,Thin Man,nickname
+2,Big Train,nickname
+2,Baby Face,nickname
+2,Joltin' Joe,nickname
+2,The Yankee Clipper,nickname
+2,"Foghorn, Mercury",nickname
+2,Spunk,nickname
+2,Primo,nickname
+2,The Dutch Master,nickname
+2,Vandy,nickname
+2,Soup,nickname
+2,Soupy,nickname
+2,Big Coop,nickname
+2,Coop,nickname
+2,Walk,nickname
+2,Lil Abner,nickname
+2,Mae,nickname
+2,Ford,nickname
+2,Long John Gee,nickname
+2,Whiz,nickname
+2,Garth,nickname
+2,Little Dutch,nickname
+2,"Stormy, Stormy Weather",nickname
+2,Cork,nickname
+2,Hurricane Hiram,nickname
+2,Philibuck,nickname
+2,The Tiburon Terror,nickname
+2,Mr. Team,nickname
+2,Sep,nickname
+2,Cotney,nickname
+2,Hippy-Hopp,nickname
+2,Heeney,nickname
+2,"Marty, Mr. Shortstop, The Octopus",nickname
+2,Gabe,nickname
+2,Pecky,nickname
+2,Rawhide,nickname
+2,Cabbage Head,nickname
+2,Polo,nickname
+2,Daddy,nickname
+2,The Little Professor,nickname
+2,Burrhead,nickname
+2,Itzzy,nickname
+2,Meow,nickname
+2,Grod,nickname
+2,Kelly,nickname
+2,Chesty Chet,nickname
+2,The Silent Slovene,nickname
+2,Lupe,nickname
+2,The Barber,nickname
+2,Lennie,nickname
+2,The Gay Reliever,nickname
+2,Raffy,nickname
+2,Superchief,nickname
+2,The Crabapple Comet,nickname
+2,Man of a Thousand Curves,nickname
+2,Ziggy,nickname
+2,Slugs,nickname
+2,Tweet,nickname
+2,Junie,nickname
+2,Leon,nickname
+2,The Silent Captain,nickname
+2,Rapid Robert,nickname
+2,Lonnie,nickname
+2,Jet,nickname
+2,The Jet,nickname
+2,Billy the Bull,nickname
+2,Cab,nickname
+2,The Chattanooga Choo Choo,nickname
+2,Mandrake,nickname
+2,Junkman,nickname
+2,Steady Eddie,nickname
+2,Dandy Dick,nickname
+2,Obie,nickname
+2,Mosquito,nickname
+2,Pelly,nickname
+2,The Little Colonel,nickname
+2,The Captain,nickname
+2,The Cricket,nickname
+2,Rig,nickname
+2,Smoky,nickname
+2,Teddy,nickname
+2,Teddy Ballgame,nickname
+2,The Splendid Splinter,nickname
+2,Bronk,nickname
+2,The Wildman,nickname
+2,Coral,nickname
+2,Bunch,nickname
+2,The Great Stone Face,nickname
+2,The Spider,nickname
+2,Mousey,nickname
+2,Pistol Pete,nickname
+2,Squirrel,nickname
+2,Happy Rabbit,nickname
+2,Horn,nickname
+2,C. Porter,nickname
+2,Ninety-Six,nickname
+2,Totsie,nickname
+2,Leslie,nickname
+2,The Arkansas Traveler,nickname
+2,Porterillo,nickname
+2,Turk,nickname
+2,Four Sack,nickname
+2,Dauntless Dan - The Ignited Italian,nickname
+2,Benjamin,nickname
+2,Mongoose,nickname
+2,Stan the Man,nickname
+2,The Donora Greyhound,nickname
+2,Durable Dave,nickname
+2,Square Jaw,nickname
+2,Octopus,nickname
+2,Snoop,nickname
 1,Dorf,nickname
 1,Big Benn,nickname
 1,Rosie,nickname
 1,Caddy,nickname
 1,Mary,nickname
-1,Goat,nickname
 1,Dauntless Dave,nickname
 1,Long Dave,nickname
 1,Iron,nickname
 1,Shufflin' Phil,nickname
 1,Gentleman John,nickname
-1,Smokey Joe,nickname
-1,Husky,nickname
-1,Grump,nickname
 1,Baby Doll,nickname
 1,Ty Cobb of the Federal League,nickname
 1,Dolf,nickname
 1,The Pride of Havana,nickname
-1,Scissors,nickname
-1,Hawk,nickname
 1,Bob - Sailor Bob,nickname
 1,Hennie,nickname
-1,Chubby,nickname
 1,The Old Perfessor,nickname
 1,Tuffy,nickname
-1,Big Dan,nickname
 1,Old Os - Ol Os - Ossie,nickname
 1,Possum,nickname
 1,Denney,nickname
 1,Acostica,nickname
 1,Tracy,nickname
 1,Banny,nickname
-1,Beauty,nickname
-1,Foots,nickname
 1,Finn,nickname
 1,Glass Arm Eddie,nickname
 1,The Bruggy Boys (with Moe Berg),nickname
-1,Chappie,nickname
 1,Stinger,nickname
 1,Dashing Dan,nickname
 1,Spittin' Bill,nickname
-1,Stump,nickname
-1,Roy,nickname
 1,Laz,nickname
 1,Spooks,nickname
-1,Marv,nickname
-1,Goody,nickname
 1,Boon,nickname
 1,Wobby,nickname
-1,Moon,nickname
 1,Bird Dog,nickname
 1,Silk,nickname
 1,Katie,nickname
@@ -228,33 +1198,20 @@ frequency,name,type
 1,Smooth,nickname
 1,The Old Hustler,nickname
 1,Sub,nickname
-1,Jeff,nickname
 1,Goggy,nickname
 1,Honest Eddie,nickname
-1,Greasy,nickname
-1,Pepper,nickname
 1,Pol,nickname
-1,Monte,nickname
 1,Jephtha,nickname
 1,Brode,nickname
-1,Sherry,nickname
-1,Zeb,nickname
 1,Little Tommy,nickname
 1,Clancy,nickname
 1,Zippy,nickname
 1,Nubby,nickname
-1,Josh,nickname
-1,Coonie,nickname
 1,Bundy,nickname
-1,Chris,nickname
 1,Bullet Joe,nickname
-1,Snipe,nickname
-1,Ham,nickname
 1,Potato,nickname
 1,Rich,nickname
 1,Rags,nickname
-1,Patsy,nickname
-1,Flash,nickname
 1,Papo,nickname
 1,Gordy,nickname
 1,Bubbles,nickname
@@ -262,32 +1219,19 @@ frequency,name,type
 1,Billiken,nickname
 1,Seattle Bill,nickname
 1,Child Harold,nickname
-1,Admiral,nickname
 1,Horsewhips,nickname
 1,Sad Sam the Cemetery Man,nickname
-1,Erv,nickname
 1,Moke,nickname
 1,Koley,nickname
-1,Manny,nickname
-1,Biff,nickname
-1,Elmer,nickname
-1,Scrappy,nickname
-1,Rollie,nickname
 1,Braggo,nickname
 1,Pepe,nickname
 1,The Clown Prince of Baseball,nickname
 1,The Cracker,nickname
-1,Morrie,nickname
 1,Pi,nickname
-1,Ginger,nickname
 1,Columbia George,nickname
-1,Luke,nickname
 1,Jack - John - Johnny,nickname
 1,Silent George,nickname
-1,Mutt,nickname
-1,Woody,nickname
 1,Hoosier Schoolmaster,nickname
-1,Vic,nickname
 1,Desperate,nickname
 1,Climax,nickname
 1,Turkeyfoot,nickname
@@ -296,102 +1240,62 @@ frequency,name,type
 1,Tioga George,nickname
 1,The Tioga Kid,nickname
 1,Trolley Line,nickname
-1,Howie,nickname
 1,Low,nickname
-1,Shorty,nickname
-1,Pickles,nickname
 1,String,nickname
 1,Pudgy,nickname
 1,Ol' Stubblebeard,nickname
-1,Iron Duke,nickname
 1,Cully,nickname
 1,Smoked Herring,nickname
 1,Hob,nickname
 1,Shovel,nickname
 1,Dickey,nickname
 1,Dickie,nickname
-1,Major,nickname
 1,Minooka Mike,nickname
-1,John,nickname
 1,The Alabama Blossom,nickname
-1,Dasher,nickname
-1,Rubber Arm,nickname
 1,Horse Belly,nickname
-1,Germany,nickname
 1,Grunting Jim,nickname
-1,Gentleman George,nickname
 1,Gorgeous George,nickname
 1,Sizzler,nickname
 1,Billy The Kid,nickname
-1,Birdie,nickname
-1,Shag,nickname
 1,Millionaire Indian,nickname
-1,Mack,nickname
 1,Marsh,nickname
 1,T-Bone,nickname
 1,Cocoa,nickname
-1,Sparky,nickname
-1,Stan,nickname
-1,Bruno,nickname
-1,Smiley,nickname
-1,Howdy,nickname
 1,Coaster Joe,nickname
-1,Moxie,nickname
-1,Little Joe,nickname
-1,Gary,nickname
 1,Inch,nickname
 1,Beanie,nickname
 1,Harry the Horse,nickname
 1,Bootnose,nickname
-1,Stu,nickname
-1,Cactus,nickname
 1,Razor,nickname
-1,Duster,nickname
 1,The Great,nickname
 1,Wickey,nickname
-1,Little Mac,nickname
-1,Lee,nickname
 1,Leaping Mike,nickname
 1,Bing,nickname
 1,Shoemaker,nickname
 1,The Knight of Kennett Square,nickname
 1,The Silver Fox,nickname
-1,Otto,nickname
 1,El Hombre Goma,nickname
 1,Simon,nickname
-1,Pancho,nickname
 1,Suds,nickname
 1,Doc Twink,nickname
 1,Wamby,nickname
 1,Penny,nickname
 1,Sweetbreads,nickname
-1,Flea,nickname
-1,Pooch,nickname
-1,Skeeter,nickname
-1,Dan,nickname
 1,Windy,nickname
 1,Country,nickname
 1,Pea Soup,nickname
 1,Governor,nickname
 1,Moonlight Ace,nickname
-1,Snake,nickname
-1,Bunker,nickname
-1,Lucky,nickname
-1,Hardrock,nickname
-1,Sugar,nickname
 1,Highpockets,nickname
 1,Wiz,nickname
 1,Bub,nickname
 1,Handsome Hugh,nickname
 1,Big Serb,nickname
-1,Peck,nickname
 1,Jughandle Johnny,nickname
 1,Pal,nickname
 1,Parky,nickname
 1,Slicker,nickname
-1,Old Folks,nickname
 1,Easy,nickname
-1,Gibby,nickname
 1,The Bambino,nickname
 1,The Sultan of Swat,nickname
 1,Gentleman Joe,nickname
@@ -399,38 +1303,20 @@ frequency,name,type
 1,Bluejacket,nickname
 1,Greenfield Jimmy,nickname
 1,Bosco,nickname
-1,Ad,nickname
 1,Merito,nickname
-1,Jimmie,nickname
-1,Turkey,nickname
-1,Pudge,nickname
 1,The Boy Wonder,nickname
-1,Chicken,nickname
 1,Rajah,nickname
-1,Will,nickname
 1,Bevo,nickname
 1,The Count of Luxemburg,nickname
-1,Long Bob,nickname
 1,Silent Bob,nickname
-1,Bananas,nickname
 1,Puss Mullen,nickname
-1,Sailor,nickname
 1,Racehorse,nickname
 1,Hypie,nickname
 1,Muddy,nickname
-1,Eagle Eye,nickname
-1,Chad,nickname
-1,Socks,nickname
-1,Rock,nickname
 1,Wardie,nickname
-1,Denny,nickname
 1,Lank,nickname
-1,Big Tom,nickname
-1,Butcher Boy,nickname
 1,Comet,nickname
 1,Old Pard,nickname
-1,Zeke,nickname
-1,Hi,nickname
 1,Huckleberry,nickname
 1,Lu,nickname
 1,Big Bow,nickname
@@ -440,37 +1326,22 @@ frequency,name,type
 1,Snooks,nickname
 1,Jumping Joe,nickname
 1,Deeby,nickname
-1,Fats,nickname
-1,Frankie,nickname
 1,The Fordham Flash,nickname
-1,Sad Sam,nickname
 1,Cracker,nickname
-1,Handy Andy,nickname
 1,Bubber,nickname
-1,Scrap Iron,nickname
 1,Good Time Bill,nickname
-1,Freddy,nickname
-1,Long Tom,nickname
 1,Scootch,nickname
 1,Jabber,nickname
-1,Bad Bill,nickname
-1,Chet,nickname
 1,Trackhorse,nickname
 1,Lumber,nickname
 1,Topper,nickname
 1,Henie,nickname
 1,Shine,nickname
 1,Oil,nickname
-1,Spider,nickname
 1,Bugger,nickname
 1,Breezy,nickname
 1,Kettle,nickname
-1,Ross,nickname
-1,Benny,nickname
-1,Clint,nickname
 1,Goobers,nickname
-1,Cal,nickname
-1,Cat,nickname
 1,Uke,nickname
 1,The Smoke,nickname
 1,Cuy,nickname
@@ -486,15 +1357,10 @@ frequency,name,type
 1,Sparkplug,nickname
 1,Pinches,nickname
 1,Little Hawk,nickname
-1,Firpo,nickname
 1,Smiler,nickname
 1,Toney,nickname
-1,Rosy,nickname
 1,Webb,nickname
-1,Old Hoss,nickname
-1,Zack,nickname
 1,Memphis Bill,nickname
-1,Pie,nickname
 1,Harlem,nickname
 1,The Bull,nickname
 1,Weeping Willie,nickname
@@ -504,67 +1370,616 @@ frequency,name,type
 1,Seacap,nickname
 1,The Kentucky Colonel,nickname
 1,Pea Ridge,nickname
-1,Tod,nickname
 1,L.G.,nickname
 1,Ellie,nickname
-1,Fitz,nickname
 1,The Deer,nickname
 1,June,nickname
 1,Unser Choe,nickname
 1,Barnyard,nickname
-1,Sonny,nickname
-1,Schoolboy,nickname
 1,Shakes,nickname
 1,Yucca,nickname
 1,Harlem Joe,nickname
 1,Dud,nickname
 1,Waddy,nickname
-1,Freddie,nickname
-1,Ski,nickname
 1,Spinach,nickname
 1,Lenny,nickname
-1,Pick,nickname
 1,The Danish Viking,nickname
 1,Tink,nickname
 1,Chinski,nickname
 1,Kansas City Kid,nickname
 1,Sloppy,nickname
 1,Ode,nickname
-1,Buddy,nickname
-1,Allie,nickname
 1,Hoge,nickname
-1,Eppie,nickname
 1,Honey,nickname
 1,Whispering Bill,nickname
-1,Jersey,nickname
-1,Footsie,nickname
-1,Big John,nickname
-1,Sunny Jim,nickname
-1,Rufe,nickname
-1,Hughie,nickname
 1,Tomato Face,nickname
 1,Curlie,nickname
-1,Boob,nickname
 1,Dot,nickname
-1,Silent John,nickname
 1,Goose,nickname
-1,Boots,nickname
 1,Gabby - Old Tomato Face,nickname
 1,Syl,nickname
-1,Wes,nickname
 1,Dodo,nickname
 1,Sunday Teddy,nickname
-1,Stubby,nickname
 1,Jule,nickname
-1,Rusty,nickname
 1,Bull Montana,nickname
 1,Shucks,nickname
 1,Okkie,nickname
-1,Merv,nickname
-1,Vince,nickname
-1,Moe,nickname
 1,The Rabbi of Swat,nickname
-1,Clay,nickname
-1,Spike,nickname
-1,"Ed, Eddie",nickname
 1,Satchelfoot,nickname
+1,Silk Stockings,nickname
+1,One Arm,nickname
+1,The Darling,nickname
+1,Alamazoo,nickname
+1,Tricky,nickname
+1,Orator Jim,nickname
+1,Bald Billy,nickname
+1,The Orator,nickname
+1,Live Oak,nickname
+1,Grin,nickname
+1,Dory,nickname
+1,Thorny,nickname
+1,Baby - Charley - Charlie,nickname
+1,Trick,nickname
+1,Piano Legs,nickname
+1,Flip,nickname
+1,Leech,nickname
+1,Redleg,nickname
+1,Partridge,nickname
+1,Move Up Joe,nickname
+1,Yaller Bill,nickname
+1,The Only,nickname
+1,Curry,nickname
+1,Blonde Guy,nickname
+1,Hustling Dan,nickname
+1,Dordy,nickname
+1,Fleet,nickname
+1,Dear Old Roger,nickname
+1,Jonah,nickname
+1,Smiling Tim,nickname
+1,Grasshopper Jim,nickname
+1,"J.B., JB, Joe",nickname
+1,Nin,nickname
+1,Wiman,nickname
+1,Daisy,nickname
+1,Buttercup,nickname
+1,Bill - Little Willie - Willie,nickname
+1,Sparrow,nickname
+1,Medicine Bill,nickname
+1,Icicle,nickname
+1,Laurie,nickname
+1,Rooney,nickname
+1,Gid,nickname
+1,Mert,nickname
+1,Pa,nickname
+1,Quiet Joe,nickname
+1,Emory,nickname
+1,Big Dave - Big Dave Orr - Dave,nickname
+1,Dupee,nickname
+1,Handsome Henry,nickname
+1,Bart,nickname
+1,Jumping Jack,nickname
+1,Edgar,nickname
+1,Cub,nickname
+1,Dell,nickname
+1,C.V.,nickname
+1,Mart,nickname
+1,Pisch,nickname
+1,Ecky,nickname
+1,White Wings,nickname
+1,Law,nickname
+1,Hardie,nickname
+1,Fleury,nickname
+1,Peek-A-Boo,nickname
+1,Podge,nickname
+1,Ki,nickname
+1,Sim,nickname
+1,Bones,nickname
+1,Chippy,nickname
+1,Skyrocket,nickname
+1,Rasty,nickname
+1,Oyster,nickname
+1,Pit,nickname
+1,Roaring Bill,nickname
+1,Ed - Mack,nickname
+1,Prunes,nickname
+1,Gentle Willie,nickname
+1,Voiceless Tim,nickname
+1,Harrison,nickname
+1,Yatz,nickname
+1,Toad,nickname
+1,Uncle Robbie,nickname
+1,Scooper Bill,nickname
+1,Little Bill,nickname
+1,Roscoe,nickname
+1,Sun,nickname
+1,Miah,nickname
+1,Park,nickname
+1,Mother,nickname
+1,Duffmeier,nickname
+1,The Duke of Marlborough,nickname
+1,Egyptian,nickname
+1,Chewing Gum,nickname
+1,Taylor,nickname
+1,Lev,nickname
+1,Tun,nickname
+1,Honest Jack,nickname
+1,Cupid,nickname
+1,What's The Use,nickname
+1,Hunkey,nickname
+1,Bug,nickname
+1,Jouett,nickname
+1,Cinders,nickname
+1,Princeton Charlie,nickname
+1,Iron Mike,nickname
+1,Old Wax Figger,nickname
+1,Tacky Tom,nickname
+1,"Happy Jack, Jack",nickname
+1,Neil,nickname
+1,Bird Eye,nickname
+1,Dodo Bird,nickname
+1,Tommy the Cork,nickname
+1,Buttermilk Tommy,nickname
+1,Dirty Jack,nickname
+1,Slim Jim,nickname
+1,The Old Fox,nickname
+1,Coldwater Jim,nickname
+1,Jedediah,nickname
+1,Toby,nickname
+1,Algie,nickname
+1,Floyd,nickname
+1,Gorgeous,nickname
+1,Jot,nickname
+1,Pugger,nickname
+1,Honest Tom,nickname
+1,"Ollie, Pick",nickname
+1,Pussy,nickname
+1,Strawberry Bill,nickname
+1,Smiling George,nickname
+1,Peaceful Valley,nickname
+1,"Jack, Rip, Silver Fox",nickname
+1,Dibby,nickname
+1,Abbie,nickname
+1,Iron Man - Joe,nickname
+1,Skel,nickname
+1,The Hoosier Thunderbolt,nickname
+1,Old Gray Fox,nickname
+1,Butts,nickname
+1,"Addie, Babe, Doc",nickname
+1,Stoney,nickname
+1,Deacon - The Great Phillippi,nickname
+1,Deke,nickname
+1,Burley,nickname
+1,Derby Day Bill,nickname
+1,Sir Richard,nickname
+1,Jasper,nickname
+1,Gussie,nickname
+1,Chummy,nickname
+1,Youngy,nickname
+1,Shady Bill,nickname
+1,Diamond Joe,nickname
+1,Little All Right,nickname
+1,Cooney,nickname
+1,Sunny Jack,nickname
+1,Tornado Jake,nickname
+1,Fighting Harry,nickname
+1,Sunset Jimmy,nickname
+1,Frosty Bill,nickname
+1,Hobe,nickname
+1,Popup John,nickname
+1,Topsy,nickname
+1,Still Bill,nickname
+1,Sport,nickname
+1,Barry,nickname
+1,Win - Winnie,nickname
+1,Kohly,nickname
+1,Tully,nickname
+1,Powder,nickname
+1,Libe,nickname
+1,Kaiser,nickname
+1,Franklin,nickname
+1,Buttons,nickname
+1,Rome,nickname
+1,Bunk,nickname
+1,Peeksill Pete,nickname
+1,Carney,nickname
+1,Little Phil,nickname
+1,Jackrabbit,nickname
+1,Maggie - Topsy,nickname
+1,Gettysburg Eddie,nickname
+1,Scout,nickname
+1,Gump,nickname
+1,Percy,nickname
+1,Old Pardee,nickname
+1,Daff,nickname
+1,Cheerful Charlie,nickname
+1,Twilight Ed,nickname
+1,Home Run Joe,nickname
+1,Silent Joe,nickname
+1,Rubberlegs,nickname
+1,Dirty Dave,nickname
+1,Offa,nickname
+1,Flossie,nickname
+1,Boy Wonder,nickname
+1,Spitball,nickname
+1,She,nickname
+1,Moonlight,nickname
+1,Vive,nickname
+1,Champ,nickname
+1,Lefty Porter,nickname
+1,War,nickname
+1,Firebrand,nickname
+1,Grant,nickname
+1,Smiling Bock,nickname
+1,"Dutch, Erve",nickname
+1,Scranton Bill,nickname
+1,Turkey Mike,nickname
+1,Spartenburg John,nickname
+1,Uncle Charlie,nickname
+1,Silent Jake,nickname
+1,Highball,nickname
+1,Sassafrass,nickname
+1,Big Gene,nickname
+1,The Duke of Tralee,nickname
+1,C.B.,nickname
+1,Noodles,nickname
+1,Zaza,nickname
+1,Flip Flap,nickname
+1,"Big City, Big City Tim, Tim",nickname
+1,Human Ripcord,nickname
+1,Piano Mover,nickname
+1,Bullet Jack,nickname
+1,Sleepy Bill,nickname
+1,Wahoo Sam,nickname
+1,Crese,nickname
+1,Pot,nickname
+1,Pud,nickname
+1,Walter,nickname
+1,Simmy,nickname
+1,Yiddish Curver,nickname
+1,Putty,nickname
+1,Boss,nickname
+1,Muskrat Bill,nickname
+1,Tanny,nickname
+1,Dike,nickname
+1,O.F.,nickname
+1,"Chappie, Chappy",nickname
+1,Biddy,nickname
+1,Wish,nickname
+1,Vinegar Bill,nickname
+1,Steamer,nickname
+1,Buffalo Bill,nickname
+1,Beany,nickname
+1,Swat,nickname
+1,Arch,nickname
+1,Humpty,nickname
+1,Tad,nickname
+1,Claude,nickname
+1,Gerry,nickname
+1,Swats,nickname
+1,Frosty,nickname
+1,Army,nickname
+1,Jap,nickname
+1,Pudgie,nickname
+1,Circus Solly,nickname
+1,Conny,nickname
+1,Salt Rock,nickname
+1,Big Jeff,nickname
+1,Roxey,nickname
+1,Cuke,nickname
+1,Pree,nickname
+1,Shook,nickname
+1,Harvard Eddie,nickname
+1,Seagan,nickname
+1,Ironman Liebhardt,nickname
+1,"Jimmy, Queenie",nickname
+1,Welch,nickname
+1,Divvy,nickname
+1,Salida Tom,nickname
+1,Slothful Bill,nickname
+1,Wild,nickname
+1,Deedle,nickname
+1,Gulfport,nickname
+1,Hunky,nickname
+1,Tabasco Tom,nickname
+1,Mysterious,nickname
+1,Corns,nickname
+1,Shano,nickname
+1,Vean,nickname
+1,Howling Dan,nickname
+1,Baron,nickname
+1,Big Mac - McQuillan The Giant Killer,nickname
+1,Gitz,nickname
+1,Ivy,nickname
+1,Sled,nickname
+1,Beals,nickname
+1,Cad,nickname
+1,Wheezer,nickname
+1,Deek,nickname
+1,Laughing Larry,nickname
+1,Kid Durbin,nickname
+1,Holy,nickname
+1,B.G.,nickname
+1,Vincent,nickname
+1,Dots,nickname
+1,Bullet,nickname
+1,Wib,nickname
+1,Buzzy,nickname
+1,Orlie,nickname
+1,Redskin,nickname
+1,Petie,nickname
+1,Ping,nickname
+1,Donie,nickname
+1,Commy,nickname
+1,Cutty,nickname
+1,Pecks,nickname
+1,Mutz,nickname
+1,Rhino,nickname
+1,Hoop,nickname
+1,Shoeless Joe,nickname
+1,The Big Train,nickname
+1,Reindeer Bill,nickname
+1,Big Boy,nickname
+1,Clare,nickname
+1,Finners,nickname
+1,Rawmeat Bill,nickname
+1,Tilly,nickname
+1,"Heinie, The Great Zim",nickname
+1,Wesley,nickname
+1,Vin - Vint,nickname
+1,Soldier Boy,nickname
+1,Grover,nickname
+1,Duffy,nickname
+1,Lep,nickname
+1,Molly,nickname
+1,Filbert,nickname
+1,Bedford Bill,nickname
+1,Death Valley Jim,nickname
+1,Colonel - Mountain - The Tennessee Mountain,nickname
+1,Gloomy Gus,nickname
+1,Fin,nickname
+1,Polly,nickname
+1,Boardwalk,nickname
+1,Wilson,nickname
+1,Krum,nickname
+1,Oyster Joe,nickname
+1,Muck,nickname
+1,Rifle Jim,nickname
+1,Reb,nickname
+1,Tillie,nickname
+1,Big Stick,nickname
+1,Lightning Strunk,nickname
+1,Satan,nickname
+1,King Tut,nickname
+1,Squanto,nickname
+1,The Mississippi Mudcat,nickname
+1,Giant Killer,nickname
+1,Wattie,nickname
+1,Skins,nickname
+1,Carlisle,nickname
+1,Otis,nickname
+1,Jimmie - The Gold Dust Twins (w / Lyn Lary),nickname
+1,Scottie,nickname
+1,Carr,nickname
+1,Tige,nickname
+1,Sukey,nickname
+1,Cleo,nickname
+1,Ownie,nickname
+1,Kiddo,nickname
+1,Mose,nickname
+1,Smudge,nickname
+1,Pip,nickname
+1,"Bob (Born Emmet, Media Used Emmett)",nickname
+1,Squire,nickname
+1,Von,nickname
+1,Pee-Wee,nickname
+1,Kilowatt,nickname
+1,Sundown,nickname
+1,Black Mike - Mickey,nickname
+1,Crabby,nickname
+1,Roxy,nickname
+1,Clise,nickname
+1,Joe - Double Joe,nickname
+1,Cholly,nickname
+1,Poss,nickname
+1,Stonewall,nickname
+1,Poosh 'Em Up Tony,nickname
+1,Mape,nickname
+1,Nolen,nickname
+1,Scow,nickname
+1,Big Poison,nickname
+1,Yats,nickname
+1,Jittery Joe,nickname
+1,Gimpy,nickname
+1,Spider Bill,nickname
+1,Ripper,nickname
+1,Buz,nickname
+1,Pid,nickname
+1,Oskie,nickname
+1,Fish Hook,nickname
+1,Bullet Ben,nickname
+1,Teach,nickname
+1,"The All-American Out, The Lip",nickname
+1,Pound 'Em,nickname
+1,Gordie,nickname
+1,Cobe,nickname
+1,Deacon Danny,nickname
+1,Dinny,nickname
+1,Line Drive,nickname
+1,Shirt,nickname
+1,Kewpie Dick,nickname
+1,The Parkin Kid,nickname
+1,Roxie,nickname
+1,Bots,nickname
+1,Satchel,nickname
+1,Blondy,nickname
+1,Art The Great,nickname
+1,Stewy,nickname
+1,Lin,nickname
+1,Inky,nickname
+1,Overton,nickname
+1,Little Poison,nickname
+1,Biggs,nickname
+1,Poison Ivy,nickname
+1,"Dick, Rowdy Richard, Shortwave, The Alameda Insect",nickname
+1,Beau,nickname
+1,Crooning Joe,nickname
+1,Ug,nickname
+1,Dolie,nickname
+1,Three Star,nickname
+1,Hildy,nickname
+1,Dig,nickname
+1,Wayne,nickname
+1,Suitcase Bob,nickname
+1,Good Kid,nickname
+1,Whit,nickname
+1,Stinky,nickname
+1,Gabby - Joe,nickname
+1,Ol' Mate,nickname
+1,Twinkletoes,nickname
+1,Casper,nickname
+1,Squeaky,nickname
+1,Hump,nickname
+1,Chile,nickname
+1,Gunboat,nickname
+1,Smiling Stan,nickname
+1,Chief - Mel,nickname
+1,Brown,nickname
+1,Mule Trader,nickname
+1,Fiddler Bill,nickname
+1,Eric,nickname
+1,Master Melvin,nickname
+1,Lon - The Arkansas Hummingbird,nickname
+1,Spades,nickname
+1,Big Six - Submarine,nickname
+1,Boze,nickname
+1,Sidee,nickname
+1,Diz - Dizzy - The Great Man,nickname
+1,"Charley, Charlie",nickname
+1,"Johnny, Ugly",nickname
+1,Eppa,nickname
+1,Tobacco Chewin' Johnny,nickname
+1,The Georgia Express - Wally,nickname
+1,Prince,nickname
+1,Pretzel,nickname
+1,Dykes,nickname
+1,Dib,nickname
+1,Nino,nickname
+1,Snitz,nickname
+1,Jake the Snake,nickname
+1,Harry The Horse,nickname
+1,The Great Gabbo,nickname
+1,Roland,nickname
+1,Buddy - The Bronx Thrush,nickname
+1,Sage,nickname
+1,Nub,nickname
+1,Ducky - Joe - Muscles,nickname
+1,Vito,nickname
+1,Coaker,nickname
+1,"Big Bill, Bill, Billy, Lefty",nickname
+1,Taffy,nickname
+1,Linc,nickname
+1,Dynamo,nickname
+1,Darkie,nickname
+1,Daffy,nickname
+1,Yo-Yo,nickname
+1,Greek,nickname
+1,Mem,nickname
+1,Maltzy,nickname
+1,Hiker,nickname
+1,Salty,nickname
+1,Mr. X,nickname
+1,Broadway Bill,nickname
+1,Gander,nickname
+1,Arky,nickname
+1,Whale,nickname
+1,Icehouse,nickname
+1,Black Jack,nickname
+1,Stretch,nickname
+1,Kerby,nickname
+1,Big Joe,nickname
+1,Packy,nickname
+1,Alf,nickname
+1,Bingo,nickname
+1,Harry The Cat,nickname
+1,Chilly,nickname
+1,Dingle,nickname
+1,Rod,nickname
+1,Emerson,nickname
+1,Blix,nickname
+1,"Eddie, Pepper",nickname
+1,Lynn,nickname
+1,Big Bill - Bill - Swish,nickname
+1,Fatso,nickname
+1,Bomber - The Belgian Bomber,nickname
+1,Otey,nickname
+1,Walker,nickname
+1,Skeets,nickname
+1,Diggsy,nickname
+1,Big Luke,nickname
+1,Lum,nickname
+1,Arnie,nickname
+1,Subway Sam,nickname
+1,Mayo,nickname
+1,Vinnie,nickname
+1,Ed - Eddie - The Brat,nickname
+1,Oad,nickname
+1,Blue Devil,nickname
+1,The Antelope,nickname
+1,The Glove Man,nickname
+1,Thomas Edison of the Mound,nickname
+1,Elbie,nickname
+1,Cecil,nickname
+1,Bruz,nickname
+1,Chico,nickname
+1,Lodi,nickname
+1,Willie the Knuck,nickname
+1,Bama,nickname
+1,"Country, Eno",nickname
+1,Stopper,nickname
+1,Harry The Hat,nickname
+1,Fuzz,nickname
+1,Adrian,nickname
+1,Mitch,nickname
+1,Dagy,nickname
+1,Bubba,nickname
+1,Ged - Old Ged,nickname
+1,Eli,nickname
+1,Jelly,nickname
+1,P-nuts - Peanuts,nickname
+1,Anse,nickname
+1,"Danny, The Whistling Irishman",nickname
+1,Phil - Scooter,nickname
+1,Creepy,nickname
+1,Piccolo Pete,nickname
+1,Nanny,nickname
+1,Nubs,nickname
+1,Texas Jack,nickname
+1,Knobby,nickname
+1,Hillis,nickname
+1,Chewy - Little Louie - Lou,nickname
+1,Limonar,nickname
+1,Ronnie,nickname
+1,Bitsy,nickname
+1,Chucho,nickname
+1,Watsie,nickname
+1,Neb,nickname
+1,Snuffy,nickname
+1,Forrest,nickname
+1,Rugger,nickname
+1,"Bob, Rope, The Rope",nickname
+1,Wheels,nickname
+1,Ding-A-Ling,nickname
+1,Crash,nickname
+1,El Jíbaro (The Hillbilly),nickname
+1,Baby,nickname
+1,Johnny - Needle Nose,nickname
+1,The Springfield Rifle - Vic,nickname
+1,Strick,nickname
+1,Gulliver,nickname
+1,Catfish,nickname
+1,Gus - Greek,nickname
+1,Ron,nickname
+1,Footie,nickname
+1,Frank - Spec - The Naugatuck Nugget,nickname
+1,Sibby,nickname
+1,"Gerry, Jerry",nickname

@@ -1,0 +1,3877 @@
+{
+  "meta": {
+    "source": "Baseball Almanac",
+    "collection_date": "2025-03-20",
+    "years_covered": "1845-1854",
+    "total_players": 172,
+    "unique_first_names": 88,
+    "unique_last_names": 146,
+    "unique_nicknames": 90
+  },
+  "name_lists": {
+    "first_names": [
+      {
+        "name": "Luis",
+        "frequency": 10,
+        "type": "first_name"
+      },
+      {
+        "name": "Juan",
+        "frequency": 10,
+        "type": "first_name"
+      },
+      {
+        "name": "John",
+        "frequency": 10,
+        "type": "first_name"
+      },
+      {
+        "name": "Charlie",
+        "frequency": 8,
+        "type": "first_name"
+      },
+      {
+        "name": "George",
+        "frequency": 8,
+        "type": "first_name"
+      },
+      {
+        "name": "Jim",
+        "frequency": 7,
+        "type": "first_name"
+      },
+      {
+        "name": "Bill",
+        "frequency": 6,
+        "type": "first_name"
+      },
+      {
+        "name": "Sam",
+        "frequency": 5,
+        "type": "first_name"
+      },
+      {
+        "name": "Joe",
+        "frequency": 5,
+        "type": "first_name"
+      },
+      {
+        "name": "Dick",
+        "frequency": 4,
+        "type": "first_name"
+      },
+      {
+        "name": "Ed",
+        "frequency": 4,
+        "type": "first_name"
+      },
+      {
+        "name": "Mike",
+        "frequency": 4,
+        "type": "first_name"
+      },
+      {
+        "name": "Harry",
+        "frequency": 3,
+        "type": "first_name"
+      },
+      {
+        "name": "Oscar",
+        "frequency": 2,
+        "type": "first_name"
+      },
+      {
+        "name": "Candy",
+        "frequency": 2,
+        "type": "first_name"
+      },
+      {
+        "name": "Dave",
+        "frequency": 2,
+        "type": "first_name"
+      },
+      {
+        "name": "Bobby",
+        "frequency": 2,
+        "type": "first_name"
+      },
+      {
+        "name": "Tim",
+        "frequency": 2,
+        "type": "first_name"
+      },
+      {
+        "name": "Al",
+        "frequency": 2,
+        "type": "first_name"
+      },
+      {
+        "name": "Tom",
+        "frequency": 2,
+        "type": "first_name"
+      },
+      {
+        "name": "Billy",
+        "frequency": 2,
+        "type": "first_name"
+      },
+      {
+        "name": "Steve",
+        "frequency": 2,
+        "type": "first_name"
+      },
+      {
+        "name": "Pete",
+        "frequency": 2,
+        "type": "first_name"
+      },
+      {
+        "name": "Frank",
+        "frequency": 2,
+        "type": "first_name"
+      },
+      {
+        "name": "Doc",
+        "frequency": 2,
+        "type": "first_name"
+      },
+      {
+        "name": "Jack",
+        "frequency": 2,
+        "type": "first_name"
+      },
+      {
+        "name": "Ned",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Bob",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Nat",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Everett",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Lip",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Doug",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Andy",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Josh",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Hugh",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Scott",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Deacon",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Amos",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Art",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Davy",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Jimmy",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Cal",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Ezra",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Fred",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Ross",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Tommy",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Morrie",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Alamazoo",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Denny",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Sandy",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Tricky",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Alex",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Chick",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Henry",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Orator",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Live",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Red",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Cap",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Dory",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Herm",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Lyman",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Charles",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Thorny",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Charley",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Juice",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Trick",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Jerry",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Dan",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Martin",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Jake",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Sonny",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Lon",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Johnny",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Asa",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Myron",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Clarence",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Flip",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Leech",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Jumbo",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Russ",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Pat",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Phil",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Blondie",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Old",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Lou",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Pop",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Redleg",
+        "frequency": 1,
+        "type": "first_name"
+      },
+      {
+        "name": "Will",
+        "frequency": 1,
+        "type": "first_name"
+      }
+    ],
+    "last_names": [
+      {
+        "name": "Garc\u00eda",
+        "frequency": 10,
+        "type": "last_name"
+      },
+      {
+        "name": "Soto",
+        "frequency": 10,
+        "type": "last_name"
+      },
+      {
+        "name": "Snyder",
+        "frequency": 3,
+        "type": "last_name"
+      },
+      {
+        "name": "Allison",
+        "frequency": 2,
+        "type": "last_name"
+      },
+      {
+        "name": "White",
+        "frequency": 2,
+        "type": "last_name"
+      },
+      {
+        "name": "Wright",
+        "frequency": 2,
+        "type": "last_name"
+      },
+      {
+        "name": "O'Rourke",
+        "frequency": 2,
+        "type": "last_name"
+      },
+      {
+        "name": "Nichols",
+        "frequency": 2,
+        "type": "last_name"
+      },
+      {
+        "name": "Manning",
+        "frequency": 2,
+        "type": "last_name"
+      },
+      {
+        "name": "Cuthbert",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Ferguson",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Hicks",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Mills",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Pike",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Leonard",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Schafer",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Bielaski",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Bunce",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Daily",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Gould",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Hastings",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Hatfield",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "McBride",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Sweasy",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Bechtel",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Booth",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Cummings",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Field",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Devlin",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Eggler",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Force",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Hall",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Hallinan",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "McVey",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Nelson",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Parks",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Sutton",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Waitt",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Andrus",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Barnes",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Beals",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Clack",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Clinton",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Critchley",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Holdsworth",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Jennings",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Little",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Mack",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Murnane",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Nava",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Peters",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Skinner",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Spalding",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Stedronsky",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "York",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Barnie",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Brady",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Caskin",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Clapp",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Fulmer",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Gillespie",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Golden",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Higham",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Kessler",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Mathews",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "McGeary",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "O'Brien",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Shafer",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Shoup",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Taylor",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Woodhead",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Anson",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Battin",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Bliss",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Bradley",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Cushman",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Dean",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Doscher",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Drake",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Dyler",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Evers",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Fisher",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Hautz",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Hawkes",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Jones",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Kimber",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "King",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Latham",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Luff",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "McSorley",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Quest",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Turbidy",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Berkelbach",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Blong",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Collins",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Dorgan",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Farrow",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Flaherty",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Goodman",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Hawes",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Hoffman",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Kennedy",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Knight",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Libby",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Mason",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Miller",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Pirie",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Ryan",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Somerville",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Stratton",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Sullivan",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "West",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Allen",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Bennett",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Borden",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Cogswell",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Crane",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Cullen",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Dow",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Ellick",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Gleason",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Gore",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Green",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Householder",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Hyndman",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Lafferty",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Landis",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Lawlor",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Lowe",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Maskrey",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "McCloskey",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "McGinnis",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "McKelvy",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "McKenna",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Morris",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Morton",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Mundinger",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Phelan",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Powers",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Purcell",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Radbourn",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Rowe",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Say",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Shanley",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Tobin",
+        "frequency": 1,
+        "type": "last_name"
+      },
+      {
+        "name": "Walker",
+        "frequency": 1,
+        "type": "last_name"
+      }
+    ],
+    "nicknames": [
+      {
+        "name": "Soto Pacheco",
+        "frequency": 10,
+        "type": "nickname"
+      },
+      {
+        "name": "Charlie",
+        "frequency": 8,
+        "type": "nickname"
+      },
+      {
+        "name": "Bill",
+        "frequency": 6,
+        "type": "nickname"
+      },
+      {
+        "name": "Sam",
+        "frequency": 5,
+        "type": "nickname"
+      },
+      {
+        "name": "Joe",
+        "frequency": 5,
+        "type": "nickname"
+      },
+      {
+        "name": "Dick",
+        "frequency": 4,
+        "type": "nickname"
+      },
+      {
+        "name": "Jim",
+        "frequency": 4,
+        "type": "nickname"
+      },
+      {
+        "name": "Ed",
+        "frequency": 4,
+        "type": "nickname"
+      },
+      {
+        "name": "Mike",
+        "frequency": 4,
+        "type": "nickname"
+      },
+      {
+        "name": "Candy",
+        "frequency": 2,
+        "type": "nickname"
+      },
+      {
+        "name": "Dave",
+        "frequency": 2,
+        "type": "nickname"
+      },
+      {
+        "name": "Tim",
+        "frequency": 2,
+        "type": "nickname"
+      },
+      {
+        "name": "Al",
+        "frequency": 2,
+        "type": "nickname"
+      },
+      {
+        "name": "Tom",
+        "frequency": 2,
+        "type": "nickname"
+      },
+      {
+        "name": "Steve",
+        "frequency": 2,
+        "type": "nickname"
+      },
+      {
+        "name": "Pete",
+        "frequency": 2,
+        "type": "nickname"
+      },
+      {
+        "name": "Pop",
+        "frequency": 2,
+        "type": "nickname"
+      },
+      {
+        "name": "Jumbo",
+        "frequency": 2,
+        "type": "nickname"
+      },
+      {
+        "name": "Doc",
+        "frequency": 2,
+        "type": "nickname"
+      },
+      {
+        "name": "Jack",
+        "frequency": 2,
+        "type": "nickname"
+      },
+      {
+        "name": "Ned",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Death to Flying Things",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Old Fergy",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Nat",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "The Iron Batter",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Doug",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Andy",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Silk Stockings",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Josh",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "One Arm",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Deacon",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "The Darling",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Father of the Curveball",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Art",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Davy",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Davey",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Tom Thumb",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Jimmy",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Cal",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Fred",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Ross",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Tommy",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Bobby",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Gentlemanly Bob",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Big Jim",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Long Jim",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Denny",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Sandy",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Tricky",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Orator Jim",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Alex",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "A.G.",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Bald Billy",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Honest John",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Chick",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Lucky",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Lucky Henry",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Little Bobby",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "The Orator",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Live Oak",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Red",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Cap",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Grin",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Dory",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Thorny",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Baby - Charley - Charlie",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Juice",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Harry",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Trick",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Jerry",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Dan",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Jake",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Sonny",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Doggie",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Foghorn",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Johnny",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Billy",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Zeke",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Piano Legs",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Flip",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Russ",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Pat",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Grandmother",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Phil",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Blondie",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Old Hoss",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Lou",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Redleg",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Whoop-La",
+        "frequency": 1,
+        "type": "nickname"
+      },
+      {
+        "name": "Will",
+        "frequency": 1,
+        "type": "nickname"
+      }
+    ]
+  },
+  "players": [
+    {
+      "full_name": "Luis Garc\u00eda",
+      "birth_date": "",
+      "death_date": "",
+      "debut_year": "",
+      "final_year": "",
+      "source": "Baseball Almanac",
+      "birth_year": 1845,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=garcilu04",
+      "first_name": "Luis",
+      "last_name": "Garc\u00eda",
+      "nickname": ""
+    },
+    {
+      "full_name": "Juan Soto",
+      "birth_date": "",
+      "death_date": "",
+      "debut_year": "",
+      "final_year": "",
+      "source": "Baseball Almanac",
+      "birth_year": 1845,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=sotoju01",
+      "first_name": "Juan",
+      "last_name": "Soto",
+      "nickname": "Soto Pacheco"
+    },
+    {
+      "full_name": "Ned\u00a0Cuthbert",
+      "birth_date": "06-20-1845",
+      "death_date": "02-06-1905",
+      "debut_year": "1876",
+      "final_year": "1884",
+      "source": "Baseball Almanac",
+      "birth_year": 1845,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=cuthbne01",
+      "first_name": "Ned",
+      "last_name": "Cuthbert",
+      "nickname": "Ned"
+    },
+    {
+      "full_name": "Bob\u00a0Ferguson",
+      "birth_date": "01-31-1845",
+      "death_date": "05-03-1894",
+      "debut_year": "1876",
+      "final_year": "1884",
+      "source": "Baseball Almanac",
+      "birth_year": 1845,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=fergubo01",
+      "first_name": "Bob",
+      "last_name": "Ferguson",
+      "nickname": "Death to Flying Things or Old Fergy"
+    },
+    {
+      "full_name": "Nat\u00a0Hicks",
+      "birth_date": "04-19-1845",
+      "death_date": "04-21-1907",
+      "debut_year": "1876",
+      "final_year": "1877",
+      "source": "Baseball Almanac",
+      "birth_year": 1845,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=hicksna01",
+      "first_name": "Nat",
+      "last_name": "Hicks",
+      "nickname": "Nat"
+    },
+    {
+      "full_name": "Everett\u00a0Mills",
+      "birth_date": "01-20-1845",
+      "death_date": "06-22-1908",
+      "debut_year": "1876",
+      "final_year": "1876",
+      "source": "Baseball Almanac",
+      "birth_year": 1845,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=millsev01",
+      "first_name": "Everett",
+      "last_name": "Mills",
+      "nickname": ""
+    },
+    {
+      "full_name": "Lip\u00a0Pike",
+      "birth_date": "05-25-1845",
+      "death_date": "10-10-1893",
+      "debut_year": "1876",
+      "final_year": "1887",
+      "source": "Baseball Almanac",
+      "birth_year": 1845,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=pikeli01",
+      "first_name": "Lip",
+      "last_name": "Pike",
+      "nickname": "The Iron Batter"
+    },
+    {
+      "full_name": "Luis Garc\u00eda",
+      "birth_date": "",
+      "death_date": "",
+      "debut_year": "",
+      "final_year": "",
+      "source": "Baseball Almanac",
+      "birth_year": 1846,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=garcilu04",
+      "first_name": "Luis",
+      "last_name": "Garc\u00eda",
+      "nickname": ""
+    },
+    {
+      "full_name": "Juan Soto",
+      "birth_date": "",
+      "death_date": "",
+      "debut_year": "",
+      "final_year": "",
+      "source": "Baseball Almanac",
+      "birth_year": 1846,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=sotoju01",
+      "first_name": "Juan",
+      "last_name": "Soto",
+      "nickname": "Soto Pacheco"
+    },
+    {
+      "full_name": "Doug\u00a0Allison",
+      "birth_date": "07-12-1846",
+      "death_date": "12-19-1916",
+      "debut_year": "1876",
+      "final_year": "1883",
+      "source": "Baseball Almanac",
+      "birth_year": 1846,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=allisdo01",
+      "first_name": "Doug",
+      "last_name": "Allison",
+      "nickname": "Doug"
+    },
+    {
+      "full_name": "Andy\u00a0Leonard",
+      "birth_date": "06-01-1846",
+      "death_date": "08-21-1903",
+      "debut_year": "1876",
+      "final_year": "1880",
+      "source": "Baseball Almanac",
+      "birth_year": 1846,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=leonaan01",
+      "first_name": "Andy",
+      "last_name": "Leonard",
+      "nickname": "Andy"
+    },
+    {
+      "full_name": "Harry\u00a0Schafer",
+      "birth_date": "08-14-1846",
+      "death_date": "02-28-1935",
+      "debut_year": "1876",
+      "final_year": "1878",
+      "source": "Baseball Almanac",
+      "birth_year": 1846,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=schafha01",
+      "first_name": "Harry",
+      "last_name": "Schafer",
+      "nickname": "Silk Stockings"
+    },
+    {
+      "full_name": "Luis Garc\u00eda",
+      "birth_date": "",
+      "death_date": "",
+      "debut_year": "",
+      "final_year": "",
+      "source": "Baseball Almanac",
+      "birth_year": 1847,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=garcilu04",
+      "first_name": "Luis",
+      "last_name": "Garc\u00eda",
+      "nickname": ""
+    },
+    {
+      "full_name": "Juan Soto",
+      "birth_date": "",
+      "death_date": "",
+      "debut_year": "",
+      "final_year": "",
+      "source": "Baseball Almanac",
+      "birth_year": 1847,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=sotoju01",
+      "first_name": "Juan",
+      "last_name": "Soto",
+      "nickname": "Soto Pacheco"
+    },
+    {
+      "full_name": "Oscar\u00a0Bielaski",
+      "birth_date": "03-21-1847",
+      "death_date": "11-08-1911",
+      "debut_year": "1876",
+      "final_year": "1876",
+      "source": "Baseball Almanac",
+      "birth_year": 1847,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=bielaos01",
+      "first_name": "Oscar",
+      "last_name": "Bielaski",
+      "nickname": ""
+    },
+    {
+      "full_name": "Josh\u00a0Bunce",
+      "birth_date": "05-10-1847",
+      "death_date": "04-28-1912",
+      "debut_year": "1877",
+      "final_year": "1877",
+      "source": "Baseball Almanac",
+      "birth_year": 1847,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=buncejo01",
+      "first_name": "Josh",
+      "last_name": "Bunce",
+      "nickname": "Josh"
+    },
+    {
+      "full_name": "Hugh\u00a0Daily",
+      "birth_date": "07-17-1847",
+      "death_date": "Unknown--",
+      "debut_year": "1882",
+      "final_year": "1887",
+      "source": "Baseball Almanac",
+      "birth_year": 1847,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=dailyhu01",
+      "first_name": "Hugh",
+      "last_name": "Daily",
+      "nickname": "One Arm"
+    },
+    {
+      "full_name": "Charlie\u00a0Gould",
+      "birth_date": "08-21-1847",
+      "death_date": "04-09-1917",
+      "debut_year": "1876",
+      "final_year": "1877",
+      "source": "Baseball Almanac",
+      "birth_year": 1847,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=gouldch01",
+      "first_name": "Charlie",
+      "last_name": "Gould",
+      "nickname": "Charlie"
+    },
+    {
+      "full_name": "Scott\u00a0Hastings",
+      "birth_date": "08-10-1847",
+      "death_date": "08-14-1907",
+      "debut_year": "1876",
+      "final_year": "1877",
+      "source": "Baseball Almanac",
+      "birth_year": 1847,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=hastisc01",
+      "first_name": "Scott",
+      "last_name": "Hastings",
+      "nickname": ""
+    },
+    {
+      "full_name": "John\u00a0Hatfield",
+      "birth_date": "07-20-1847",
+      "death_date": "02-20-1909",
+      "debut_year": "1876",
+      "final_year": "1876",
+      "source": "Baseball Almanac",
+      "birth_year": 1847,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=hatfijo01",
+      "first_name": "John",
+      "last_name": "Hatfield",
+      "nickname": ""
+    },
+    {
+      "full_name": "Dick\u00a0McBride",
+      "birth_date": "06-14-1847",
+      "death_date": "01-20-1916",
+      "debut_year": "1876",
+      "final_year": "1876",
+      "source": "Baseball Almanac",
+      "birth_year": 1847,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=mcbridi01",
+      "first_name": "Dick",
+      "last_name": "McBride",
+      "nickname": "Dick"
+    },
+    {
+      "full_name": "Charlie\u00a0Sweasy",
+      "birth_date": "11-02-1847",
+      "death_date": "03-30-1908",
+      "debut_year": "1876",
+      "final_year": "1878",
+      "source": "Baseball Almanac",
+      "birth_year": 1847,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=sweasch01",
+      "first_name": "Charlie",
+      "last_name": "Sweasy",
+      "nickname": "Charlie"
+    },
+    {
+      "full_name": "Deacon\u00a0White",
+      "birth_date": "12-07-1847",
+      "death_date": "07-07-1939",
+      "debut_year": "1876",
+      "final_year": "1890",
+      "source": "Baseball Almanac",
+      "birth_year": 1847,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=whitede01",
+      "first_name": "Deacon",
+      "last_name": "White",
+      "nickname": "Deacon"
+    },
+    {
+      "full_name": "George\u00a0Wright",
+      "birth_date": "01-28-1847",
+      "death_date": "08-21-1937",
+      "debut_year": "1876",
+      "final_year": "1882",
+      "source": "Baseball Almanac",
+      "birth_year": 1847,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=wrighge01",
+      "first_name": "George",
+      "last_name": "Wright",
+      "nickname": ""
+    },
+    {
+      "full_name": "Luis Garc\u00eda",
+      "birth_date": "",
+      "death_date": "",
+      "debut_year": "",
+      "final_year": "",
+      "source": "Baseball Almanac",
+      "birth_year": 1848,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=garcilu04",
+      "first_name": "Luis",
+      "last_name": "Garc\u00eda",
+      "nickname": ""
+    },
+    {
+      "full_name": "Juan Soto",
+      "birth_date": "",
+      "death_date": "",
+      "debut_year": "",
+      "final_year": "",
+      "source": "Baseball Almanac",
+      "birth_year": 1848,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=sotoju01",
+      "first_name": "Juan",
+      "last_name": "Soto",
+      "nickname": "Soto Pacheco"
+    },
+    {
+      "full_name": "George\u00a0Bechtel",
+      "birth_date": "09-02-1848",
+      "death_date": "04-03-1921",
+      "debut_year": "1876",
+      "final_year": "1876",
+      "source": "Baseball Almanac",
+      "birth_year": 1848,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=bechtge01",
+      "first_name": "George",
+      "last_name": "Bechtel",
+      "nickname": ""
+    },
+    {
+      "full_name": "Amos\u00a0Booth",
+      "birth_date": "09-14-1848",
+      "death_date": "07-01-1921",
+      "debut_year": "1876",
+      "final_year": "1882",
+      "source": "Baseball Almanac",
+      "birth_year": 1848,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=bootham01",
+      "first_name": "Amos",
+      "last_name": "Booth",
+      "nickname": "The Darling"
+    },
+    {
+      "full_name": "Candy\u00a0Cummings",
+      "birth_date": "10-18-1848",
+      "death_date": "05-16-1924",
+      "debut_year": "1876",
+      "final_year": "1877",
+      "source": "Baseball Almanac",
+      "birth_year": 1848,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=cummica01",
+      "first_name": "Candy",
+      "last_name": "Cummings",
+      "nickname": "Candy or Father of the Curveball"
+    },
+    {
+      "full_name": "Sam\u00a0Field",
+      "birth_date": "10-12-1848",
+      "death_date": "10-28-1904",
+      "debut_year": "1876",
+      "final_year": "1876",
+      "source": "Baseball Almanac",
+      "birth_year": 1848,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=fieldsa01",
+      "first_name": "Sam",
+      "last_name": "Field",
+      "nickname": "Sam"
+    },
+    {
+      "full_name": "George\u00a0Snyder",
+      "birth_date": "09-28-1848",
+      "death_date": "08-02-1905",
+      "debut_year": "1882",
+      "final_year": "1882",
+      "source": "Baseball Almanac",
+      "birth_year": 1848,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=snydege01",
+      "first_name": "George",
+      "last_name": "Snyder",
+      "nickname": ""
+    },
+    {
+      "full_name": "Sam\u00a0Wright",
+      "birth_date": "11-25-1848",
+      "death_date": "05-06-1928",
+      "debut_year": "1876",
+      "final_year": "1881",
+      "source": "Baseball Almanac",
+      "birth_year": 1848,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=wrighsa01",
+      "first_name": "Sam",
+      "last_name": "Wright",
+      "nickname": "Sam"
+    },
+    {
+      "full_name": "Luis Garc\u00eda",
+      "birth_date": "",
+      "death_date": "",
+      "debut_year": "",
+      "final_year": "",
+      "source": "Baseball Almanac",
+      "birth_year": 1849,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=garcilu04",
+      "first_name": "Luis",
+      "last_name": "Garc\u00eda",
+      "nickname": ""
+    },
+    {
+      "full_name": "Juan Soto",
+      "birth_date": "",
+      "death_date": "",
+      "debut_year": "",
+      "final_year": "",
+      "source": "Baseball Almanac",
+      "birth_year": 1849,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=sotoju01",
+      "first_name": "Juan",
+      "last_name": "Soto",
+      "nickname": "Soto Pacheco"
+    },
+    {
+      "full_name": "Art\u00a0Allison",
+      "birth_date": "01-29-1849",
+      "death_date": "02-25-1916",
+      "debut_year": "1876",
+      "final_year": "1876",
+      "source": "Baseball Almanac",
+      "birth_year": 1849,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=allisar01",
+      "first_name": "Art",
+      "last_name": "Allison",
+      "nickname": "Art"
+    },
+    {
+      "full_name": "Jim\u00a0Devlin",
+      "birth_date": "06-06-1849",
+      "death_date": "10-10-1883",
+      "debut_year": "1876",
+      "final_year": "1877",
+      "source": "Baseball Almanac",
+      "birth_year": 1849,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=devliji01",
+      "first_name": "Jim",
+      "last_name": "Devlin",
+      "nickname": "Jim"
+    },
+    {
+      "full_name": "Dave\u00a0Eggler",
+      "birth_date": "04-30-1849",
+      "death_date": "04-05-1902",
+      "debut_year": "1876",
+      "final_year": "1885",
+      "source": "Baseball Almanac",
+      "birth_year": 1849,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=eggleda01",
+      "first_name": "Dave",
+      "last_name": "Eggler",
+      "nickname": "Dave"
+    },
+    {
+      "full_name": "Davy\u00a0Force",
+      "birth_date": "07-27-1849",
+      "death_date": "06-21-1918",
+      "debut_year": "1876",
+      "final_year": "1886",
+      "source": "Baseball Almanac",
+      "birth_year": 1849,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=forceda01",
+      "first_name": "Davy",
+      "last_name": "Force",
+      "nickname": "Davy or Davey or Tom Thumb"
+    },
+    {
+      "full_name": "George\u00a0Hall",
+      "birth_date": "03-29-1849",
+      "death_date": "06-11-1923",
+      "debut_year": "1876",
+      "final_year": "1877",
+      "source": "Baseball Almanac",
+      "birth_year": 1849,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=hallge01",
+      "first_name": "George",
+      "last_name": "Hall",
+      "nickname": ""
+    },
+    {
+      "full_name": "Jimmy\u00a0Hallinan",
+      "birth_date": "05-27-1849",
+      "death_date": "10-28-1879",
+      "debut_year": "1876",
+      "final_year": "1878",
+      "source": "Baseball Almanac",
+      "birth_year": 1849,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=halliji01",
+      "first_name": "Jimmy",
+      "last_name": "Hallinan",
+      "nickname": "Jimmy"
+    },
+    {
+      "full_name": "Cal\u00a0McVey",
+      "birth_date": "08-30-1849",
+      "death_date": "08-20-1926",
+      "debut_year": "1876",
+      "final_year": "1879",
+      "source": "Baseball Almanac",
+      "birth_year": 1849,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=mcveyca01",
+      "first_name": "Cal",
+      "last_name": "McVey",
+      "nickname": "Cal"
+    },
+    {
+      "full_name": "Candy\u00a0Nelson",
+      "birth_date": "03-14-1849",
+      "death_date": "09-04-1910",
+      "debut_year": "1878",
+      "final_year": "1890",
+      "source": "Baseball Almanac",
+      "birth_year": 1849,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=nelsoca01",
+      "first_name": "Candy",
+      "last_name": "Nelson",
+      "nickname": "Candy"
+    },
+    {
+      "full_name": "John\u00a0O'Rourke",
+      "birth_date": "08-23-1849",
+      "death_date": "06-23-1911",
+      "debut_year": "1879",
+      "final_year": "1883",
+      "source": "Baseball Almanac",
+      "birth_year": 1849,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=oroujo01",
+      "first_name": "John",
+      "last_name": "O'Rourke",
+      "nickname": ""
+    },
+    {
+      "full_name": "Bill\u00a0Parks",
+      "birth_date": "06-04-1849",
+      "death_date": "10-10-1911",
+      "debut_year": "1876",
+      "final_year": "1876",
+      "source": "Baseball Almanac",
+      "birth_year": 1849,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=parksbi01",
+      "first_name": "Bill",
+      "last_name": "Parks",
+      "nickname": "Bill"
+    },
+    {
+      "full_name": "Ezra\u00a0Sutton",
+      "birth_date": "09-17-1849",
+      "death_date": "06-20-1907",
+      "debut_year": "1876",
+      "final_year": "1888",
+      "source": "Baseball Almanac",
+      "birth_year": 1849,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=suttoez01",
+      "first_name": "Ezra",
+      "last_name": "Sutton",
+      "nickname": ""
+    },
+    {
+      "full_name": "Charlie\u00a0Waitt",
+      "birth_date": "10-14-1849",
+      "death_date": "10-21-1912",
+      "debut_year": "1876",
+      "final_year": "1883",
+      "source": "Baseball Almanac",
+      "birth_year": 1849,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=waittch01",
+      "first_name": "Charlie",
+      "last_name": "Waitt",
+      "nickname": "Charlie"
+    },
+    {
+      "full_name": "Luis Garc\u00eda",
+      "birth_date": "",
+      "death_date": "",
+      "debut_year": "",
+      "final_year": "",
+      "source": "Baseball Almanac",
+      "birth_year": 1850,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=garcilu04",
+      "first_name": "Luis",
+      "last_name": "Garc\u00eda",
+      "nickname": ""
+    },
+    {
+      "full_name": "Juan Soto",
+      "birth_date": "",
+      "death_date": "",
+      "debut_year": "",
+      "final_year": "",
+      "source": "Baseball Almanac",
+      "birth_year": 1850,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=sotoju01",
+      "first_name": "Juan",
+      "last_name": "Soto",
+      "nickname": "Soto Pacheco"
+    },
+    {
+      "full_name": "Fred\u00a0Andrus",
+      "birth_date": "08-23-1850",
+      "death_date": "11-10-1937",
+      "debut_year": "1876",
+      "final_year": "1884",
+      "source": "Baseball Almanac",
+      "birth_year": 1850,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=andrufr01",
+      "first_name": "Fred",
+      "last_name": "Andrus",
+      "nickname": "Fred"
+    },
+    {
+      "full_name": "Ross\u00a0Barnes",
+      "birth_date": "05-08-1850",
+      "death_date": "02-05-1915",
+      "debut_year": "1876",
+      "final_year": "1881",
+      "source": "Baseball Almanac",
+      "birth_year": 1850,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=barnero01",
+      "first_name": "Ross",
+      "last_name": "Barnes",
+      "nickname": "Ross"
+    },
+    {
+      "full_name": "Tommy\u00a0Beals",
+      "birth_date": "08-01-1850",
+      "death_date": "10-02-1915",
+      "debut_year": "1876",
+      "final_year": "1880",
+      "source": "Baseball Almanac",
+      "birth_year": 1850,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=bealsto01",
+      "first_name": "Tommy",
+      "last_name": "Beals",
+      "nickname": "Tommy"
+    },
+    {
+      "full_name": "Bobby\u00a0Clack",
+      "birth_date": "06-13-1850",
+      "death_date": "10-22-1933",
+      "debut_year": "1876",
+      "final_year": "1876",
+      "source": "Baseball Almanac",
+      "birth_year": 1850,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=clackbo01",
+      "first_name": "Bobby",
+      "last_name": "Clack",
+      "nickname": "Bobby or Gentlemanly Bob"
+    },
+    {
+      "full_name": "Jim\u00a0Clinton",
+      "birth_date": "08-10-1850",
+      "death_date": "09-03-1921",
+      "debut_year": "1876",
+      "final_year": "1886",
+      "source": "Baseball Almanac",
+      "birth_year": 1850,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=clintji01",
+      "first_name": "Jim",
+      "last_name": "Clinton",
+      "nickname": "Big Jim"
+    },
+    {
+      "full_name": "Morrie\u00a0Critchley",
+      "birth_date": "03-26-1850",
+      "death_date": "03-06-1910",
+      "debut_year": "1882",
+      "final_year": "1882",
+      "source": "Baseball Almanac",
+      "birth_year": 1850,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=critcmo01",
+      "first_name": "Morrie",
+      "last_name": "Critchley",
+      "nickname": ""
+    },
+    {
+      "full_name": "Jim\u00a0Holdsworth",
+      "birth_date": "07-14-1850",
+      "death_date": "03-22-1918",
+      "debut_year": "1876",
+      "final_year": "1884",
+      "source": "Baseball Almanac",
+      "birth_year": 1850,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=holdsji01",
+      "first_name": "Jim",
+      "last_name": "Holdsworth",
+      "nickname": "Long Jim"
+    },
+    {
+      "full_name": "Alamazoo\u00a0Jennings",
+      "birth_date": "11-30-1850",
+      "death_date": "11-02-1894",
+      "debut_year": "1878",
+      "final_year": "1878",
+      "source": "Baseball Almanac",
+      "birth_year": 1850,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=jennial01",
+      "first_name": "Alamazoo",
+      "last_name": "Jennings",
+      "nickname": ""
+    },
+    {
+      "full_name": "Harry\u00a0Little",
+      "birth_date": "11-09-1850",
+      "death_date": "02-17-1927",
+      "debut_year": "1877",
+      "final_year": "1877",
+      "source": "Baseball Almanac",
+      "birth_year": 1850,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=littlha01",
+      "first_name": "Harry",
+      "last_name": "Little",
+      "nickname": ""
+    },
+    {
+      "full_name": "Denny\u00a0Mack",
+      "birth_date": "03-14-1850",
+      "death_date": "04-10-1888",
+      "debut_year": "1876",
+      "final_year": "1883",
+      "source": "Baseball Almanac",
+      "birth_year": 1850,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=mackde01",
+      "first_name": "Denny",
+      "last_name": "Mack",
+      "nickname": "Denny"
+    },
+    {
+      "full_name": "Tim\u00a0Murnane",
+      "birth_date": "06-04-1850",
+      "death_date": "02-07-1917",
+      "debut_year": "1876",
+      "final_year": "1884",
+      "source": "Baseball Almanac",
+      "birth_year": 1850,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=murnati01",
+      "first_name": "Tim",
+      "last_name": "Murnane",
+      "nickname": "Tim"
+    },
+    {
+      "full_name": "Sandy\u00a0Nava",
+      "birth_date": "04-12-1850",
+      "death_date": "06-15-1906",
+      "debut_year": "1882",
+      "final_year": "1886",
+      "source": "Baseball Almanac",
+      "birth_year": 1850,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=navasa01",
+      "first_name": "Sandy",
+      "last_name": "Nava",
+      "nickname": "Sandy"
+    },
+    {
+      "full_name": "Tricky\u00a0Nichols",
+      "birth_date": "07-26-1850",
+      "death_date": "08-22-1897",
+      "debut_year": "1876",
+      "final_year": "1882",
+      "source": "Baseball Almanac",
+      "birth_year": 1850,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=nichotr01",
+      "first_name": "Tricky",
+      "last_name": "Nichols",
+      "nickname": "Tricky"
+    },
+    {
+      "full_name": "Jim\u00a0O'Rourke",
+      "birth_date": "09-01-1850",
+      "death_date": "01-08-1919",
+      "debut_year": "1876",
+      "final_year": "1904",
+      "source": "Baseball Almanac",
+      "birth_year": 1850,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=orouji01",
+      "first_name": "Jim",
+      "last_name": "O'Rourke",
+      "nickname": "Orator Jim"
+    },
+    {
+      "full_name": "John\u00a0Peters",
+      "birth_date": "04-08-1850",
+      "death_date": "01-04-1924",
+      "debut_year": "1876",
+      "final_year": "1884",
+      "source": "Baseball Almanac",
+      "birth_year": 1850,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=peterjo01",
+      "first_name": "John",
+      "last_name": "Peters",
+      "nickname": ""
+    },
+    {
+      "full_name": "Alex\u00a0Skinner",
+      "birth_date": "03-14-1850",
+      "death_date": "04-04-1917",
+      "debut_year": "1884",
+      "final_year": "1884",
+      "source": "Baseball Almanac",
+      "birth_year": 1850,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=skinnal01",
+      "first_name": "Alex",
+      "last_name": "Skinner",
+      "nickname": "Alex"
+    },
+    {
+      "full_name": "Al\u00a0Spalding",
+      "birth_date": "09-02-1850",
+      "death_date": "09-09-1915",
+      "debut_year": "1876",
+      "final_year": "1878",
+      "source": "Baseball Almanac",
+      "birth_year": 1850,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=spaldal01",
+      "first_name": "Al",
+      "last_name": "Spalding",
+      "nickname": "A.G. or Al"
+    },
+    {
+      "full_name": "John\u00a0Stedronsky",
+      "birth_date": "06-12-1850",
+      "death_date": "05-11-1924",
+      "debut_year": "1879",
+      "final_year": "1879",
+      "source": "Baseball Almanac",
+      "birth_year": 1850,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=stedrjo01",
+      "first_name": "John",
+      "last_name": "Stedronsky",
+      "nickname": ""
+    },
+    {
+      "full_name": "Tom\u00a0York",
+      "birth_date": "07-13-1850",
+      "death_date": "02-17-1936",
+      "debut_year": "1876",
+      "final_year": "1885",
+      "source": "Baseball Almanac",
+      "birth_year": 1850,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=yorkto01",
+      "first_name": "Tom",
+      "last_name": "York",
+      "nickname": "Tom"
+    },
+    {
+      "full_name": "Luis Garc\u00eda",
+      "birth_date": "",
+      "death_date": "",
+      "debut_year": "",
+      "final_year": "",
+      "source": "Baseball Almanac",
+      "birth_year": 1851,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=garcilu04",
+      "first_name": "Luis",
+      "last_name": "Garc\u00eda",
+      "nickname": ""
+    },
+    {
+      "full_name": "Juan Soto",
+      "birth_date": "",
+      "death_date": "",
+      "debut_year": "",
+      "final_year": "",
+      "source": "Baseball Almanac",
+      "birth_year": 1851,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=sotoju01",
+      "first_name": "Juan",
+      "last_name": "Soto",
+      "nickname": "Soto Pacheco"
+    },
+    {
+      "full_name": "Billy\u00a0Barnie",
+      "birth_date": "01-26-1851",
+      "death_date": "07-15-1900",
+      "debut_year": "1883",
+      "final_year": "1886",
+      "source": "Baseball Almanac",
+      "birth_year": 1851,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=barnibi01",
+      "first_name": "Billy",
+      "last_name": "Barnie",
+      "nickname": "Bald Billy"
+    },
+    {
+      "full_name": "Steve\u00a0Brady",
+      "birth_date": "07-14-1851",
+      "death_date": "11-01-1917",
+      "debut_year": "1883",
+      "final_year": "1886",
+      "source": "Baseball Almanac",
+      "birth_year": 1851,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=bradyst01",
+      "first_name": "Steve",
+      "last_name": "Brady",
+      "nickname": "Steve"
+    },
+    {
+      "full_name": "Ed\u00a0Caskin",
+      "birth_date": "12-30-1851",
+      "death_date": "10-09-1924",
+      "debut_year": "1879",
+      "final_year": "1886",
+      "source": "Baseball Almanac",
+      "birth_year": 1851,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=caskied01",
+      "first_name": "Ed",
+      "last_name": "Caskin",
+      "nickname": "Ed"
+    },
+    {
+      "full_name": "John\u00a0Clapp",
+      "birth_date": "07-15-1851",
+      "death_date": "12-18-1904",
+      "debut_year": "1876",
+      "final_year": "1883",
+      "source": "Baseball Almanac",
+      "birth_year": 1851,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=clappjo01",
+      "first_name": "John",
+      "last_name": "Clapp",
+      "nickname": "Honest John"
+    },
+    {
+      "full_name": "Chick\u00a0Fulmer",
+      "birth_date": "02-12-1851",
+      "death_date": "02-15-1940",
+      "debut_year": "1876",
+      "final_year": "1884",
+      "source": "Baseball Almanac",
+      "birth_year": 1851,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=fulmech01",
+      "first_name": "Chick",
+      "last_name": "Fulmer",
+      "nickname": "Chick"
+    },
+    {
+      "full_name": "Pete\u00a0Gillespie",
+      "birth_date": "11-30-1851",
+      "death_date": "05-04-1910",
+      "debut_year": "1880",
+      "final_year": "1887",
+      "source": "Baseball Almanac",
+      "birth_year": 1851,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=gillepe01",
+      "first_name": "Pete",
+      "last_name": "Gillespie",
+      "nickname": "Pete"
+    },
+    {
+      "full_name": "Mike\u00a0Golden",
+      "birth_date": "09-11-1851",
+      "death_date": "01-11-1929",
+      "debut_year": "1878",
+      "final_year": "1878",
+      "source": "Baseball Almanac",
+      "birth_year": 1851,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=goldemi01",
+      "first_name": "Mike",
+      "last_name": "Golden",
+      "nickname": "Mike"
+    },
+    {
+      "full_name": "Dick\u00a0Higham",
+      "birth_date": "07-24-1851",
+      "death_date": "03-18-1905",
+      "debut_year": "1876",
+      "final_year": "1880",
+      "source": "Baseball Almanac",
+      "birth_year": 1851,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=highadi01",
+      "first_name": "Dick",
+      "last_name": "Higham",
+      "nickname": "Dick"
+    },
+    {
+      "full_name": "Henry\u00a0Kessler",
+      "birth_date": "07-27-1851",
+      "death_date": "01-08-1900",
+      "debut_year": "1876",
+      "final_year": "1877",
+      "source": "Baseball Almanac",
+      "birth_year": 1851,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=kesslhe01",
+      "first_name": "Henry",
+      "last_name": "Kessler",
+      "nickname": "Lucky or Lucky Henry"
+    },
+    {
+      "full_name": "Bobby\u00a0Mathews",
+      "birth_date": "11-21-1851",
+      "death_date": "04-17-1898",
+      "debut_year": "1876",
+      "final_year": "1887",
+      "source": "Baseball Almanac",
+      "birth_year": 1851,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=mathebo01",
+      "first_name": "Bobby",
+      "last_name": "Mathews",
+      "nickname": "Little Bobby"
+    },
+    {
+      "full_name": "Mike\u00a0McGeary",
+      "birth_date": "02-12-1851",
+      "death_date": "Unknown--",
+      "debut_year": "1876",
+      "final_year": "1882",
+      "source": "Baseball Almanac",
+      "birth_year": 1851,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=mcgeami01",
+      "first_name": "Mike",
+      "last_name": "McGeary",
+      "nickname": "Mike"
+    },
+    {
+      "full_name": "John\u00a0O'Brien",
+      "birth_date": "10-22-1851",
+      "death_date": "12-31-1914",
+      "debut_year": "1884",
+      "final_year": "1884",
+      "source": "Baseball Almanac",
+      "birth_year": 1851,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=obrijo01",
+      "first_name": "John",
+      "last_name": "O'Brien",
+      "nickname": ""
+    },
+    {
+      "full_name": "Orator\u00a0Shafer",
+      "birth_date": "10-04-1851",
+      "death_date": "01-22-1922",
+      "debut_year": "1877",
+      "final_year": "1890",
+      "source": "Baseball Almanac",
+      "birth_year": 1851,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=shaffor01",
+      "first_name": "Orator",
+      "last_name": "Shafer",
+      "nickname": "The Orator"
+    },
+    {
+      "full_name": "John\u00a0Shoup",
+      "birth_date": "09-30-1851",
+      "death_date": "02-13-1920",
+      "debut_year": "1879",
+      "final_year": "1884",
+      "source": "Baseball Almanac",
+      "birth_year": 1851,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=shoupjo01",
+      "first_name": "John",
+      "last_name": "Shoup",
+      "nickname": ""
+    },
+    {
+      "full_name": "Live Oak\u00a0Taylor",
+      "birth_date": "02-03-1851",
+      "death_date": "02-19-1888",
+      "debut_year": "1877",
+      "final_year": "1884",
+      "source": "Baseball Almanac",
+      "birth_year": 1851,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=tayloli01",
+      "first_name": "Live",
+      "last_name": "Taylor",
+      "nickname": "Live Oak"
+    },
+    {
+      "full_name": "Red\u00a0Woodhead",
+      "birth_date": "07-09-1851",
+      "death_date": "09-07-1881",
+      "debut_year": "1879",
+      "final_year": "1879",
+      "source": "Baseball Almanac",
+      "birth_year": 1851,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=woodhre01",
+      "first_name": "Red",
+      "last_name": "Woodhead",
+      "nickname": "Red"
+    },
+    {
+      "full_name": "Luis Garc\u00eda",
+      "birth_date": "",
+      "death_date": "",
+      "debut_year": "",
+      "final_year": "",
+      "source": "Baseball Almanac",
+      "birth_year": 1852,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=garcilu04",
+      "first_name": "Luis",
+      "last_name": "Garc\u00eda",
+      "nickname": ""
+    },
+    {
+      "full_name": "Juan Soto",
+      "birth_date": "",
+      "death_date": "",
+      "debut_year": "",
+      "final_year": "",
+      "source": "Baseball Almanac",
+      "birth_year": 1852,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=sotoju01",
+      "first_name": "Juan",
+      "last_name": "Soto",
+      "nickname": "Soto Pacheco"
+    },
+    {
+      "full_name": "Cap\u00a0Anson",
+      "birth_date": "04-17-1852",
+      "death_date": "04-14-1922",
+      "debut_year": "1876",
+      "final_year": "1897",
+      "source": "Baseball Almanac",
+      "birth_year": 1852,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=ansonca01",
+      "first_name": "Cap",
+      "last_name": "Anson",
+      "nickname": "Cap or Pop"
+    },
+    {
+      "full_name": "Joe\u00a0Battin",
+      "birth_date": "11-11-1852",
+      "death_date": "12-10-1937",
+      "debut_year": "1876",
+      "final_year": "1890",
+      "source": "Baseball Almanac",
+      "birth_year": 1852,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=battijo01",
+      "first_name": "Joe",
+      "last_name": "Battin",
+      "nickname": "Joe"
+    },
+    {
+      "full_name": "Frank\u00a0Bliss",
+      "birth_date": "12-10-1852",
+      "death_date": "01-09-1929",
+      "debut_year": "1878",
+      "final_year": "1878",
+      "source": "Baseball Almanac",
+      "birth_year": 1852,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=blissfr01",
+      "first_name": "Frank",
+      "last_name": "Bliss",
+      "nickname": ""
+    },
+    {
+      "full_name": "George\u00a0Bradley",
+      "birth_date": "07-13-1852",
+      "death_date": "10-02-1931",
+      "debut_year": "1876",
+      "final_year": "1888",
+      "source": "Baseball Almanac",
+      "birth_year": 1852,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=bradlge01",
+      "first_name": "George",
+      "last_name": "Bradley",
+      "nickname": "Grin"
+    },
+    {
+      "full_name": "Ed\u00a0Cushman",
+      "birth_date": "03-27-1852",
+      "death_date": "09-26-1915",
+      "debut_year": "1883",
+      "final_year": "1890",
+      "source": "Baseball Almanac",
+      "birth_year": 1852,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=cushmed01",
+      "first_name": "Ed",
+      "last_name": "Cushman",
+      "nickname": "Ed"
+    },
+    {
+      "full_name": "Dory\u00a0Dean",
+      "birth_date": "11-06-1852",
+      "death_date": "05-04-1935",
+      "debut_year": "1876",
+      "final_year": "1876",
+      "source": "Baseball Almanac",
+      "birth_year": 1852,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=deando01",
+      "first_name": "Dory",
+      "last_name": "Dean",
+      "nickname": "Dory"
+    },
+    {
+      "full_name": "Herm\u00a0Doscher",
+      "birth_date": "12-20-1852",
+      "death_date": "03-20-1934",
+      "debut_year": "1876",
+      "final_year": "1882",
+      "source": "Baseball Almanac",
+      "birth_year": 1852,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=doschhe01",
+      "first_name": "Herm",
+      "last_name": "Doscher",
+      "nickname": ""
+    },
+    {
+      "full_name": "Lyman\u00a0Drake",
+      "birth_date": "02-09-1852",
+      "death_date": "02-06-1932",
+      "debut_year": "1884",
+      "final_year": "1884",
+      "source": "Baseball Almanac",
+      "birth_year": 1852,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=drakely01",
+      "first_name": "Lyman",
+      "last_name": "Drake",
+      "nickname": ""
+    },
+    {
+      "full_name": "John\u00a0Dyler",
+      "birth_date": "06-05-1852",
+      "death_date": "08-15-1916",
+      "debut_year": "1882",
+      "final_year": "1882",
+      "source": "Baseball Almanac",
+      "birth_year": 1852,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=dylerjo01",
+      "first_name": "John",
+      "last_name": "Dyler",
+      "nickname": ""
+    },
+    {
+      "full_name": "Tom\u00a0Evers",
+      "birth_date": "03-31-1852",
+      "death_date": "03-23-1925",
+      "debut_year": "1882",
+      "final_year": "1884",
+      "source": "Baseball Almanac",
+      "birth_year": 1852,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=eversto01",
+      "first_name": "Tom",
+      "last_name": "Evers",
+      "nickname": "Tom"
+    },
+    {
+      "full_name": "Charles\u00a0Fisher",
+      "birth_date": "03-10-1852",
+      "death_date": "02-18-1917",
+      "debut_year": "1884",
+      "final_year": "1884",
+      "source": "Baseball Almanac",
+      "birth_year": 1852,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=fishech02",
+      "first_name": "Charles",
+      "last_name": "Fisher",
+      "nickname": ""
+    },
+    {
+      "full_name": "Charlie\u00a0Hautz",
+      "birth_date": "02-05-1852",
+      "death_date": "01-24-1929",
+      "debut_year": "1884",
+      "final_year": "1884",
+      "source": "Baseball Almanac",
+      "birth_year": 1852,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=hautzch01",
+      "first_name": "Charlie",
+      "last_name": "Hautz",
+      "nickname": "Charlie"
+    },
+    {
+      "full_name": "Thorny\u00a0Hawkes",
+      "birth_date": "10-15-1852",
+      "death_date": "02-02-1929",
+      "debut_year": "1879",
+      "final_year": "1884",
+      "source": "Baseball Almanac",
+      "birth_year": 1852,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=hawketh01",
+      "first_name": "Thorny",
+      "last_name": "Hawkes",
+      "nickname": "Thorny"
+    },
+    {
+      "full_name": "Charley\u00a0Jones",
+      "birth_date": "04-30-1852",
+      "death_date": "06-06-1911",
+      "debut_year": "1876",
+      "final_year": "1888",
+      "source": "Baseball Almanac",
+      "birth_year": 1852,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=jonesch01",
+      "first_name": "Charley",
+      "last_name": "Jones",
+      "nickname": "Baby - Charley - Charlie"
+    },
+    {
+      "full_name": "Sam\u00a0Kimber",
+      "birth_date": "10-29-1852",
+      "death_date": "11-07-1925",
+      "debut_year": "1884",
+      "final_year": "1885",
+      "source": "Baseball Almanac",
+      "birth_year": 1852,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=kimbesa01",
+      "first_name": "Sam",
+      "last_name": "Kimber",
+      "nickname": "Sam"
+    },
+    {
+      "full_name": "Sam\u00a0King",
+      "birth_date": "05-17-1852",
+      "death_date": "08-11-1922",
+      "debut_year": "1884",
+      "final_year": "1884",
+      "source": "Baseball Almanac",
+      "birth_year": 1852,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=kingsa01",
+      "first_name": "Sam",
+      "last_name": "King",
+      "nickname": "Sam"
+    },
+    {
+      "full_name": "Juice\u00a0Latham",
+      "birth_date": "09-06-1852",
+      "death_date": "05-26-1914",
+      "debut_year": "1877",
+      "final_year": "1884",
+      "source": "Baseball Almanac",
+      "birth_year": 1852,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=lathaju01",
+      "first_name": "Juice",
+      "last_name": "Latham",
+      "nickname": "Juice or Jumbo"
+    },
+    {
+      "full_name": "Harry\u00a0Luff",
+      "birth_date": "09-14-1852",
+      "death_date": "10-11-1916",
+      "debut_year": "1882",
+      "final_year": "1884",
+      "source": "Baseball Almanac",
+      "birth_year": 1852,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=luffhe01",
+      "first_name": "Harry",
+      "last_name": "Luff",
+      "nickname": "Harry"
+    },
+    {
+      "full_name": "Trick\u00a0McSorley",
+      "birth_date": "12-06-1852",
+      "death_date": "02-09-1936",
+      "debut_year": "1884",
+      "final_year": "1886",
+      "source": "Baseball Almanac",
+      "birth_year": 1852,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=mcsortr01",
+      "first_name": "Trick",
+      "last_name": "McSorley",
+      "nickname": "Trick"
+    },
+    {
+      "full_name": "Al\u00a0Nichols",
+      "birth_date": "02-14-1852",
+      "death_date": "06-18-1936",
+      "debut_year": "1876",
+      "final_year": "1877",
+      "source": "Baseball Almanac",
+      "birth_year": 1852,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=nichoal01",
+      "first_name": "Al",
+      "last_name": "Nichols",
+      "nickname": "Al"
+    },
+    {
+      "full_name": "Joe\u00a0Quest",
+      "birth_date": "11-16-1852",
+      "death_date": "11-14-1924",
+      "debut_year": "1878",
+      "final_year": "1886",
+      "source": "Baseball Almanac",
+      "birth_year": 1852,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=questjo01",
+      "first_name": "Joe",
+      "last_name": "Quest",
+      "nickname": "Joe"
+    },
+    {
+      "full_name": "Jerry\u00a0Turbidy",
+      "birth_date": "07-04-1852",
+      "death_date": "09-05-1920",
+      "debut_year": "1884",
+      "final_year": "1884",
+      "source": "Baseball Almanac",
+      "birth_year": 1852,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=turbije01",
+      "first_name": "Jerry",
+      "last_name": "Turbidy",
+      "nickname": "Jerry"
+    },
+    {
+      "full_name": "Luis Garc\u00eda",
+      "birth_date": "",
+      "death_date": "",
+      "debut_year": "",
+      "final_year": "",
+      "source": "Baseball Almanac",
+      "birth_year": 1853,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=garcilu04",
+      "first_name": "Luis",
+      "last_name": "Garc\u00eda",
+      "nickname": ""
+    },
+    {
+      "full_name": "Juan Soto",
+      "birth_date": "",
+      "death_date": "",
+      "debut_year": "",
+      "final_year": "",
+      "source": "Baseball Almanac",
+      "birth_year": 1853,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=sotoju01",
+      "first_name": "Juan",
+      "last_name": "Soto",
+      "nickname": "Soto Pacheco"
+    },
+    {
+      "full_name": "Frank\u00a0Berkelbach",
+      "birth_date": "07-27-1853",
+      "death_date": "06-10-1932",
+      "debut_year": "1884",
+      "final_year": "1884",
+      "source": "Baseball Almanac",
+      "birth_year": 1853,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=berkefr01",
+      "first_name": "Frank",
+      "last_name": "Berkelbach",
+      "nickname": ""
+    },
+    {
+      "full_name": "Joe\u00a0Blong",
+      "birth_date": "09-17-1853",
+      "death_date": "09-17-1892",
+      "debut_year": "1876",
+      "final_year": "1877",
+      "source": "Baseball Almanac",
+      "birth_year": 1853,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=blongjo01",
+      "first_name": "Joe",
+      "last_name": "Blong",
+      "nickname": "Joe"
+    },
+    {
+      "full_name": "Dan\u00a0Collins",
+      "birth_date": "09-27-1853",
+      "death_date": "09-21-1883",
+      "debut_year": "1876",
+      "final_year": "1876",
+      "source": "Baseball Almanac",
+      "birth_year": 1853,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=collida01",
+      "first_name": "Dan",
+      "last_name": "Collins",
+      "nickname": "Dan"
+    },
+    {
+      "full_name": "Mike\u00a0Dorgan",
+      "birth_date": "10-02-1853",
+      "death_date": "04-26-1909",
+      "debut_year": "1877",
+      "final_year": "1890",
+      "source": "Baseball Almanac",
+      "birth_year": 1853,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=dorgami01",
+      "first_name": "Mike",
+      "last_name": "Dorgan",
+      "nickname": "Mike"
+    },
+    {
+      "full_name": "John\u00a0Farrow",
+      "birth_date": "11-08-1853",
+      "death_date": "12-31-1914",
+      "debut_year": "1884",
+      "final_year": "1884",
+      "source": "Baseball Almanac",
+      "birth_year": 1853,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=farrojo01",
+      "first_name": "John",
+      "last_name": "Farrow",
+      "nickname": ""
+    },
+    {
+      "full_name": "Martin\u00a0Flaherty",
+      "birth_date": "09-24-1853",
+      "death_date": "06-10-1920",
+      "debut_year": "1881",
+      "final_year": "1881",
+      "source": "Baseball Almanac",
+      "birth_year": 1853,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=flahema01",
+      "first_name": "Martin",
+      "last_name": "Flaherty",
+      "nickname": ""
+    },
+    {
+      "full_name": "Jake\u00a0Goodman",
+      "birth_date": "09-14-1853",
+      "death_date": "03-09-1890",
+      "debut_year": "1878",
+      "final_year": "1882",
+      "source": "Baseball Almanac",
+      "birth_year": 1853,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=goodmja01",
+      "first_name": "Jake",
+      "last_name": "Goodman",
+      "nickname": "Jake"
+    },
+    {
+      "full_name": "Bill\u00a0Hawes",
+      "birth_date": "11-17-1853",
+      "death_date": "06-16-1940",
+      "debut_year": "1879",
+      "final_year": "1884",
+      "source": "Baseball Almanac",
+      "birth_year": 1853,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=hawesbi01",
+      "first_name": "Bill",
+      "last_name": "Hawes",
+      "nickname": "Bill"
+    },
+    {
+      "full_name": "Sonny\u00a0Hoffman",
+      "birth_date": "01-01-1853",
+      "death_date": "Unknown--",
+      "debut_year": "1879",
+      "final_year": "1879",
+      "source": "Baseball Almanac",
+      "birth_year": 1853,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=hoffmhi01",
+      "first_name": "Sonny",
+      "last_name": "Hoffman",
+      "nickname": "Sonny"
+    },
+    {
+      "full_name": "Doc\u00a0Kennedy",
+      "birth_date": "08-11-1853",
+      "death_date": "05-23-1920",
+      "debut_year": "1879",
+      "final_year": "1883",
+      "source": "Baseball Almanac",
+      "birth_year": 1853,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=kennedo01",
+      "first_name": "Doc",
+      "last_name": "Kennedy",
+      "nickname": "Doc"
+    },
+    {
+      "full_name": "Lon\u00a0Knight",
+      "birth_date": "06-16-1853",
+      "death_date": "04-23-1932",
+      "debut_year": "1876",
+      "final_year": "1885",
+      "source": "Baseball Almanac",
+      "birth_year": 1853,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=knighlo01",
+      "first_name": "Lon",
+      "last_name": "Knight",
+      "nickname": ""
+    },
+    {
+      "full_name": "Steve\u00a0Libby",
+      "birth_date": "12-08-1853",
+      "death_date": "03-31-1935",
+      "debut_year": "1879",
+      "final_year": "1879",
+      "source": "Baseball Almanac",
+      "birth_year": 1853,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=libbyst01",
+      "first_name": "Steve",
+      "last_name": "Libby",
+      "nickname": "Steve"
+    },
+    {
+      "full_name": "Jack\u00a0Manning",
+      "birth_date": "12-20-1853",
+      "death_date": "08-15-1929",
+      "debut_year": "1876",
+      "final_year": "1886",
+      "source": "Baseball Almanac",
+      "birth_year": 1853,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=mannija01",
+      "first_name": "Jack",
+      "last_name": "Manning",
+      "nickname": "Jack"
+    },
+    {
+      "full_name": "Tim\u00a0Manning",
+      "birth_date": "12-03-1853",
+      "death_date": "06-11-1934",
+      "debut_year": "1882",
+      "final_year": "1885",
+      "source": "Baseball Almanac",
+      "birth_year": 1853,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=manniti01",
+      "first_name": "Tim",
+      "last_name": "Manning",
+      "nickname": "Tim"
+    },
+    {
+      "full_name": "Charlie\u00a0Mason",
+      "birth_date": "06-25-1853",
+      "death_date": "10-21-1936",
+      "debut_year": "1883",
+      "final_year": "1883",
+      "source": "Baseball Almanac",
+      "birth_year": 1853,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=masonch01",
+      "first_name": "Charlie",
+      "last_name": "Mason",
+      "nickname": "Charlie"
+    },
+    {
+      "full_name": "George\u00a0Miller",
+      "birth_date": "02-19-1853",
+      "death_date": "07-24-1929",
+      "debut_year": "1877",
+      "final_year": "1884",
+      "source": "Baseball Almanac",
+      "birth_year": 1853,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=millege01",
+      "first_name": "George",
+      "last_name": "Miller",
+      "nickname": "Doggie or Foghorn"
+    },
+    {
+      "full_name": "Jim\u00a0Pirie",
+      "birth_date": "03-31-1853",
+      "death_date": "06-02-1934",
+      "debut_year": "1883",
+      "final_year": "1883",
+      "source": "Baseball Almanac",
+      "birth_year": 1853,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=pirieji01",
+      "first_name": "Jim",
+      "last_name": "Pirie",
+      "nickname": "Jim"
+    },
+    {
+      "full_name": "Johnny\u00a0Ryan",
+      "birth_date": "10-01-1853",
+      "death_date": "03-22-1902",
+      "debut_year": "1876",
+      "final_year": "1877",
+      "source": "Baseball Almanac",
+      "birth_year": 1853,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=ryanjo01",
+      "first_name": "Johnny",
+      "last_name": "Ryan",
+      "nickname": "Johnny"
+    },
+    {
+      "full_name": "Ed\u00a0Somerville",
+      "birth_date": "03-01-1853",
+      "death_date": "10-01-1877",
+      "debut_year": "1876",
+      "final_year": "1876",
+      "source": "Baseball Almanac",
+      "birth_year": 1853,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=somered01",
+      "first_name": "Ed",
+      "last_name": "Somerville",
+      "nickname": "Ed"
+    },
+    {
+      "full_name": "Asa\u00a0Stratton",
+      "birth_date": "02-10-1853",
+      "death_date": "08-14-1925",
+      "debut_year": "1881",
+      "final_year": "1881",
+      "source": "Baseball Almanac",
+      "birth_year": 1853,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=stratas01",
+      "first_name": "Asa",
+      "last_name": "Stratton",
+      "nickname": ""
+    },
+    {
+      "full_name": "Bill\u00a0Sullivan",
+      "birth_date": "07-04-1853",
+      "death_date": "11-13-1884",
+      "debut_year": "1878",
+      "final_year": "1878",
+      "source": "Baseball Almanac",
+      "birth_year": 1853,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=sullibi01",
+      "first_name": "Bill",
+      "last_name": "Sullivan",
+      "nickname": "Bill"
+    },
+    {
+      "full_name": "Billy\u00a0West",
+      "birth_date": "08-15-1853",
+      "death_date": "10-27-1928",
+      "debut_year": "1876",
+      "final_year": "1876",
+      "source": "Baseball Almanac",
+      "birth_year": 1853,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=westbi01",
+      "first_name": "Billy",
+      "last_name": "West",
+      "nickname": "Billy"
+    },
+    {
+      "full_name": "Luis Garc\u00eda",
+      "birth_date": "",
+      "death_date": "",
+      "debut_year": "",
+      "final_year": "",
+      "source": "Baseball Almanac",
+      "birth_year": 1854,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=garcilu04",
+      "first_name": "Luis",
+      "last_name": "Garc\u00eda",
+      "nickname": ""
+    },
+    {
+      "full_name": "Juan Soto",
+      "birth_date": "",
+      "death_date": "",
+      "debut_year": "",
+      "final_year": "",
+      "source": "Baseball Almanac",
+      "birth_year": 1854,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=sotoju01",
+      "first_name": "Juan",
+      "last_name": "Soto",
+      "nickname": "Soto Pacheco"
+    },
+    {
+      "full_name": "Myron\u00a0Allen",
+      "birth_date": "03-22-1854",
+      "death_date": "03-08-1924",
+      "debut_year": "1883",
+      "final_year": "1888",
+      "source": "Baseball Almanac",
+      "birth_year": 1854,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=allenmy01",
+      "first_name": "Myron",
+      "last_name": "Allen",
+      "nickname": "Zeke"
+    },
+    {
+      "full_name": "Charlie\u00a0Bennett",
+      "birth_date": "11-21-1854",
+      "death_date": "02-24-1927",
+      "debut_year": "1878",
+      "final_year": "1893",
+      "source": "Baseball Almanac",
+      "birth_year": 1854,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=bennech01",
+      "first_name": "Charlie",
+      "last_name": "Bennett",
+      "nickname": "Charlie"
+    },
+    {
+      "full_name": "Joe\u00a0Borden",
+      "birth_date": "05-09-1854",
+      "death_date": "10-14-1929",
+      "debut_year": "1876",
+      "final_year": "1876",
+      "source": "Baseball Almanac",
+      "birth_year": 1854,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=bordejo01",
+      "first_name": "Joe",
+      "last_name": "Borden",
+      "nickname": "Joe"
+    },
+    {
+      "full_name": "Ed\u00a0Cogswell",
+      "birth_date": "02-25-1854",
+      "death_date": "07-27-1888",
+      "debut_year": "1879",
+      "final_year": "1882",
+      "source": "Baseball Almanac",
+      "birth_year": 1854,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=cogswed01",
+      "first_name": "Ed",
+      "last_name": "Cogswell",
+      "nickname": "Ed"
+    },
+    {
+      "full_name": "Sam\u00a0Crane",
+      "birth_date": "01-02-1854",
+      "death_date": "06-26-1925",
+      "debut_year": "1880",
+      "final_year": "1890",
+      "source": "Baseball Almanac",
+      "birth_year": 1854,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=cranesa01",
+      "first_name": "Sam",
+      "last_name": "Crane",
+      "nickname": "Sam"
+    },
+    {
+      "full_name": "John\u00a0Cullen",
+      "birth_date": "07-09-1854",
+      "death_date": "02-11-1921",
+      "debut_year": "1884",
+      "final_year": "1884",
+      "source": "Baseball Almanac",
+      "birth_year": 1854,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=cullejo01",
+      "first_name": "John",
+      "last_name": "Cullen",
+      "nickname": ""
+    },
+    {
+      "full_name": "Clarence\u00a0Dow",
+      "birth_date": "10-02-1854",
+      "death_date": "03-11-1893",
+      "debut_year": "1884",
+      "final_year": "1884",
+      "source": "Baseball Almanac",
+      "birth_year": 1854,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=dowcl01",
+      "first_name": "Clarence",
+      "last_name": "Dow",
+      "nickname": ""
+    },
+    {
+      "full_name": "Joe\u00a0Ellick",
+      "birth_date": "04-03-1854",
+      "death_date": "04-21-1923",
+      "debut_year": "1878",
+      "final_year": "1884",
+      "source": "Baseball Almanac",
+      "birth_year": 1854,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=ellicjo01",
+      "first_name": "Joe",
+      "last_name": "Ellick",
+      "nickname": "Joe"
+    },
+    {
+      "full_name": "Jack\u00a0Gleason",
+      "birth_date": "07-14-1854",
+      "death_date": "09-04-1944",
+      "debut_year": "1877",
+      "final_year": "1886",
+      "source": "Baseball Almanac",
+      "birth_year": 1854,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=gleasja01",
+      "first_name": "Jack",
+      "last_name": "Gleason",
+      "nickname": "Jack"
+    },
+    {
+      "full_name": "George\u00a0Gore",
+      "birth_date": "05-03-1854",
+      "death_date": "09-16-1933",
+      "debut_year": "1879",
+      "final_year": "1892",
+      "source": "Baseball Almanac",
+      "birth_year": 1854,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=gorege01",
+      "first_name": "George",
+      "last_name": "Gore",
+      "nickname": "Piano Legs"
+    },
+    {
+      "full_name": "Jim\u00a0Green",
+      "birth_date": "05-22-1854",
+      "death_date": "12-12-1912",
+      "debut_year": "1884",
+      "final_year": "1884",
+      "source": "Baseball Almanac",
+      "birth_year": 1854,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=greenji01",
+      "first_name": "Jim",
+      "last_name": "Green",
+      "nickname": "Jim"
+    },
+    {
+      "full_name": "Charlie\u00a0Householder",
+      "birth_date": "02-08-1854",
+      "death_date": "09-03-1913",
+      "debut_year": "1882",
+      "final_year": "1884",
+      "source": "Baseball Almanac",
+      "birth_year": 1854,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=housech01",
+      "first_name": "Charlie",
+      "last_name": "Householder",
+      "nickname": "Charlie"
+    },
+    {
+      "full_name": "Bill\u00a0Hyndman",
+      "birth_date": "10-01-1854",
+      "death_date": "01-14-1920",
+      "debut_year": "1886",
+      "final_year": "1886",
+      "source": "Baseball Almanac",
+      "birth_year": 1854,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=hyndmji01",
+      "first_name": "Bill",
+      "last_name": "Hyndman",
+      "nickname": "Bill"
+    },
+    {
+      "full_name": "Flip\u00a0Lafferty",
+      "birth_date": "05-04-1854",
+      "death_date": "02-08-1910",
+      "debut_year": "1876",
+      "final_year": "1877",
+      "source": "Baseball Almanac",
+      "birth_year": 1854,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=laffefl01",
+      "first_name": "Flip",
+      "last_name": "Lafferty",
+      "nickname": "Flip"
+    },
+    {
+      "full_name": "Doc\u00a0Landis",
+      "birth_date": "08-16-1854",
+      "death_date": "07-01-1908",
+      "debut_year": "1882",
+      "final_year": "1882",
+      "source": "Baseball Almanac",
+      "birth_year": 1854,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=landido01",
+      "first_name": "Doc",
+      "last_name": "Landis",
+      "nickname": "Doc"
+    },
+    {
+      "full_name": "Mike\u00a0Lawlor",
+      "birth_date": "03-11-1854",
+      "death_date": "08-03-1918",
+      "debut_year": "1880",
+      "final_year": "1884",
+      "source": "Baseball Almanac",
+      "birth_year": 1854,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=lawlomi01",
+      "first_name": "Mike",
+      "last_name": "Lawlor",
+      "nickname": "Mike"
+    },
+    {
+      "full_name": "Dick\u00a0Lowe",
+      "birth_date": "01-28-1854",
+      "death_date": "06-28-1922",
+      "debut_year": "1884",
+      "final_year": "1884",
+      "source": "Baseball Almanac",
+      "birth_year": 1854,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=lowedi01",
+      "first_name": "Dick",
+      "last_name": "Lowe",
+      "nickname": "Dick"
+    },
+    {
+      "full_name": "Leech\u00a0Maskrey",
+      "birth_date": "02-11-1854",
+      "death_date": "04-01-1922",
+      "debut_year": "1882",
+      "final_year": "1886",
+      "source": "Baseball Almanac",
+      "birth_year": 1854,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=maskrle01",
+      "first_name": "Leech",
+      "last_name": "Maskrey",
+      "nickname": ""
+    },
+    {
+      "full_name": "Bill\u00a0McCloskey",
+      "birth_date": "05-01-1854",
+      "death_date": "07-09-1924",
+      "debut_year": "1884",
+      "final_year": "1884",
+      "source": "Baseball Almanac",
+      "birth_year": 1854,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=mcclobi01",
+      "first_name": "Bill",
+      "last_name": "McCloskey",
+      "nickname": "Bill"
+    },
+    {
+      "full_name": "Jumbo\u00a0McGinnis",
+      "birth_date": "02-22-1854",
+      "death_date": "05-18-1934",
+      "debut_year": "1882",
+      "final_year": "1887",
+      "source": "Baseball Almanac",
+      "birth_year": 1854,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=mcginju01",
+      "first_name": "Jumbo",
+      "last_name": "McGinnis",
+      "nickname": "Jumbo"
+    },
+    {
+      "full_name": "Russ\u00a0McKelvy",
+      "birth_date": "09-08-1854",
+      "death_date": "10-19-1915",
+      "debut_year": "1878",
+      "final_year": "1882",
+      "source": "Baseball Almanac",
+      "birth_year": 1854,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=mckelru01",
+      "first_name": "Russ",
+      "last_name": "McKelvy",
+      "nickname": "Russ"
+    },
+    {
+      "full_name": "Pat\u00a0McKenna",
+      "birth_date": "12-27-1854",
+      "death_date": "12-27-1922",
+      "debut_year": "1877",
+      "final_year": "1877",
+      "source": "Baseball Almanac",
+      "birth_year": 1854,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=mckenpa01",
+      "first_name": "Pat",
+      "last_name": "McKenna",
+      "nickname": "Pat"
+    },
+    {
+      "full_name": "Pete\u00a0Morris",
+      "birth_date": "01-01-1854",
+      "death_date": "12-09-1884",
+      "debut_year": "1884",
+      "final_year": "1884",
+      "source": "Baseball Almanac",
+      "birth_year": 1854,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=morrip01",
+      "first_name": "Pete",
+      "last_name": "Morris",
+      "nickname": "Pete"
+    },
+    {
+      "full_name": "Charlie\u00a0Morton",
+      "birth_date": "10-12-1854",
+      "death_date": "12-09-1921",
+      "debut_year": "1882",
+      "final_year": "1885",
+      "source": "Baseball Almanac",
+      "birth_year": 1854,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=mortoch01",
+      "first_name": "Charlie",
+      "last_name": "Morton",
+      "nickname": "Charlie"
+    },
+    {
+      "full_name": "George\u00a0Mundinger",
+      "birth_date": "11-20-1854",
+      "death_date": "10-12-1910",
+      "debut_year": "1884",
+      "final_year": "1884",
+      "source": "Baseball Almanac",
+      "birth_year": 1854,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=mundige01",
+      "first_name": "George",
+      "last_name": "Mundinger",
+      "nickname": ""
+    },
+    {
+      "full_name": "Dick\u00a0Phelan",
+      "birth_date": "12-10-1854",
+      "death_date": "02-13-1931",
+      "debut_year": "1884",
+      "final_year": "1885",
+      "source": "Baseball Almanac",
+      "birth_year": 1854,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=pheladi01",
+      "first_name": "Dick",
+      "last_name": "Phelan",
+      "nickname": "Dick"
+    },
+    {
+      "full_name": "Phil\u00a0Powers",
+      "birth_date": "07-26-1854",
+      "death_date": "12-22-1914",
+      "debut_year": "1878",
+      "final_year": "1885",
+      "source": "Baseball Almanac",
+      "birth_year": 1854,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=powerph01",
+      "first_name": "Phil",
+      "last_name": "Powers",
+      "nickname": "Grandmother or Phil"
+    },
+    {
+      "full_name": "Blondie\u00a0Purcell",
+      "birth_date": "03-16-1854",
+      "death_date": "02-20-1912",
+      "debut_year": "1879",
+      "final_year": "1890",
+      "source": "Baseball Almanac",
+      "birth_year": 1854,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=purcebl01",
+      "first_name": "Blondie",
+      "last_name": "Purcell",
+      "nickname": "Blondie"
+    },
+    {
+      "full_name": "Old Hoss\u00a0Radbourn",
+      "birth_date": "12-11-1854",
+      "death_date": "02-05-1897",
+      "debut_year": "1880",
+      "final_year": "1891",
+      "source": "Baseball Almanac",
+      "birth_year": 1854,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=radboch01",
+      "first_name": "Old",
+      "last_name": "Radbourn",
+      "nickname": "Old Hoss"
+    },
+    {
+      "full_name": "Dave\u00a0Rowe",
+      "birth_date": "10-09-1854",
+      "death_date": "12-09-1930",
+      "debut_year": "1877",
+      "final_year": "1888",
+      "source": "Baseball Almanac",
+      "birth_year": 1854,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=roweda01",
+      "first_name": "Dave",
+      "last_name": "Rowe",
+      "nickname": "Dave"
+    },
+    {
+      "full_name": "Lou\u00a0Say",
+      "birth_date": "02-04-1854",
+      "death_date": "06-05-1930",
+      "debut_year": "1880",
+      "final_year": "1884",
+      "source": "Baseball Almanac",
+      "birth_year": 1854,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=saylo01",
+      "first_name": "Lou",
+      "last_name": "Say",
+      "nickname": "Lou"
+    },
+    {
+      "full_name": "Jim\u00a0Shanley",
+      "birth_date": "05-04-1854",
+      "death_date": "11-04-1904",
+      "debut_year": "1876",
+      "final_year": "1876",
+      "source": "Baseball Almanac",
+      "birth_year": 1854,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=shandji01",
+      "first_name": "Jim",
+      "last_name": "Shanley",
+      "nickname": "Jim"
+    },
+    {
+      "full_name": "Pop\u00a0Snyder",
+      "birth_date": "10-06-1854",
+      "death_date": "10-29-1924",
+      "debut_year": "1876",
+      "final_year": "1891",
+      "source": "Baseball Almanac",
+      "birth_year": 1854,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=snydepo01",
+      "first_name": "Pop",
+      "last_name": "Snyder",
+      "nickname": "Pop"
+    },
+    {
+      "full_name": "Redleg\u00a0Snyder",
+      "birth_date": "12-12-1854",
+      "death_date": "11-24-1932",
+      "debut_year": "1876",
+      "final_year": "1884",
+      "source": "Baseball Almanac",
+      "birth_year": 1854,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=snydere01",
+      "first_name": "Redleg",
+      "last_name": "Snyder",
+      "nickname": "Redleg"
+    },
+    {
+      "full_name": "Bill\u00a0Tobin",
+      "birth_date": "10-10-1854",
+      "death_date": "10-10-1912",
+      "debut_year": "1880",
+      "final_year": "1880",
+      "source": "Baseball Almanac",
+      "birth_year": 1854,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=tobinbi01",
+      "first_name": "Bill",
+      "last_name": "Tobin",
+      "nickname": "Bill"
+    },
+    {
+      "full_name": "Oscar\u00a0Walker",
+      "birth_date": "03-18-1854",
+      "death_date": "05-20-1889",
+      "debut_year": "1879",
+      "final_year": "1885",
+      "source": "Baseball Almanac",
+      "birth_year": 1854,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=walkeos01",
+      "first_name": "Oscar",
+      "last_name": "Walker",
+      "nickname": ""
+    },
+    {
+      "full_name": "Will\u00a0White",
+      "birth_date": "10-11-1854",
+      "death_date": "08-31-1911",
+      "debut_year": "1877",
+      "final_year": "1886",
+      "source": "Baseball Almanac",
+      "birth_year": 1854,
+      "player_url": "https://www.baseball-almanac.com/players/player.php?p=whitewi01",
+      "first_name": "Will",
+      "last_name": "White",
+      "nickname": "Whoop-La or Will"
+    }
+  ]
+}

@@ -1,0 +1,802 @@
+[
+  {
+    "firstname": "MARY",
+    "gender": "female",
+    "frequency": 2.629,
+    "cumulative_frequency": 2.629,
+    "rank": 1,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "PATRICIA",
+    "gender": "female",
+    "frequency": 1.073,
+    "cumulative_frequency": 3.702,
+    "rank": 2,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "LINDA",
+    "gender": "female",
+    "frequency": 1.035,
+    "cumulative_frequency": 4.736,
+    "rank": 3,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "BARBARA",
+    "gender": "female",
+    "frequency": 0.98,
+    "cumulative_frequency": 5.716,
+    "rank": 4,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "ELIZABETH",
+    "gender": "female",
+    "frequency": 0.937,
+    "cumulative_frequency": 6.653,
+    "rank": 5,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "JENNIFER",
+    "gender": "female",
+    "frequency": 0.932,
+    "cumulative_frequency": 7.586,
+    "rank": 6,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "MARIA",
+    "gender": "female",
+    "frequency": 0.828,
+    "cumulative_frequency": 8.414,
+    "rank": 7,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "SUSAN",
+    "gender": "female",
+    "frequency": 0.794,
+    "cumulative_frequency": 9.209,
+    "rank": 8,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "MARGARET",
+    "gender": "female",
+    "frequency": 0.768,
+    "cumulative_frequency": 9.976,
+    "rank": 9,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "DOROTHY",
+    "gender": "female",
+    "frequency": 0.727,
+    "cumulative_frequency": 10.703,
+    "rank": 10,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "LISA",
+    "gender": "female",
+    "frequency": 0.704,
+    "cumulative_frequency": 11.407,
+    "rank": 11,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "NANCY",
+    "gender": "female",
+    "frequency": 0.669,
+    "cumulative_frequency": 12.075,
+    "rank": 12,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "KAREN",
+    "gender": "female",
+    "frequency": 0.667,
+    "cumulative_frequency": 12.742,
+    "rank": 13,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "BETTY",
+    "gender": "female",
+    "frequency": 0.666,
+    "cumulative_frequency": 13.408,
+    "rank": 14,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "HELEN",
+    "gender": "female",
+    "frequency": 0.663,
+    "cumulative_frequency": 14.071,
+    "rank": 15,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "SANDRA",
+    "gender": "female",
+    "frequency": 0.629,
+    "cumulative_frequency": 14.7,
+    "rank": 16,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "DONNA",
+    "gender": "female",
+    "frequency": 0.583,
+    "cumulative_frequency": 15.282,
+    "rank": 17,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "CAROL",
+    "gender": "female",
+    "frequency": 0.565,
+    "cumulative_frequency": 15.848,
+    "rank": 18,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "RUTH",
+    "gender": "female",
+    "frequency": 0.562,
+    "cumulative_frequency": 16.41,
+    "rank": 19,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "SHARON",
+    "gender": "female",
+    "frequency": 0.522,
+    "cumulative_frequency": 16.932,
+    "rank": 20,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "MICHELLE",
+    "gender": "female",
+    "frequency": 0.519,
+    "cumulative_frequency": 17.451,
+    "rank": 21,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "LAURA",
+    "gender": "female",
+    "frequency": 0.51,
+    "cumulative_frequency": 17.961,
+    "rank": 22,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "SARAH",
+    "gender": "female",
+    "frequency": 0.508,
+    "cumulative_frequency": 18.469,
+    "rank": 23,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "KIMBERLY",
+    "gender": "female",
+    "frequency": 0.504,
+    "cumulative_frequency": 18.973,
+    "rank": 24,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "DEBORAH",
+    "gender": "female",
+    "frequency": 0.494,
+    "cumulative_frequency": 19.467,
+    "rank": 25,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "JESSICA",
+    "gender": "female",
+    "frequency": 0.49,
+    "cumulative_frequency": 19.958,
+    "rank": 26,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "SHIRLEY",
+    "gender": "female",
+    "frequency": 0.482,
+    "cumulative_frequency": 20.439,
+    "rank": 27,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "CYNTHIA",
+    "gender": "female",
+    "frequency": 0.469,
+    "cumulative_frequency": 20.908,
+    "rank": 28,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "ANGELA",
+    "gender": "female",
+    "frequency": 0.468,
+    "cumulative_frequency": 21.376,
+    "rank": 29,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "MELISSA",
+    "gender": "female",
+    "frequency": 0.462,
+    "cumulative_frequency": 21.839,
+    "rank": 30,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "BRENDA",
+    "gender": "female",
+    "frequency": 0.455,
+    "cumulative_frequency": 22.293,
+    "rank": 31,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "AMY",
+    "gender": "female",
+    "frequency": 0.451,
+    "cumulative_frequency": 22.745,
+    "rank": 32,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "ANNA",
+    "gender": "female",
+    "frequency": 0.44,
+    "cumulative_frequency": 23.185,
+    "rank": 33,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "REBECCA",
+    "gender": "female",
+    "frequency": 0.43,
+    "cumulative_frequency": 23.615,
+    "rank": 34,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "VIRGINIA",
+    "gender": "female",
+    "frequency": 0.43,
+    "cumulative_frequency": 24.044,
+    "rank": 35,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "KATHLEEN",
+    "gender": "female",
+    "frequency": 0.424,
+    "cumulative_frequency": 24.468,
+    "rank": 36,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "PAMELA",
+    "gender": "female",
+    "frequency": 0.416,
+    "cumulative_frequency": 24.884,
+    "rank": 37,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "MARTHA",
+    "gender": "female",
+    "frequency": 0.412,
+    "cumulative_frequency": 25.297,
+    "rank": 38,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "DEBRA",
+    "gender": "female",
+    "frequency": 0.408,
+    "cumulative_frequency": 25.704,
+    "rank": 39,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "AMANDA",
+    "gender": "female",
+    "frequency": 0.404,
+    "cumulative_frequency": 26.108,
+    "rank": 40,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "STEPHANIE",
+    "gender": "female",
+    "frequency": 0.4,
+    "cumulative_frequency": 26.508,
+    "rank": 41,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "CAROLYN",
+    "gender": "female",
+    "frequency": 0.385,
+    "cumulative_frequency": 26.893,
+    "rank": 42,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "CHRISTINE",
+    "gender": "female",
+    "frequency": 0.382,
+    "cumulative_frequency": 27.275,
+    "rank": 43,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "MARIE",
+    "gender": "female",
+    "frequency": 0.379,
+    "cumulative_frequency": 27.655,
+    "rank": 44,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "JANET",
+    "gender": "female",
+    "frequency": 0.379,
+    "cumulative_frequency": 28.034,
+    "rank": 45,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "CATHERINE",
+    "gender": "female",
+    "frequency": 0.373,
+    "cumulative_frequency": 28.408,
+    "rank": 46,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "FRANCES",
+    "gender": "female",
+    "frequency": 0.37,
+    "cumulative_frequency": 28.777,
+    "rank": 47,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "ANN",
+    "gender": "female",
+    "frequency": 0.364,
+    "cumulative_frequency": 29.141,
+    "rank": 48,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "JOYCE",
+    "gender": "female",
+    "frequency": 0.364,
+    "cumulative_frequency": 29.505,
+    "rank": 49,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "DIANE",
+    "gender": "female",
+    "frequency": 0.359,
+    "cumulative_frequency": 29.864,
+    "rank": 50,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "ALICE",
+    "gender": "female",
+    "frequency": 0.357,
+    "cumulative_frequency": 30.221,
+    "rank": 51,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "JULIE",
+    "gender": "female",
+    "frequency": 0.348,
+    "cumulative_frequency": 30.568,
+    "rank": 52,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "HEATHER",
+    "gender": "female",
+    "frequency": 0.337,
+    "cumulative_frequency": 30.905,
+    "rank": 53,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "TERESA",
+    "gender": "female",
+    "frequency": 0.336,
+    "cumulative_frequency": 31.241,
+    "rank": 54,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "DORIS",
+    "gender": "female",
+    "frequency": 0.335,
+    "cumulative_frequency": 31.577,
+    "rank": 55,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "GLORIA",
+    "gender": "female",
+    "frequency": 0.335,
+    "cumulative_frequency": 31.912,
+    "rank": 56,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "EVELYN",
+    "gender": "female",
+    "frequency": 0.322,
+    "cumulative_frequency": 32.233,
+    "rank": 57,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "JEAN",
+    "gender": "female",
+    "frequency": 0.315,
+    "cumulative_frequency": 32.548,
+    "rank": 58,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "CHERYL",
+    "gender": "female",
+    "frequency": 0.315,
+    "cumulative_frequency": 32.863,
+    "rank": 59,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "MILDRED",
+    "gender": "female",
+    "frequency": 0.313,
+    "cumulative_frequency": 33.176,
+    "rank": 60,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "KATHERINE",
+    "gender": "female",
+    "frequency": 0.313,
+    "cumulative_frequency": 33.489,
+    "rank": 61,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "JOAN",
+    "gender": "female",
+    "frequency": 0.306,
+    "cumulative_frequency": 33.795,
+    "rank": 62,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "ASHLEY",
+    "gender": "female",
+    "frequency": 0.303,
+    "cumulative_frequency": 34.098,
+    "rank": 63,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "JUDITH",
+    "gender": "female",
+    "frequency": 0.297,
+    "cumulative_frequency": 34.395,
+    "rank": 64,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "ROSE",
+    "gender": "female",
+    "frequency": 0.296,
+    "cumulative_frequency": 34.691,
+    "rank": 65,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "JANICE",
+    "gender": "female",
+    "frequency": 0.285,
+    "cumulative_frequency": 34.975,
+    "rank": 66,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "KELLY",
+    "gender": "female",
+    "frequency": 0.283,
+    "cumulative_frequency": 35.258,
+    "rank": 67,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "NICOLE",
+    "gender": "female",
+    "frequency": 0.281,
+    "cumulative_frequency": 35.539,
+    "rank": 68,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "JUDY",
+    "gender": "female",
+    "frequency": 0.276,
+    "cumulative_frequency": 35.815,
+    "rank": 69,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "CHRISTINA",
+    "gender": "female",
+    "frequency": 0.275,
+    "cumulative_frequency": 36.09,
+    "rank": 70,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "KATHY",
+    "gender": "female",
+    "frequency": 0.272,
+    "cumulative_frequency": 36.362,
+    "rank": 71,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "THERESA",
+    "gender": "female",
+    "frequency": 0.271,
+    "cumulative_frequency": 36.633,
+    "rank": 72,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "BEVERLY",
+    "gender": "female",
+    "frequency": 0.267,
+    "cumulative_frequency": 36.9,
+    "rank": 73,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "DENISE",
+    "gender": "female",
+    "frequency": 0.264,
+    "cumulative_frequency": 37.164,
+    "rank": 74,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "TAMMY",
+    "gender": "female",
+    "frequency": 0.259,
+    "cumulative_frequency": 37.423,
+    "rank": 75,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "IRENE",
+    "gender": "female",
+    "frequency": 0.252,
+    "cumulative_frequency": 37.675,
+    "rank": 76,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "JANE",
+    "gender": "female",
+    "frequency": 0.25,
+    "cumulative_frequency": 37.925,
+    "rank": 77,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "LORI",
+    "gender": "female",
+    "frequency": 0.248,
+    "cumulative_frequency": 38.173,
+    "rank": 78,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "RACHEL",
+    "gender": "female",
+    "frequency": 0.242,
+    "cumulative_frequency": 38.415,
+    "rank": 79,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "MARILYN",
+    "gender": "female",
+    "frequency": 0.241,
+    "cumulative_frequency": 38.657,
+    "rank": 80,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "ANDREA",
+    "gender": "female",
+    "frequency": 0.236,
+    "cumulative_frequency": 38.893,
+    "rank": 81,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "KATHRYN",
+    "gender": "female",
+    "frequency": 0.234,
+    "cumulative_frequency": 39.127,
+    "rank": 82,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "LOUISE",
+    "gender": "female",
+    "frequency": 0.229,
+    "cumulative_frequency": 39.356,
+    "rank": 83,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "SARA",
+    "gender": "female",
+    "frequency": 0.229,
+    "cumulative_frequency": 39.584,
+    "rank": 84,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "ANNE",
+    "gender": "female",
+    "frequency": 0.228,
+    "cumulative_frequency": 39.812,
+    "rank": 85,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "JACQUELINE",
+    "gender": "female",
+    "frequency": 0.228,
+    "cumulative_frequency": 40.04,
+    "rank": 86,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "WANDA",
+    "gender": "female",
+    "frequency": 0.226,
+    "cumulative_frequency": 40.266,
+    "rank": 87,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "BONNIE",
+    "gender": "female",
+    "frequency": 0.223,
+    "cumulative_frequency": 40.489,
+    "rank": 88,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "JULIA",
+    "gender": "female",
+    "frequency": 0.223,
+    "cumulative_frequency": 40.711,
+    "rank": 89,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "RUBY",
+    "gender": "female",
+    "frequency": 0.221,
+    "cumulative_frequency": 40.932,
+    "rank": 90,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "LOIS",
+    "gender": "female",
+    "frequency": 0.22,
+    "cumulative_frequency": 41.153,
+    "rank": 91,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "TINA",
+    "gender": "female",
+    "frequency": 0.22,
+    "cumulative_frequency": 41.372,
+    "rank": 92,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "PHYLLIS",
+    "gender": "female",
+    "frequency": 0.219,
+    "cumulative_frequency": 41.591,
+    "rank": 93,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "NORMA",
+    "gender": "female",
+    "frequency": 0.218,
+    "cumulative_frequency": 41.809,
+    "rank": 94,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "PAULA",
+    "gender": "female",
+    "frequency": 0.217,
+    "cumulative_frequency": 42.026,
+    "rank": 95,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "DIANA",
+    "gender": "female",
+    "frequency": 0.216,
+    "cumulative_frequency": 42.242,
+    "rank": 96,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "ANNIE",
+    "gender": "female",
+    "frequency": 0.216,
+    "cumulative_frequency": 42.458,
+    "rank": 97,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "LILLIAN",
+    "gender": "female",
+    "frequency": 0.211,
+    "cumulative_frequency": 42.669,
+    "rank": 98,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "EMILY",
+    "gender": "female",
+    "frequency": 0.208,
+    "cumulative_frequency": 42.877,
+    "rank": 99,
+    "source": "US Census 1990"
+  },
+  {
+    "firstname": "ROBIN",
+    "gender": "female",
+    "frequency": 0.208,
+    "cumulative_frequency": 43.085,
+    "rank": 100,
+    "source": "US Census 1990"
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "full_name": "Artie Wilson",
+    "birth_year": 1920,
+    "player_url": "https://www.baseball-almanac.com/players/player.php?p=wilsoar02",
+    "first_name": "Arthur",
+    "last_name": "Wilson",
+    "nickname": "Artie or Octopus or Snoop",
+    "birth_name": "Arthur Lee Wilson",
+    "birth_first_name": "Arthur",
+    "birth_middle_name": "Lee",
+    "birth_last_name": "Wilson",
+    "unusual_name_pattern": false,
+    "nicknames": [
+      "Artie",
+      "Octopus",
+      "Snoop"
+    ]
+  },
+  {
+    "full_name": "Babe Ruth",
+    "birth_year": 1895,
+    "player_url": "https://www.baseball-almanac.com/players/player.php?p=ruthba01",
+    "first_name": "George",
+    "last_name": "Ruth",
+    "nickname": "Babe or The Bambino or The Sultan of Swat",
+    "birth_name": "George Herman Ruth",
+    "birth_first_name": "George",
+    "birth_middle_name": "Herman",
+    "birth_last_name": "Ruth",
+    "unusual_name_pattern": false,
+    "nicknames": [
+      "Babe",
+      "The Bambino",
+      "The Sultan of Swat"
+    ]
+  },
+  {
+    "full_name": "Jackie Robinson",
+    "birth_year": 1919,
+    "player_url": "https://www.baseball-almanac.com/players/player.php?p=robinja02",
+    "first_name": "Jack",
+    "last_name": "Robinson",
+    "nickname": "Jackie",
+    "birth_name": "Jack Roosevelt Robinson",
+    "birth_first_name": "Jack",
+    "birth_middle_name": "Roosevelt",
+    "birth_last_name": "Robinson",
+    "unusual_name_pattern": false
+  },
+  {
+    "full_name": "Ducky Holmes",
+    "birth_year": 1869,
+    "player_url": "https://www.baseball-almanac.com/players/player.php?p=holmedu01",
+    "first_name": "James",
+    "last_name": "Holmes",
+    "nickname": "Ducky",
+    "birth_name": "James William Holmes",
+    "birth_first_name": "James",
+    "birth_middle_name": "William",
+    "birth_last_name": "Holmes",
+    "unusual_name_pattern": false
+  }
+]

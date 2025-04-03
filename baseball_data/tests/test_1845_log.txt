@@ -1,0 +1,353 @@
+2025-03-21 12:18:42,221 - INFO - Starting test scrape for year 1845
+2025-03-21 12:18:42,221 - INFO - Scraping players born in 1845...
+2025-03-21 12:18:43,167 - ERROR - Request error: 403 Client Error: Forbidden for url: https://www.baseball-almanac.com/players/birthplace.php?y=1845
+2025-03-21 12:18:43,167 - INFO - Retrying in 1.74 seconds... (Attempt 1/3)
+2025-03-21 12:18:45,824 - ERROR - Request error: 403 Client Error: Forbidden for url: https://www.baseball-almanac.com/players/birthplace.php?y=1845
+2025-03-21 12:18:45,824 - INFO - Retrying in 2.55 seconds... (Attempt 2/3)
+2025-03-21 12:18:49,339 - ERROR - Request error: 403 Client Error: Forbidden for url: https://www.baseball-almanac.com/players/birthplace.php?y=1845
+2025-03-21 12:18:49,360 - ERROR - Failed to retrieve https://www.baseball-almanac.com/players/birthplace.php?y=1845 after 3 attempts
+2025-03-21 12:18:49,360 - ERROR - Error scraping year 1845: 403 Client Error: Forbidden for url: https://www.baseball-almanac.com/players/birthplace.php?y=1845
+2025-03-21 12:18:49,366 - INFO - Test completed! 0 players saved to baseball_data\tests\test_1845_result.json
+2025-03-21 12:18:49,366 - INFO - Found 0 unique first names
+2025-03-21 12:18:49,366 - INFO - Found 0 unique last names
+2025-03-21 12:18:49,366 - INFO - Found 0 unique nicknames
+2025-03-21 12:41:05,872 - INFO - Starting test scrape for year 1845
+2025-03-21 12:41:05,872 - INFO - Scraping players born in 1845...
+2025-03-21 12:41:06,972 - INFO - Successfully retrieved https://www.baseball-almanac.com/players/birthplace.php?y=1845
+2025-03-21 12:41:07,010 - INFO - Found 151 players born in 1845
+2025-03-21 12:41:07,010 - INFO - Scraping player details for MLB Players by Birthplace from https://www.baseball-almanac.com/players/birthplace.php
+2025-03-21 12:41:07,876 - INFO - Successfully retrieved https://www.baseball-almanac.com/players/birthplace.php
+2025-03-21 12:41:07,928 - WARNING - Bio section not found for MLB Players by Birthplace
+2025-03-21 12:41:07,931 - INFO - Progress saved to baseball_data\tests\test_1845_progress.json
+2025-03-21 12:41:07,931 - INFO - Waiting for 2.11 seconds...
+2025-03-21 12:41:10,046 - INFO - Scraping player details for 1876 from https://www.baseball-almanac.com/players/birthplace.php?y=1876
+2025-03-21 12:41:10,946 - INFO - Successfully retrieved https://www.baseball-almanac.com/players/birthplace.php?y=1876
+2025-03-21 12:41:10,987 - WARNING - Bio section not found for 1876
+2025-03-21 12:41:10,987 - INFO - Progress saved to baseball_data\tests\test_1845_progress.json
+2025-03-21 12:41:10,987 - INFO - Waiting for 3.00 seconds...
+2025-03-21 12:41:13,992 - INFO - Scraping player details for 1877 from https://www.baseball-almanac.com/players/birthplace.php?y=1877
+2025-03-21 12:41:14,964 - INFO - Successfully retrieved https://www.baseball-almanac.com/players/birthplace.php?y=1877
+2025-03-21 12:41:14,998 - WARNING - Bio section not found for 1877
+2025-03-21 12:41:15,001 - INFO - Progress saved to baseball_data\tests\test_1845_progress.json
+2025-03-21 12:41:15,001 - INFO - Waiting for 3.72 seconds...
+2025-03-21 12:41:18,723 - INFO - Scraping player details for 1878 from https://www.baseball-almanac.com/players/birthplace.php?y=1878
+2025-03-21 12:41:19,601 - INFO - Successfully retrieved https://www.baseball-almanac.com/players/birthplace.php?y=1878
+2025-03-21 12:41:19,643 - WARNING - Bio section not found for 1878
+2025-03-21 12:41:19,643 - INFO - Progress saved to baseball_data\tests\test_1845_progress.json
+2025-03-21 12:41:19,643 - INFO - Waiting for 2.35 seconds...
+2025-03-21 12:41:21,996 - INFO - Scraping player details for 1879 from https://www.baseball-almanac.com/players/birthplace.php?y=1879
+2025-03-21 12:41:22,913 - INFO - Successfully retrieved https://www.baseball-almanac.com/players/birthplace.php?y=1879
+2025-03-21 12:41:22,954 - WARNING - Bio section not found for 1879
+2025-03-21 12:41:22,961 - INFO - Progress saved to baseball_data\tests\test_1845_progress.json
+2025-03-21 12:41:22,964 - INFO - Waiting for 3.56 seconds...
+2025-03-21 12:41:26,523 - INFO - Scraping player details for 1880 from https://www.baseball-almanac.com/players/birthplace.php?y=1880
+2025-03-21 12:41:27,487 - INFO - Successfully retrieved https://www.baseball-almanac.com/players/birthplace.php?y=1880
+2025-03-21 12:41:27,529 - WARNING - Bio section not found for 1880
+2025-03-21 12:41:27,537 - INFO - Progress saved to baseball_data\tests\test_1845_progress.json
+2025-03-21 12:41:27,537 - INFO - Waiting for 4.86 seconds...
+2025-03-21 12:41:32,404 - INFO - Scraping player details for 1881 from https://www.baseball-almanac.com/players/birthplace.php?y=1881
+2025-03-21 12:41:33,262 - INFO - Successfully retrieved https://www.baseball-almanac.com/players/birthplace.php?y=1881
+2025-03-21 12:41:33,335 - WARNING - Bio section not found for 1881
+2025-03-21 12:41:33,342 - INFO - Progress saved to baseball_data\tests\test_1845_progress.json
+2025-03-21 12:41:33,342 - INFO - Waiting for 3.82 seconds...
+2025-03-21 12:41:37,166 - INFO - Scraping player details for 1882 from https://www.baseball-almanac.com/players/birthplace.php?y=1882
+2025-03-21 12:41:38,075 - INFO - Successfully retrieved https://www.baseball-almanac.com/players/birthplace.php?y=1882
+2025-03-21 12:41:38,113 - WARNING - Bio section not found for 1882
+2025-03-21 12:41:38,118 - INFO - Progress saved to baseball_data\tests\test_1845_progress.json
+2025-03-21 12:41:38,119 - INFO - Waiting for 4.46 seconds...
+2025-03-21 12:41:42,583 - INFO - Scraping player details for 1883 from https://www.baseball-almanac.com/players/birthplace.php?y=1883
+2025-03-21 12:41:43,435 - INFO - Successfully retrieved https://www.baseball-almanac.com/players/birthplace.php?y=1883
+2025-03-21 12:41:43,480 - WARNING - Bio section not found for 1883
+2025-03-21 12:41:43,483 - INFO - Progress saved to baseball_data\tests\test_1845_progress.json
+2025-03-21 12:41:43,483 - INFO - Waiting for 2.70 seconds...
+2025-03-21 12:41:46,187 - INFO - Scraping player details for 1884 from https://www.baseball-almanac.com/players/birthplace.php?y=1884
+2025-03-21 12:41:47,067 - INFO - Successfully retrieved https://www.baseball-almanac.com/players/birthplace.php?y=1884
+2025-03-21 12:41:47,119 - WARNING - Bio section not found for 1884
+2025-03-21 12:41:47,125 - INFO - Progress saved to baseball_data\tests\test_1845_progress.json
+2025-03-21 12:41:47,125 - INFO - Waiting for 3.94 seconds...
+2025-03-21 12:41:51,070 - INFO - Scraping player details for 1885 from https://www.baseball-almanac.com/players/birthplace.php?y=1885
+2025-03-21 12:41:51,960 - INFO - Successfully retrieved https://www.baseball-almanac.com/players/birthplace.php?y=1885
+2025-03-21 12:41:51,996 - WARNING - Bio section not found for 1885
+2025-03-21 12:41:52,002 - INFO - Progress saved to baseball_data\tests\test_1845_progress.json
+2025-03-21 12:41:52,002 - INFO - Waiting for 2.78 seconds...
+2025-03-21 12:41:54,780 - INFO - Scraping player details for 1886 from https://www.baseball-almanac.com/players/birthplace.php?y=1886
+2025-03-21 12:41:55,670 - INFO - Successfully retrieved https://www.baseball-almanac.com/players/birthplace.php?y=1886
+2025-03-21 12:41:55,703 - WARNING - Bio section not found for 1886
+2025-03-21 12:41:55,710 - INFO - Progress saved to baseball_data\tests\test_1845_progress.json
+2025-03-21 12:41:55,710 - INFO - Waiting for 2.56 seconds...
+2025-03-21 12:41:58,274 - INFO - Scraping player details for 1887 from https://www.baseball-almanac.com/players/birthplace.php?y=1887
+2025-03-21 12:41:59,212 - INFO - Successfully retrieved https://www.baseball-almanac.com/players/birthplace.php?y=1887
+2025-03-21 12:41:59,254 - WARNING - Bio section not found for 1887
+2025-03-21 12:41:59,258 - INFO - Progress saved to baseball_data\tests\test_1845_progress.json
+2025-03-21 12:41:59,258 - INFO - Waiting for 2.16 seconds...
+2025-03-21 12:42:01,424 - INFO - Scraping player details for 1888 from https://www.baseball-almanac.com/players/birthplace.php?y=1888
+2025-03-21 12:42:02,281 - INFO - Successfully retrieved https://www.baseball-almanac.com/players/birthplace.php?y=1888
+2025-03-21 12:42:02,322 - WARNING - Bio section not found for 1888
+2025-03-21 12:42:02,328 - INFO - Progress saved to baseball_data\tests\test_1845_progress.json
+2025-03-21 12:42:02,328 - INFO - Waiting for 2.99 seconds...
+2025-03-21 12:42:05,325 - INFO - Scraping player details for 1889 from https://www.baseball-almanac.com/players/birthplace.php?y=1889
+2025-03-21 12:42:06,244 - INFO - Successfully retrieved https://www.baseball-almanac.com/players/birthplace.php?y=1889
+2025-03-21 12:42:06,282 - WARNING - Bio section not found for 1889
+2025-03-21 12:42:06,283 - INFO - Progress saved to baseball_data\tests\test_1845_progress.json
+2025-03-21 12:42:06,283 - INFO - Waiting for 2.66 seconds...
+2025-03-21 12:42:08,947 - INFO - Scraping player details for 1890 from https://www.baseball-almanac.com/players/birthplace.php?y=1890
+2025-03-21 12:44:48,153 - INFO - Starting test scrape for year 1845
+2025-03-21 12:44:48,153 - INFO - Scraping players born in 1845...
+2025-03-21 12:44:49,062 - INFO - Successfully retrieved https://www.baseball-almanac.com/players/birthplace.php?y=1845
+2025-03-21 12:44:49,100 - INFO - Saved page HTML to baseball_data\tests\debug_year_1845_page.html for inspection
+2025-03-21 12:44:49,102 - INFO - Found 92 players born in 1845
+2025-03-21 12:44:49,103 - INFO - Sample link 1: URL=/asgmenu.shtml, Text=All-Star Game
+2025-03-21 12:44:49,103 - INFO - Sample link 2: URL=/League_Championship_Series.shtml, Text=A.L.C.S. & N.L.C.S.
+2025-03-21 12:44:49,103 - INFO - Sample link 3: URL=/me_award.shtml, Text=Awards
+2025-03-21 12:44:49,103 - INFO - Sample link 4: URL=/stadium.shtml, Text=Ballparks
+2025-03-21 12:44:49,103 - INFO - Sample link 5: URL=/college/colleges.shtml, Text=College Baseball
+2025-03-21 12:44:49,104 - INFO - Scraping player details for All-Star Game from https://www.baseball-almanac.com/asgmenu.shtml
+2025-03-21 12:44:49,948 - INFO - Successfully retrieved https://www.baseball-almanac.com/asgmenu.shtml
+2025-03-21 12:44:50,022 - WARNING - Bio section not found for All-Star Game
+2025-03-21 12:44:50,028 - INFO - Progress saved to baseball_data\tests\test_1845_progress.json
+2025-03-21 12:44:50,028 - INFO - Waiting for 3.68 seconds...
+2025-03-21 12:44:53,705 - INFO - Scraping player details for A.L.C.S. & N.L.C.S. from https://www.baseball-almanac.com/League_Championship_Series.shtml
+2025-03-21 12:44:54,676 - INFO - Successfully retrieved https://www.baseball-almanac.com/League_Championship_Series.shtml
+2025-03-21 12:44:54,781 - WARNING - Bio section not found for A.L.C.S. & N.L.C.S.
+2025-03-21 12:44:54,789 - INFO - Progress saved to baseball_data\tests\test_1845_progress.json
+2025-03-21 12:44:54,789 - INFO - Waiting for 3.99 seconds...
+2025-03-21 12:44:58,784 - INFO - Scraping player details for Awards from https://www.baseball-almanac.com/me_award.shtml
+2025-03-21 12:44:59,660 - INFO - Successfully retrieved https://www.baseball-almanac.com/me_award.shtml
+2025-03-21 12:44:59,762 - WARNING - Bio section not found for Awards
+2025-03-21 12:44:59,762 - INFO - Progress saved to baseball_data\tests\test_1845_progress.json
+2025-03-21 12:44:59,762 - INFO - Waiting for 4.59 seconds...
+2025-03-21 12:45:04,360 - INFO - Scraping player details for Ballparks from https://www.baseball-almanac.com/stadium.shtml
+2025-03-21 12:45:05,563 - INFO - Successfully retrieved https://www.baseball-almanac.com/stadium.shtml
+2025-03-21 12:45:05,608 - WARNING - Bio section not found for Ballparks
+2025-03-21 12:45:05,613 - INFO - Progress saved to baseball_data\tests\test_1845_progress.json
+2025-03-21 12:45:05,613 - INFO - Waiting for 2.59 seconds...
+2025-03-21 12:45:08,200 - INFO - Scraping player details for College Baseball from https://www.baseball-almanac.com/college/colleges.shtml
+2025-03-21 12:45:09,184 - INFO - Successfully retrieved https://www.baseball-almanac.com/college/colleges.shtml
+2025-03-21 12:45:09,342 - WARNING - Bio section not found for College Baseball
+2025-03-21 12:45:09,349 - INFO - Progress saved to baseball_data\tests\test_1845_progress.json
+2025-03-21 12:45:09,349 - INFO - Waiting for 3.93 seconds...
+2025-03-21 12:45:13,286 - INFO - Scraping player details for Division Series from https://www.baseball-almanac.com/division_series/division_series.shtml
+2025-03-21 12:45:14,292 - INFO - Successfully retrieved https://www.baseball-almanac.com/division_series/division_series.shtml
+2025-03-21 12:45:14,439 - WARNING - Bio section not found for Division Series
+2025-03-21 12:45:14,444 - INFO - Progress saved to baseball_data\tests\test_1845_progress.json
+2025-03-21 12:45:14,444 - INFO - Waiting for 2.19 seconds...
+2025-03-21 12:45:16,637 - INFO - Scraping player details for Draft from https://www.baseball-almanac.com/draft/baseball_draft.shtml
+2025-03-21 12:45:17,563 - INFO - Successfully retrieved https://www.baseball-almanac.com/draft/baseball_draft.shtml
+2025-03-21 12:45:17,599 - WARNING - Bio section not found for Draft
+2025-03-21 12:45:17,604 - INFO - Progress saved to baseball_data\tests\test_1845_progress.json
+2025-03-21 12:45:17,604 - INFO - Waiting for 4.24 seconds...
+2025-03-21 12:45:21,850 - INFO - Scraping player details for Managers from https://www.baseball-almanac.com/mgrmenu.shtml
+2025-03-21 12:45:22,798 - INFO - Successfully retrieved https://www.baseball-almanac.com/mgrmenu.shtml
+2025-03-21 12:45:22,859 - WARNING - Bio section not found for Managers
+2025-03-21 12:45:22,865 - INFO - Progress saved to baseball_data\tests\test_1845_progress.json
+2025-03-21 12:45:22,865 - INFO - Waiting for 2.55 seconds...
+2025-03-21 12:45:25,414 - INFO - Scraping player details for Opening Day from https://www.baseball-almanac.com/opening_day/opening_day.shtml
+2025-03-21 12:45:26,318 - INFO - Successfully retrieved https://www.baseball-almanac.com/opening_day/opening_day.shtml
+2025-03-21 12:45:26,355 - WARNING - Bio section not found for Opening Day
+2025-03-21 12:45:26,360 - INFO - Progress saved to baseball_data\tests\test_1845_progress.json
+2025-03-21 12:45:26,362 - INFO - Waiting for 2.42 seconds...
+2025-03-21 12:45:28,781 - INFO - Scraping player details for Team by Team from https://www.baseball-almanac.com/teammenu.shtml
+2025-03-21 12:45:29,676 - INFO - Successfully retrieved https://www.baseball-almanac.com/teammenu.shtml
+2025-03-21 12:45:29,734 - WARNING - Bio section not found for Team by Team
+2025-03-21 12:45:29,739 - INFO - Progress saved to baseball_data\tests\test_1845_progress.json
+2025-03-21 12:45:29,739 - INFO - Waiting for 4.67 seconds...
+2025-03-21 12:45:34,411 - INFO - Scraping player details for Trades Database from https://www.baseball-almanac.com/MLB_Trades_Database.shtml
+2025-03-21 12:45:35,347 - INFO - Successfully retrieved https://www.baseball-almanac.com/MLB_Trades_Database.shtml
+2025-03-21 12:45:35,381 - WARNING - Bio section not found for Trades Database
+2025-03-21 12:45:35,389 - INFO - Progress saved to baseball_data\tests\test_1845_progress.json
+2025-03-21 12:45:35,389 - INFO - Waiting for 4.62 seconds...
+2025-03-21 12:45:40,011 - INFO - Scraping player details for Umpires from https://www.baseball-almanac.com/umpiresmenu.shtml
+2025-03-21 12:45:40,974 - INFO - Successfully retrieved https://www.baseball-almanac.com/umpiresmenu.shtml
+2025-03-21 12:45:40,992 - WARNING - Bio section not found for Umpires
+2025-03-21 12:45:40,999 - INFO - Progress saved to baseball_data\tests\test_1845_progress.json
+2025-03-21 12:45:40,999 - INFO - Waiting for 3.81 seconds...
+2025-03-21 12:45:44,813 - INFO - Scraping player details for Wild Card Game from https://www.baseball-almanac.com/wild_card/MLB_Wild_Card_Game.shtml
+2025-03-21 12:45:45,823 - INFO - Successfully retrieved https://www.baseball-almanac.com/wild_card/MLB_Wild_Card_Game.shtml
+2025-03-21 12:45:45,922 - WARNING - Bio section not found for Wild Card Game
+2025-03-21 12:45:45,925 - INFO - Progress saved to baseball_data\tests\test_1845_progress.json
+2025-03-21 12:45:45,925 - INFO - Waiting for 3.51 seconds...
+2025-03-21 12:45:49,436 - INFO - Scraping player details for World Series from https://www.baseball-almanac.com/ws/wsmenu.shtml
+2025-03-21 12:45:50,302 - INFO - Successfully retrieved https://www.baseball-almanac.com/ws/wsmenu.shtml
+2025-03-21 12:45:50,451 - WARNING - Bio section not found for World Series
+2025-03-21 12:45:50,459 - INFO - Progress saved to baseball_data\tests\test_1845_progress.json
+2025-03-21 12:45:50,459 - INFO - Waiting for 3.92 seconds...
+2025-03-21 12:45:54,381 - INFO - Scraping player details for Year by Year from https://www.baseball-almanac.com/yearmenu.shtml
+2025-03-21 12:45:55,193 - INFO - Successfully retrieved https://www.baseball-almanac.com/yearmenu.shtml
+2025-03-21 12:45:55,252 - WARNING - Bio section not found for Year by Year
+2025-03-21 12:45:55,261 - INFO - Progress saved to baseball_data\tests\test_1845_progress.json
+2025-03-21 12:45:55,263 - INFO - Waiting for 4.33 seconds...
+2025-03-21 12:45:59,589 - INFO - Scraping player details for Baseball Families from https://www.baseball-almanac.com/fammenu.shtml
+2025-03-21 12:46:00,478 - INFO - Successfully retrieved https://www.baseball-almanac.com/fammenu.shtml
+2025-03-21 12:46:00,494 - WARNING - Bio section not found for Baseball Families
+2025-03-21 12:46:00,499 - INFO - Progress saved to baseball_data\tests\test_1845_progress.json
+2025-03-21 12:46:00,499 - INFO - Waiting for 2.83 seconds...
+2025-03-21 12:46:03,336 - INFO - Scraping player details for Biographies from https://www.baseball-almanac.com/players/baseball_biographies.shtml
+2025-03-21 12:46:04,253 - INFO - Successfully retrieved https://www.baseball-almanac.com/players/baseball_biographies.shtml
+2025-03-21 12:46:04,270 - WARNING - Bio section not found for Biographies
+2025-03-21 12:46:04,279 - INFO - Progress saved to baseball_data\tests\test_1845_progress.json
+2025-03-21 12:46:04,280 - INFO - Waiting for 4.71 seconds...
+2025-03-21 12:46:08,989 - INFO - Scraping player details for Fabulous Feats from https://www.baseball-almanac.com/featmenu.shtml
+2025-03-21 12:46:09,880 - INFO - Successfully retrieved https://www.baseball-almanac.com/featmenu.shtml
+2025-03-21 12:46:09,908 - WARNING - Bio section not found for Fabulous Feats
+2025-03-21 12:46:09,909 - INFO - Progress saved to baseball_data\tests\test_1845_progress.json
+2025-03-21 12:46:09,909 - INFO - Waiting for 2.29 seconds...
+2025-03-21 12:46:12,201 - INFO - Scraping player details for Famous Firsts from https://www.baseball-almanac.com/frstmenu.shtml
+2025-03-21 12:46:13,080 - INFO - Successfully retrieved https://www.baseball-almanac.com/frstmenu.shtml
+2025-03-21 12:46:13,147 - WARNING - Bio section not found for Famous Firsts
+2025-03-21 12:46:13,149 - INFO - Progress saved to baseball_data\tests\test_1845_progress.json
+2025-03-21 12:46:13,149 - INFO - Waiting for 3.08 seconds...
+2025-03-21 12:47:49,071 - INFO - Starting test scrape for year 1845
+2025-03-21 12:47:49,071 - INFO - Scraping players born in 1845...
+2025-03-21 12:47:49,987 - INFO - Successfully retrieved https://www.baseball-almanac.com/players/baseball_births.php?y=1845
+2025-03-21 12:47:50,051 - INFO - Saved page HTML to baseball_data\tests\debug_year_1845_page.html for inspection
+2025-03-21 12:47:50,051 - INFO - Found 9 rows in the player table
+2025-03-21 12:47:50,051 - INFO - Scraping player details for Ned Cuthbert from https://www.baseball-almanac.com/players/player.php?p=cuthbne01
+2025-03-21 12:47:50,949 - INFO - Successfully retrieved https://www.baseball-almanac.com/players/player.php?p=cuthbne01
+2025-03-21 12:47:51,019 - WARNING - Bio section not found for Ned Cuthbert
+2025-03-21 12:47:51,023 - INFO - Progress saved to baseball_data\tests\test_1845_progress.json
+2025-03-21 12:47:51,025 - INFO - Waiting for 3.44 seconds...
+2025-03-21 12:47:54,464 - INFO - Scraping player details for Bob Ferguson from https://www.baseball-almanac.com/players/player.php?p=fergubo01
+2025-03-21 12:47:55,312 - INFO - Successfully retrieved https://www.baseball-almanac.com/players/player.php?p=fergubo01
+2025-03-21 12:47:55,418 - WARNING - Bio section not found for Bob Ferguson
+2025-03-21 12:47:55,419 - INFO - Progress saved to baseball_data\tests\test_1845_progress.json
+2025-03-21 12:47:55,422 - INFO - Waiting for 3.59 seconds...
+2025-03-21 12:47:59,011 - INFO - Scraping player details for Nat Hicks from https://www.baseball-almanac.com/players/player.php?p=hicksna01
+2025-03-21 12:47:59,899 - INFO - Successfully retrieved https://www.baseball-almanac.com/players/player.php?p=hicksna01
+2025-03-21 12:47:59,959 - WARNING - Bio section not found for Nat Hicks
+2025-03-21 12:47:59,962 - INFO - Progress saved to baseball_data\tests\test_1845_progress.json
+2025-03-21 12:47:59,962 - INFO - Waiting for 4.23 seconds...
+2025-03-21 12:48:04,193 - INFO - Scraping player details for Everett Mills from https://www.baseball-almanac.com/players/player.php?p=millsev01
+2025-03-21 12:48:05,070 - INFO - Successfully retrieved https://www.baseball-almanac.com/players/player.php?p=millsev01
+2025-03-21 12:48:05,155 - WARNING - Bio section not found for Everett Mills
+2025-03-21 12:48:05,159 - INFO - Progress saved to baseball_data\tests\test_1845_progress.json
+2025-03-21 12:48:05,159 - INFO - Waiting for 2.59 seconds...
+2025-03-21 12:48:07,753 - INFO - Scraping player details for Lip Pike from https://www.baseball-almanac.com/players/player.php?p=pikeli01
+2025-03-21 12:48:08,659 - INFO - Successfully retrieved https://www.baseball-almanac.com/players/player.php?p=pikeli01
+2025-03-21 12:48:08,749 - WARNING - Bio section not found for Lip Pike
+2025-03-21 12:48:08,753 - INFO - Progress saved to baseball_data\tests\test_1845_progress.json
+2025-03-21 12:48:08,753 - INFO - Waiting for 4.52 seconds...
+2025-03-21 12:48:13,279 - INFO - Added 5 players from 1845
+2025-03-21 12:48:13,281 - INFO - Test completed! 5 players saved to baseball_data\tests\test_1845_result.json
+2025-03-21 12:48:13,282 - INFO - Found 5 unique first names
+2025-03-21 12:48:13,282 - INFO - Found 5 unique last names
+2025-03-21 12:48:13,282 - INFO - Found 0 unique nicknames
+2025-03-21 13:12:46,213 - INFO - Starting test scrape for year 1845
+2025-03-21 13:12:46,213 - INFO - Scraping players born in 1845...
+2025-03-21 13:12:47,132 - INFO - Successfully retrieved https://www.baseball-almanac.com/players/baseball_births.php?y=1845
+2025-03-21 13:12:47,194 - INFO - Saved page HTML to baseball_data\tests\debug_year_1845_page.html for inspection
+2025-03-21 13:12:47,196 - INFO - Found 9 rows in the player table
+2025-03-21 13:12:47,198 - INFO - Scraping player details for Ned Cuthbert from https://www.baseball-almanac.com/players/player.php?p=cuthbne01
+2025-03-21 13:12:48,066 - INFO - Successfully retrieved https://www.baseball-almanac.com/players/player.php?p=cuthbne01
+2025-03-21 13:12:48,131 - INFO - Found birth name: Birth Name:
+2025-03-21 13:12:48,131 - INFO - Found nickname: Ned
+2025-03-21 13:12:48,138 - INFO - Progress saved to baseball_data\tests\test_1845_progress.json
+2025-03-21 13:12:48,138 - INFO - Waiting for 2.25 seconds...
+2025-03-21 13:12:50,387 - INFO - Scraping player details for Bob Ferguson from https://www.baseball-almanac.com/players/player.php?p=fergubo01
+2025-03-21 13:12:51,321 - INFO - Successfully retrieved https://www.baseball-almanac.com/players/player.php?p=fergubo01
+2025-03-21 13:12:51,428 - INFO - Found birth name: Birth Name:
+2025-03-21 13:12:51,428 - INFO - Found nickname: Death to Flying Things or Old Fergy
+2025-03-21 13:12:51,441 - INFO - Progress saved to baseball_data\tests\test_1845_progress.json
+2025-03-21 13:12:51,441 - INFO - Waiting for 4.43 seconds...
+2025-03-21 13:12:55,877 - INFO - Scraping player details for Nat Hicks from https://www.baseball-almanac.com/players/player.php?p=hicksna01
+2025-03-21 13:12:56,762 - INFO - Successfully retrieved https://www.baseball-almanac.com/players/player.php?p=hicksna01
+2025-03-21 13:12:56,805 - INFO - Found birth name: Birth Name:
+2025-03-21 13:12:56,805 - INFO - Found nickname: Nat
+2025-03-21 13:12:56,814 - INFO - Progress saved to baseball_data\tests\test_1845_progress.json
+2025-03-21 13:12:56,814 - INFO - Waiting for 2.06 seconds...
+2025-03-21 13:12:58,872 - INFO - Scraping player details for Everett Mills from https://www.baseball-almanac.com/players/player.php?p=millsev01
+2025-03-21 13:12:59,768 - INFO - Successfully retrieved https://www.baseball-almanac.com/players/player.php?p=millsev01
+2025-03-21 13:12:59,842 - INFO - Found birth name: Birth Name:
+2025-03-21 13:12:59,846 - INFO - Found nickname: None
+2025-03-21 13:12:59,853 - INFO - Progress saved to baseball_data\tests\test_1845_progress.json
+2025-03-21 13:12:59,855 - INFO - Waiting for 4.16 seconds...
+2025-03-21 13:13:04,011 - INFO - Scraping player details for Lip Pike from https://www.baseball-almanac.com/players/player.php?p=pikeli01
+2025-03-21 13:13:04,886 - INFO - Successfully retrieved https://www.baseball-almanac.com/players/player.php?p=pikeli01
+2025-03-21 13:13:04,958 - INFO - Found birth name: Birth Name:
+2025-03-21 13:13:04,958 - INFO - Found nickname: The Iron Batter
+2025-03-21 13:13:04,962 - INFO - Progress saved to baseball_data\tests\test_1845_progress.json
+2025-03-21 13:13:04,962 - INFO - Waiting for 3.30 seconds...
+2025-03-21 13:13:08,272 - INFO - Added 5 players from 1845
+2025-03-21 13:13:08,272 - INFO - Test completed! 5 players saved to baseball_data\tests\test_1845_result.json
+2025-03-21 13:13:08,275 - INFO - Found 1 unique first names
+2025-03-21 13:13:08,275 - INFO - Found 1 unique last names
+2025-03-21 13:13:08,275 - INFO - Found 6 unique nicknames
+2025-03-21 13:14:05,790 - INFO - Starting test scrape for year 1845
+2025-03-21 13:14:05,790 - INFO - Scraping players born in 1845...
+2025-03-21 13:14:06,732 - INFO - Successfully retrieved https://www.baseball-almanac.com/players/baseball_births.php?y=1845
+2025-03-21 13:14:06,797 - INFO - Saved page HTML to baseball_data\tests\debug_year_1845_page.html for inspection
+2025-03-21 13:14:06,800 - INFO - Found 9 rows in the player table
+2025-03-21 13:14:06,800 - INFO - Scraping player details for Ned Cuthbert from https://www.baseball-almanac.com/players/player.php?p=cuthbne01
+2025-03-21 13:14:07,675 - INFO - Successfully retrieved https://www.baseball-almanac.com/players/player.php?p=cuthbne01
+2025-03-21 13:14:07,763 - INFO - Found birth name: Birth Name:
+2025-03-21 13:14:07,763 - INFO - Found nickname: Ned
+2025-03-21 13:14:07,768 - INFO - Progress saved to baseball_data\tests\test_1845_progress.json
+2025-03-21 13:14:07,769 - INFO - Waiting for 4.63 seconds...
+2025-03-21 13:14:12,401 - INFO - Scraping player details for Bob Ferguson from https://www.baseball-almanac.com/players/player.php?p=fergubo01
+2025-03-21 13:14:13,284 - INFO - Successfully retrieved https://www.baseball-almanac.com/players/player.php?p=fergubo01
+2025-03-21 13:14:13,407 - INFO - Found birth name: Birth Name:
+2025-03-21 13:14:13,409 - INFO - Found nickname: Death to Flying Things or Old Fergy
+2025-03-21 13:14:13,412 - INFO - Progress saved to baseball_data\tests\test_1845_progress.json
+2025-03-21 13:14:13,412 - INFO - Waiting for 3.09 seconds...
+2025-03-21 13:14:16,502 - INFO - Scraping player details for Nat Hicks from https://www.baseball-almanac.com/players/player.php?p=hicksna01
+2025-03-21 13:14:17,357 - INFO - Successfully retrieved https://www.baseball-almanac.com/players/player.php?p=hicksna01
+2025-03-21 13:14:17,406 - INFO - Found birth name: Birth Name:
+2025-03-21 13:14:17,406 - INFO - Found nickname: Nat
+2025-03-21 13:14:17,411 - INFO - Progress saved to baseball_data\tests\test_1845_progress.json
+2025-03-21 13:14:17,411 - INFO - Waiting for 4.08 seconds...
+2025-03-21 13:14:21,498 - INFO - Scraping player details for Everett Mills from https://www.baseball-almanac.com/players/player.php?p=millsev01
+2025-03-21 13:14:22,359 - INFO - Successfully retrieved https://www.baseball-almanac.com/players/player.php?p=millsev01
+2025-03-21 13:14:22,431 - INFO - Found birth name: Birth Name:
+2025-03-21 13:14:22,431 - WARNING - Nickname not found for Everett Mills
+2025-03-21 13:14:22,435 - INFO - Progress saved to baseball_data\tests\test_1845_progress.json
+2025-03-21 13:14:22,435 - INFO - Waiting for 4.37 seconds...
+2025-03-21 13:14:26,812 - INFO - Scraping player details for Lip Pike from https://www.baseball-almanac.com/players/player.php?p=pikeli01
+2025-03-21 13:14:27,687 - INFO - Successfully retrieved https://www.baseball-almanac.com/players/player.php?p=pikeli01
+2025-03-21 13:14:27,766 - INFO - Found birth name: Birth Name:
+2025-03-21 13:14:27,766 - INFO - Found nickname: The Iron Batter
+2025-03-21 13:14:27,771 - INFO - Progress saved to baseball_data\tests\test_1845_progress.json
+2025-03-21 13:14:27,772 - INFO - Waiting for 3.25 seconds...
+2025-03-21 13:14:31,025 - INFO - Added 5 players from 1845
+2025-03-21 13:14:31,025 - INFO - Test completed! 5 players saved to baseball_data\tests\test_1845_result.json
+2025-03-21 13:14:31,025 - INFO - Found 1 unique first names
+2025-03-21 13:14:31,031 - INFO - Found 1 unique last names
+2025-03-21 13:14:31,031 - INFO - Found 5 unique nicknames
+2025-03-21 13:19:50,609 - INFO - Starting test scrape for year 1845
+2025-03-21 13:19:50,609 - INFO - Scraping players born in 1845...
+2025-03-21 13:19:51,506 - INFO - Successfully retrieved https://www.baseball-almanac.com/players/baseball_births.php?y=1845
+2025-03-21 13:19:51,576 - INFO - Saved page HTML to baseball_data\tests\debug_year_1845_page.html for inspection
+2025-03-21 13:19:51,578 - INFO - Found 9 rows in the player table
+2025-03-21 13:19:51,580 - INFO - Scraping player details for Ned Cuthbert from https://www.baseball-almanac.com/players/player.php?p=cuthbne01
+2025-03-21 13:19:52,552 - INFO - Successfully retrieved https://www.baseball-almanac.com/players/player.php?p=cuthbne01
+2025-03-21 13:19:52,629 - INFO - Found birth name: Edgar Edward Cuthbert
+2025-03-21 13:19:52,629 - INFO - Found nickname: Ned
+2025-03-21 13:19:52,638 - INFO - Progress saved to baseball_data\tests\test_1845_progress.json
+2025-03-21 13:19:52,640 - INFO - Waiting for 2.54 seconds...
+2025-03-21 13:19:55,176 - INFO - Scraping player details for Bob Ferguson from https://www.baseball-almanac.com/players/player.php?p=fergubo01
+2025-03-21 13:19:56,070 - INFO - Successfully retrieved https://www.baseball-almanac.com/players/player.php?p=fergubo01
+2025-03-21 13:19:56,187 - INFO - Found birth name: Robert Vavasour Ferguson
+2025-03-21 13:19:56,187 - INFO - Found nickname: Death to Flying Things or Old Fergy
+2025-03-21 13:19:56,194 - INFO - Progress saved to baseball_data\tests\test_1845_progress.json
+2025-03-21 13:19:56,194 - INFO - Waiting for 2.77 seconds...
+2025-03-21 13:19:58,966 - INFO - Scraping player details for Nat Hicks from https://www.baseball-almanac.com/players/player.php?p=hicksna01
+2025-03-21 13:19:59,867 - INFO - Successfully retrieved https://www.baseball-almanac.com/players/player.php?p=hicksna01
+2025-03-21 13:19:59,913 - INFO - Found birth name: Nathaniel Woodhull Hicks
+2025-03-21 13:19:59,918 - INFO - Found nickname: Nat
+2025-03-21 13:19:59,920 - INFO - Progress saved to baseball_data\tests\test_1845_progress.json
+2025-03-21 13:19:59,922 - INFO - Waiting for 3.47 seconds...
+2025-03-21 13:20:03,389 - INFO - Scraping player details for Everett Mills from https://www.baseball-almanac.com/players/player.php?p=millsev01
+2025-03-21 13:20:04,312 - INFO - Successfully retrieved https://www.baseball-almanac.com/players/player.php?p=millsev01
+2025-03-21 13:20:04,389 - INFO - Found birth name: Everett Mills
+2025-03-21 13:20:04,389 - WARNING - Nickname not found for Everett Mills
+2025-03-21 13:20:04,392 - INFO - Progress saved to baseball_data\tests\test_1845_progress.json
+2025-03-21 13:20:04,392 - INFO - Waiting for 3.26 seconds...
+2025-03-21 13:20:07,663 - INFO - Scraping player details for Lip Pike from https://www.baseball-almanac.com/players/player.php?p=pikeli01
+2025-03-21 13:20:08,484 - INFO - Successfully retrieved https://www.baseball-almanac.com/players/player.php?p=pikeli01
+2025-03-21 13:20:08,567 - INFO - Found birth name: Lipman Emanuel Pike
+2025-03-21 13:20:08,567 - INFO - Found nickname: The Iron Batter
+2025-03-21 13:20:08,572 - INFO - Progress saved to baseball_data\tests\test_1845_progress.json
+2025-03-21 13:20:08,572 - INFO - Waiting for 4.32 seconds...
+2025-03-21 13:20:12,898 - INFO - Added 5 players from 1845
+2025-03-21 13:20:12,900 - INFO - Test completed! 5 players saved to baseball_data\tests\test_1845_result.json
+2025-03-21 13:20:12,901 - INFO - Found 5 unique first names
+2025-03-21 13:20:12,901 - INFO - Found 5 unique last names
+2025-03-21 13:20:12,901 - INFO - Found 5 unique nicknames
