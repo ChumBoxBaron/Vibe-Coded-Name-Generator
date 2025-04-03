@@ -67,7 +67,11 @@ This project is actively under development. We've completed:
 
 ## Example Outputs
 
-The baseball name generator is already producing authentic-sounding vintage baseball player names. Here are some sample outputs from our current implementation:
+### Baseball Name Generator
+
+The baseball name generator produces authentic-sounding vintage baseball player names from the 1845-1920 era. Names are generated with a 35% chance of including a nickname (deliberately tuned below the actual 85% historical rate to ensure better variety). The generator prevents duplicate nicknames within a single batch of results, ensuring maximum variety.
+
+Here are some sample outputs from our current implementation:
 
 ```
 1. Fred "Red" Ellam
@@ -92,21 +96,21 @@ Most common components include:
 - Last names: Smith, Miller, Jones, Brown, Williams
 - Nicknames: Bill, Joe, Ed, Jim, Charlie
 
-### Census Name Generator Output
+### Census Name Generator
 
-The census-based name generator produces more contemporary names, drawing from modern US Census data. Here are sample outputs:
+The census-based name generator produces realistic contemporary names with proper capitalization, drawing from modern US Census data. Here are sample outputs:
 
 ```
-1. MARGARET HALL
-2. ANGELA ALMODOVAR
-3. GERALD THOMAS
-4. AMY SMITH
-5. MILTON BREWER
-6. BETTIE OLMSTEAD
-7. JASON BUTLER
-8. CHRISTOPHER FLYNN
-9. NICKOLAS PHILLIPS
-10. SETSUKO RODRIGUEZ
+1. Margaret Hall
+2. Angela Almodovar
+3. Gerald Thomas
+4. Amy Smith
+5. Milton Brewer
+6. Bettie Olmstead
+7. Jason Butler
+8. Christopher Flynn
+9. Nickolas Phillips
+10. Setsuko Rodriguez
 ```
 
 The generator draws from a comprehensive dataset of:
@@ -114,11 +118,19 @@ The generator draws from a comprehensive dataset of:
 - 88,799 unique last names
 
 Most common first names from census data:
-- JAMES (3.318%)
-- JOHN (3.271%)
-- ROBERT (3.143%)
+- James (3.318%)
+- John (3.271%)
+- Robert (3.143%)
 
-### Funny Names Generator Output
+### Unique Census Name Generator
+
+This version provides uncommon but realistic name combinations that avoid the most frequent pairings. It uses a simple rule to avoid combining top 100 most common first names with top 100 most common last names.
+
+### Claude's Fancier/Quanty-er Unique Names
+
+This advanced generator creates distinctive yet plausible names derived from census data using a sophisticated weighted system favoring rarer combinations.
+
+### Funny Names Generator
 
 Our newest addition is the Funny Names generator that creates names specifically designed to make children laugh. Here are some sample outputs:
 
@@ -142,7 +154,7 @@ The generator uses sophisticated pattern matching on census data to find names w
 Our generator uses different strategies to produce names:
 
 #### 1. Standard Census Name Generator
-Generates names by randomly selecting from Census data based on actual frequency distributions. This produces realistic names but tends to favor common names.
+Generates names by randomly selecting from Census data based on actual frequency distributions. This produces realistic names but tends to favor common names. All names are properly capitalized.
 
 #### 2. Unique Census Name Generator
 Uses a simple rule to avoid combining top 100 most common first names with top 100 most common last names. This ensures no extremely common combinations while maintaining realism.
@@ -192,6 +204,16 @@ The Funny Names generator uses two distinct approaches to create child-friendly 
   This algorithm maintains a curated set of "funny" first and last names and also uses pattern matching to identify names in the census database that match crude humor patterns.
 
 Both approaches are implemented in a single generator that alternates between them, providing variety while maintaining age-appropriate humor that specifically appeals to children.
+
+## Web Interface Features
+
+The name generator web interface offers several intuitive features:
+
+- **Generator Type Selection**: Choose from multiple name generation algorithms
+- **Descriptive Information**: Each generator type includes a brief description of what it produces
+- **Customizable Output Count**: Select how many names to generate at once
+- **Instant Generation**: Names are generated quickly without page refresh
+- **Mobile-Friendly Design**: Responsive layout works well on all devices
 
 ## Milestones
 
