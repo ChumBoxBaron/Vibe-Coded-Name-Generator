@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vibe-Coded Name Generator</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <style>
+        .name-card {
+            transition: transform 0.2s;
+        }
+        .name-card:hover {
+            transform: translateY(-2px);
+        }
+    </style>
+</head>
+<body class="bg-gray-100 min-h-screen">
+    <div class="container mx-auto px-4 py-8">
+        <header class="text-center mb-12">
+            <h1 class="text-4xl font-bold text-gray-800 mb-4">Vibe-Coded Name Generator</h1>
+            <p class="text-gray-600">Generate unique, funny names from historical baseball players and census data</p>
+        </header>
+
+        <div class="max-w-2xl mx-auto bg-white rounded-lg shadow-lg p-6 mb-8">
+            <div class="flex flex-col space-y-4">
+                <div class="flex items-center space-x-4">
+                    <label class="text-gray-700">Generator Type:</label>
+                    <select id="generatorType" class="form-select rounded border-gray-300">
+                        <option value="baseball">Old Timey Baseball Player</option>
+                        <option value="census">Census Names</option>
+                        <option value="unique_census">Unique Census Name</option>
+                        <option value="weighted_unique_census">Claude's Fancier/Quanty-er Unique Names</option>
+                        <option value="funny">Funny Names</option>
+                    </select>
+                </div>
+                <div class="flex items-center space-x-4">
+                    <label class="text-gray-700">Number of Names:</label>
+                    <input type="number" id="nameCount" min="1" max="20" value="5" 
+                           class="form-input rounded border-gray-300 w-20">
+                </div>
+                <button onclick="generateNames()" 
+                        class="bg-blue-500 text-white px-6 py-2 rounded hover:bg-blue-600 transition-colors">
+                    Generate Names
+                </button>
+            </div>
+        </div>
+
+        <div id="results" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+            <!-- Results will be populated here -->
+        </div>
+
+        <div id="loading" class="hidden text-center mt-8">
+            <div class="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-500 mx-auto"></div>
+        </div>
+    </div>
+
+    <script>
+        async function generateNames() {
+            const generatorType = document.getElementById('generatorType').value;
+            const count = document.getElementById('nameCount').value;
+            const resultsDiv = document.getElementById('results');
+            const loadingDiv = document.getElementById('loading');
+
+            // Show loading spinner
+            loadingDiv.classList.remove('hidden');
+            resultsDiv.innerHTML = '';
+
+            try {
+                const response = await fetch('/generate', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({
+                        type: generatorType,
+                        count: count
+                    })
+                });
+
+                const data = await response.json();
+
+                if (data.success) {
+                    resultsDiv.innerHTML = data.names.map(name => `
+                        <div class="name-card bg-white p-4 rounded-lg shadow hover:shadow-md">
+                            <p class="text-xl font-semibold text-gray-800">${name}</p>
+                        </div>
+                    `).join('');
+                } else {
+                    resultsDiv.innerHTML = `
+                        <div class="col-span-full text-center text-red-500">
+                            Error: ${data.error}
+                        </div>
+                    `;
+                }
+            } catch (error) {
+                resultsDiv.innerHTML = `
+                    <div class="col-span-full text-center text-red-500">
+                        Error: Failed to generate names. Please try again.
+                    </div>
+                `;
+            } finally {
+                loadingDiv.classList.add('hidden');
+            }
+        }
+    </script>
+</body>
+</html> 

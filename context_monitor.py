@@ -14,6 +14,7 @@ from rich.progress import Progress
 from rich.live import Live
 from rich.table import Table
 import config
+from platform_utils import get_platform_specific_counters
 
 console = Console()
 
@@ -27,6 +28,17 @@ class ContextMonitor:
         self.console = Console()
         self.session_start_time = datetime.now()
         self.session_duration = 0
+        self.open_tabs = 0
+        self.open_terminals = 0
+
+    def update_tab_and_terminal_counts(self):
+        """Update the count of open tabs and terminals."""
+        try:
+            self.open_tabs, self.open_terminals = get_platform_specific_counters()
+        except Exception as e:
+            self.console.print(f"[yellow]Warning: Could not count tabs/terminals: {str(e)}[/yellow]")
+            self.open_tabs = 0
+            self.open_terminals = 0
 
     def count_tokens(self, text: str) -> int:
         """Count the number of tokens in a text string."""
@@ -42,17 +54,32 @@ class ContextMonitor:
             self.console.print(f"[red]Error reading {file_path}: {str(e)}[/red]")
             return 0
 
+    def should_ignore_file(self, file_path: str) -> bool:
+        """Check if a file should be ignored based on patterns."""
+        # Check if file is in ignored directory
+        if any(ignored in file_path for ignored in config.IGNORED_DIRS):
+            return True
+        
+        # Check if file matches any ignored patterns
+        if any(Path(file_path).match(ignored) for ignored in config.IGNORED_FILES):
+            return True
+        
+        return False
+
     def update_token_counts(self):
         """Update token counts for all monitored files."""
         self.total_tokens = 0
         self.file_tokens.clear()
         self.session_duration = (datetime.now() - self.session_start_time).total_seconds() / 3600  # hours
 
+        # Update tab and terminal counts
+        self.update_tab_and_terminal_counts()
+
         # Count file tokens
         for pattern in config.FILE_PATTERNS:
             for dir_path in config.MONITORED_DIRS:
                 for file_path in glob.glob(os.path.join(dir_path, pattern)):
-                    if any(ignored in file_path for ignored in config.IGNORED_DIRS):
+                    if self.should_ignore_file(file_path):
                         continue
                     
                     tokens = self.count_file_tokens(file_path)
@@ -60,7 +87,6 @@ class ContextMonitor:
                     self.total_tokens += tokens
 
         # Estimate chat history tokens (this is a rough estimate)
-        # You might want to implement actual chat history tracking based on your needs
         self.chat_history_tokens = self.total_tokens * 0.5  # Assuming chat history is roughly half of code tokens
 
     def get_usage_percentage(self) -> float:
@@ -81,16 +107,30 @@ class ContextMonitor:
         recommendations = []
         percentage = self.get_usage_percentage()
         
+        # Context window usage recommendations
         if percentage >= config.CRITICAL_THRESHOLD:
-            recommendations.append("⚠️ CRITICAL: Start a new session immediately!")
+            recommendations.append("⚠️ CRITICAL: Start a new chat session immediately!")
         elif percentage >= config.WARNING_THRESHOLD:
-            recommendations.append("⚠️ WARNING: Consider starting a new session soon")
+            recommendations.append("⚠️ WARNING: Consider starting a new chat session soon")
         
-        if self.session_duration > 2:  # If session is longer than 2 hours
-            recommendations.append("⏰ Consider starting a new session after 2+ hours of work")
+        # Session duration recommendations
+        if self.session_duration > config.SESSION_DURATION_WARNING:
+            recommendations.append(f"⏰ Consider starting a new chat session after {config.SESSION_DURATION_WARNING}+ hours of work")
         
-        if self.total_tokens > 4000:  # If codebase is getting large
+        # Code organization recommendations
+        if self.total_tokens > 4000:
             recommendations.append("📁 Consider splitting your code into smaller modules")
+        
+        # Workspace management recommendations
+        if self.open_tabs > config.MAX_OPEN_TABS:
+            recommendations.append(f"📑 You have {self.open_tabs} tabs open. Consider closing some to reduce context load")
+        
+        if self.open_terminals > config.MAX_OPEN_TERMINALS:
+            recommendations.append(f"💻 You have {self.open_terminals} terminals open. Consider closing some to reduce context load")
+        
+        # General best practices
+        recommendations.append("💡 Remember to start new chats when switching between different tasks")
+        recommendations.append("💡 Close unused tabs and terminals to keep your context clean")
         
         return recommendations
 
@@ -107,6 +147,8 @@ class ContextMonitor:
         table.add_row("Estimated Chat Tokens", str(self.chat_history_tokens))
         table.add_row("Total Context Usage", f"[{color}]{percentage:.1f}%[/{color}]")
         table.add_row("Session Duration", f"{self.session_duration:.1f} hours")
+        table.add_row("Open Tabs", str(self.open_tabs))
+        table.add_row("Open Terminals", str(self.open_terminals))
         
         recommendations = self.get_session_recommendations()
         if recommendations:

@@ -25,6 +25,46 @@ class BaseballNameGenerator:
         # Make sure we have data
         self.load_data()
     
+    def clean_name(self, name):
+        """
+        Clean a name by removing invalid characters or fixing formatting issues.
+        
+        Args:
+            name (str): The name to clean
+            
+        Returns:
+            str: The cleaned name or empty string if name can't be salvaged
+        """
+        if not name or len(name) < 2:
+            return ""
+            
+        # Reject names with @ symbol completely
+        if '@' in name:
+            return ""
+            
+        # Remove trailing parenthesis
+        if name.endswith(')'):
+            # If it's likely just a trailing parenthesis issue, remove it
+            if name.count(')') > name.count('('):
+                name = name.rstrip(')')
+        
+        # For balanced parentheses in nicknames (like descriptive text), keep as is
+        
+        return name
+    
+    def is_valid_name(self, name):
+        """
+        Check if a name is valid after cleaning.
+        
+        Args:
+            name (str): The name to check
+            
+        Returns:
+            bool: True if the name is valid, False otherwise
+        """
+        name = self.clean_name(name)
+        return name != "" and len(name) >= 2
+    
     def load_data(self):
         """Load name data from the data file."""
         if not os.path.exists(NAME_DATA_FILE):
@@ -46,25 +86,30 @@ class BaseballNameGenerator:
             for player in players:
                 # First names
                 first = player.get("first_name", "")
-                if first and len(first) > 1:
-                    first_counter[first] += 1
+                cleaned_first = self.clean_name(first)
+                if cleaned_first:
+                    first_counter[cleaned_first] += 1
                 
                 # Last names
                 last = player.get("last_name", "")
-                if last and len(last) > 1:
-                    last_counter[last] += 1
+                cleaned_last = self.clean_name(last)
+                if cleaned_last:
+                    last_counter[cleaned_last] += 1
                 
                 # Nicknames
                 nick = player.get("nickname", "")
-                if nick and nick != "None" and len(nick) > 1 and nick.lower() != "none":
-                    # Some nicknames have "or" in them, split those
-                    if " or " in nick.lower():
-                        parts = nick.split(" or ")
-                        for part in parts:
-                            if part and len(part.strip()) > 1:
-                                nickname_counter[part.strip()] += 1
-                    else:
-                        nickname_counter[nick] += 1
+                if nick and nick != "None" and nick.lower() != "none":
+                    cleaned_nick = self.clean_name(nick)
+                    if cleaned_nick:
+                        # Some nicknames have "or" in them, split those
+                        if " or " in cleaned_nick.lower():
+                            parts = cleaned_nick.split(" or ")
+                            for part in parts:
+                                cleaned_part = self.clean_name(part.strip())
+                                if cleaned_part:
+                                    nickname_counter[cleaned_part] += 1
+                        else:
+                            nickname_counter[cleaned_nick] += 1
             
             # Convert to lists and sort by frequency
             self.first_names = sorted([(name, count) for name, count in first_counter.items()], 
