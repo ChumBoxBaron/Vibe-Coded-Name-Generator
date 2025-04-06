@@ -254,13 +254,131 @@ class FunnyNameGenerator(BaseNameGenerator):
         Returns:
             List of funny names
         """
-        return [self.generate_name() for _ in range(count)]
+        # Track used names to prevent duplicates
+        used_first_names = set()
+        used_last_names = set()
+        results = []
+        
+        max_attempts = count * 10  # Prevent infinite loops if not enough variety
+        attempts = 0
+        
+        while len(results) < count and attempts < max_attempts:
+            name = self.generate_name()
+            # Split the name to check first and last parts
+            parts = name.split()
+            
+            # Handle names with nicknames (which have format "First 'Nickname' Last")
+            if '"' in name:
+                # Extract just the first and last name from the format
+                name_parts = name.split('"')
+                if len(name_parts) >= 3:
+                    first_name = name_parts[0].strip()
+                    last_name = name_parts[2].strip()
+                else:
+                    # Skip malformed names
+                    attempts += 1
+                    continue
+            elif len(parts) >= 2:  # Regular names with at least first and last
+                first_name = parts[0]
+                last_name = parts[-1]  # Last part is the surname
+            else:
+                # Skip malformed names
+                attempts += 1
+                continue
+                
+            # Check if either first or last name has been used
+            if first_name in used_first_names or last_name in used_last_names:
+                attempts += 1
+                continue
+            
+            # Add the name to results and track used names
+            results.append(name)
+            used_first_names.add(first_name)
+            used_last_names.add(last_name)
+            attempts += 1
+        
+        # If we couldn't generate enough unique names, fill the remaining with regular names
+        if len(results) < count:
+            remaining = count - len(results)
+            print(f"Warning: Could only generate {len(results)} unique funny names. Adding {remaining} non-unique names.")
+            results.extend([self.generate_name() for _ in range(remaining)])
+            
+        return results
+    
+    def calculate_possible_combinations(self) -> dict:
+        """
+        Calculate the total number of possible funny name combinations based on current rules.
+        
+        Returns:
+            Dictionary with statistics about possible name combinations
+        """
+        # Count names that match our patterns
+        silly_first_count = sum(len(names) for names in self.silly_first_names.values())
+        silly_last_count = sum(len(names) for names in self.silly_last_names.values())
+        crude_first_count = sum(len(names) for names in self.crude_first_names.values())
+        crude_last_count = sum(len(names) for names in self.crude_last_names.values())
+        
+        # Adjust for duplicates (names appearing in multiple pattern categories)
+        unique_silly_first = set()
+        for names in self.silly_first_names.values():
+            unique_silly_first.update(names)
+            
+        unique_silly_last = set()
+        for names in self.silly_last_names.values():
+            unique_silly_last.update(names)
+            
+        unique_crude_first = set()
+        for names in self.crude_first_names.values():
+            unique_crude_first.update(names)
+            
+        unique_crude_last = set()
+        for names in self.crude_last_names.values():
+            unique_crude_last.update(names)
+        
+        # Count innuendo names that actually exist in our data
+        innuendo_first_available = self.innuendo_first_names & set(self.weighted_first_names)
+        innuendo_last_available = self.innuendo_last_names & set(self.weighted_last_names)
+        
+        # Calculate total possible combinations
+        silly_sound_combinations = len(unique_silly_first) * len(unique_silly_last)
+        crude_combinations = len(unique_crude_first) * len(unique_crude_last)
+        innuendo_combinations = len(innuendo_first_available) * len(innuendo_last_available)
+        
+        # Total possible combinations
+        total_combinations = silly_sound_combinations + crude_combinations + innuendo_combinations
+        
+        return {
+            "silly_sound": {
+                "first_names": len(unique_silly_first),
+                "last_names": len(unique_silly_last),
+                "combinations": silly_sound_combinations
+            },
+            "crude": {
+                "first_names": len(unique_crude_first),
+                "last_names": len(unique_crude_last),
+                "combinations": crude_combinations
+            },
+            "innuendo": {
+                "first_names": len(innuendo_first_available),
+                "last_names": len(innuendo_last_available),
+                "combinations": innuendo_combinations
+            },
+            "total_combinations": total_combinations
+        }
 
 def main():
     """Main function to demonstrate the funny name generator."""
     generator = FunnyNameGenerator()
     
     print("\n=== Funny Name Generator ===\n")
+    
+    # Calculate and display possible combinations
+    combinations = generator.calculate_possible_combinations()
+    print("\nPossible Name Combinations Statistics:")
+    print(f"Silly Sound Names: {combinations['silly_sound']['first_names']} first names × {combinations['silly_sound']['last_names']} last names = {combinations['silly_sound']['combinations']} combinations")
+    print(f"Crude Humor Names: {combinations['crude']['first_names']} first names × {combinations['crude']['last_names']} last names = {combinations['crude']['combinations']} combinations")
+    print(f"Innuendo Names: {combinations['innuendo']['first_names']} first names × {combinations['innuendo']['last_names']} last names = {combinations['innuendo']['combinations']} combinations")
+    print(f"Total Possible Funny Names: {combinations['total_combinations']}\n")
     
     # Generate silly sound names
     print("Silly Sound Names:")
@@ -274,9 +392,20 @@ def main():
     
     # Generate mixed funny names
     print("\nMixed Funny Names:")
-    names = generator.generate_multiple(5)
+    names = generator.generate_multiple(10)
     for i, name in enumerate(names, 1):
         print(f"{i}. {name}")
+    
+    # Check for duplicates in a larger batch to show the deduplication
+    print("\nChecking for duplicates in a larger batch of 20 names...")
+    names = generator.generate_multiple(20)
+    first_names = [name.split()[0] for name in names]
+    last_names = [name.split()[-1] for name in names]
+    
+    print(f"Number of unique first names: {len(set(first_names))} out of {len(names)}")
+    print(f"Number of unique last names: {len(set(last_names))} out of {len(names)}")
+    print(f"All first names are unique: {len(set(first_names)) == len(names)}")
+    print(f"All last names are unique: {len(set(last_names)) == len(names)}")
 
 if __name__ == "__main__":
     main() 

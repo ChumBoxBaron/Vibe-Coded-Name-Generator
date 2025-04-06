@@ -31,7 +31,7 @@ def index():
 def generate_names():
     data = request.get_json()
     generator_type = data.get('type', 'baseball')
-    count = int(data.get('count', 5))
+    count = int(data.get('count', 10))
     
     try:
         if generator_type == 'baseball':
